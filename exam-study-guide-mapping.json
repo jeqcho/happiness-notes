@@ -1,0 +1,265 @@
+{
+  "1": {
+    "philosopher": "Plato",
+    "exam": "Exam 1",
+    "topics": [
+      "The tripartite structure of the soul",
+      "The ideal condition for a human being",
+      "Disharmony between parts of the soul as ill-being",
+      "Two scenarios to illustrate true love of wisdom"
+    ],
+    "full_description": "Plato: The tripartite structure of the soul; the ideal condition for a human being; disharmony between parts of the soul as ill-being; two scenarios to illustrate true love of wisdom"
+  },
+  "2": {
+    "philosopher": "Aristotle",
+    "exam": "Exam 1",
+    "topics": [
+      "What is eudaimonia",
+      "Aristotle's argument that for a person, eudaimonia is living in accordance with reason",
+      "Excellence (virtue) as the mean between deficiency and excess",
+      "The importance of practice in developing excellence (virtue)"
+    ],
+    "full_description": "Aristotle: What is eudaimonia; Aristotle's argument that for a person, eudaimonia is living in accordance with reason; excellence (virtue) as the mean between deficiency and excess; the importance of practice in developing excellence (virtue)"
+  },
+  "3": {
+    "philosopher": "Epictetus (Stoicism)",
+    "exam": "Exam 1",
+    "topics": [
+      "Two parts to living well",
+      "What is up to you and what is not",
+      "How to manage unsatisfied desire",
+      "Freedom of the mind as true freedom (who is the true slave, and who is the true master)"
+    ],
+    "full_description": "Epictetus (Stoicism): Two parts to living well; what is up to you and what is not; how to manage unsatisfied desire; freedom of the mind as true freedom (who is the true slave, and who is the true master)"
+  },
+  "4": {
+    "philosopher": "Epicurus (Epicureanism)",
+    "exam": "Exam 1",
+    "topics": [
+      "Three theses of the Epicureans",
+      "How best to pursue pleasure, and the absence of pain (satisfy the basic needs of the body and mind; not fame, wealth, luxuries, etc.)",
+      "The role of friendship",
+      "The argument for the claim that 'death is nothing'"
+    ],
+    "full_description": "Epicurus (Epicureanism): Three theses of the Epicureans; how best to pursue pleasure, and the absence of pain (satisfy the basic needs of the body and mind; not fame, wealth, luxuries, etc.); the role of friendship; the argument for the claim that \"death is nothing\""
+  },
+  "5": {
+    "philosopher": "The Upanishads",
+    "exam": "Exam 1",
+    "topics": [
+      "Atman = Brahman",
+      "Ultimate vs superficial reality",
+      "The actor metaphor and the ocean metaphor (different kinds of identity)",
+      "The path of pleasure vs the path of joy"
+    ],
+    "full_description": "The Upanishads: Atman = Brahman; ultimate vs superficial reality; the actor metaphor and the ocean metaphor (different kinds of identity); the path of pleasure vs the path of joy"
+  },
+  "6": {
+    "philosopher": "The Bhagavad Gita",
+    "exam": "Exam 1",
+    "topics": [
+      "Which features of your identity are important and ultimately valuable, and which are not",
+      "How to approach work as meditation (working without distraction; two common sources of distraction; three reasons to work this way)",
+      "Detachment from outcome/reward"
+    ],
+    "full_description": "The Bhagavad Gita: Which features of your identity are important and ultimately valuable, and which are not; how to approach work as meditation (working without distraction; two common sources of distraction; three reasons to work this way); detachment from outcome/reward"
+  },
+  "7": {
+    "philosopher": "The Pali Canon (Buddhism)",
+    "exam": "Exam 1",
+    "topics": [
+      "The four noble truths",
+      "The distinction between preference and attachment",
+      "How to practice letting go (non-clinging) and the lake metaphor",
+      "Awareness without resistance (don't cling, don't push away, don't ignore)"
+    ],
+    "full_description": "The Pali Canon (Buddhism): The four noble truths; the distinction between preference and attachment; how to practice letting go (non-clinging) and the lake metaphor; awareness without resistance (don't cling, don't push away, don't ignore)"
+  },
+  "8": {
+    "philosopher": "Mencius",
+    "exam": "Exam 1",
+    "topics": [
+      "Human nature is good",
+      "We all have the sprout of benevolence",
+      "Mencius' arguments for this claim",
+      "What is the alternative view of the egoist",
+      "How does the egoist object to Mencius' argument, and how might Mencius reply (focus on motivation for action)",
+      "Extending benevolence"
+    ],
+    "full_description": "Mencius: Human nature is good; we all have the sprout of benevolence; Mencius' arguments for this claim; what is the alternative view of the egoist; how does the egoist object to Mencius' argument, and how might Mencius reply (focus on motivation for action); extending benevolence"
+  },
+  "9": {
+    "philosopher": "Dao De Jing",
+    "exam": "Exam 1",
+    "topics": [
+      "Freedom vs precise rules",
+      "How can 'pushing' for something in the form of precise rules sometimes backfire",
+      "How, if at all, should we try to influence events",
+      "Intrinsic vs extrinsic motivation",
+      "The contrarian impulse",
+      "Understanding before action"
+    ],
+    "full_description": "Dao De Jing: Freedom vs precise rules; how can \"pushing\" for something in the form of precise rules sometimes backfire; how, if at all, should we try to influence events; intrinsic vs extrinsic motivation; the contrarian impulse; understanding before action"
+  },
+  "10": {
+    "philosopher": "Zhuangzi",
+    "exam": "Exam 1",
+    "topics": [
+      "Virtues and vices in Daoism",
+      "Embracing uncertainty, change, transformation",
+      "The difference between sincerity, authenticity, and genuine pretending, and which is recommended in the Zhuangzi"
+    ],
+    "full_description": "Zhuangzi: Virtues and vices in Daoism; embracing uncertainty, change, transformation; the difference between sincerity, authenticity, and genuine pretending, and which is recommended in the Zhuangzi"
+  },
+  "lyubomirsky": {
+    "philosopher": "Sonja Lyubomirsky",
+    "exam": "Exam 2",
+    "topics": [
+      "At least three limitations of the scientific literature on happiness, as explained in lecture",
+      "At least four strategies recommended by Lyubomirsky for becoming happier"
+    ],
+    "full_description": "Sonja Lyubomirsky: Describe at least three limitations of the scientific literature on happiness, as explained in lecture. Describe at least four strategies recommended by Lyubomirsky for becoming happier."
+  },
+  "11": {
+    "philosopher": "Jeremy Bentham and John Stuart Mill (not in lecture outlines)",
+    "exam": "Exam 2",
+    "topics": [
+      "Bentham's version of hedonism (that pleasure is the only good; that relevant dimensions of variation are only intensity and duration)",
+      "Bentham's view about what motivates people to act (pleasure/pain)",
+      "Bentham's view about how we ought to act",
+      "The nature of the tension between Bentham's view about what motivates people to act, and how we ought to act",
+      "Mill's disagreement with Bentham about the relevant differences between different pleasures",
+      "Mill's distinction between 'higher' and 'lower' pleasures",
+      "Mill's argument for the claim that the so-called higher pleasures are more valuable, even holding fixed intensity and duration",
+      "An objection to this argument that was described in lecture"
+    ],
+    "full_description": "Jeremy Bentham and John Stuart Mill: You should be able to describe Bentham's version of hedonism (that pleasure is the only good; that relevant dimensions of variation are only intensity and duration), Bentham's view about what motivates people to act (pleasure/pain), and Bentham's view about how we ought to act. Explain the nature of the tension between Bentham's view about what motivates people to act, and how we ought to act. Explain Mill's disagreement with Bentham about the relevant differences between different pleasures, and Mill's distinction between \"higher\" and \"lower\" pleasures. Describe Mill's argument for the claim that the so-called higher pleasures are more valuable, even holding fixed intensity and duration. Describe an objection to this argument that was described in lecture."
+  },
+  "12": {
+    "philosopher": "Sonja Lyubomirsky (duplicate - see 'lyubomirsky' key)",
+    "exam": "Exam 2",
+    "topics": [
+      "At least three limitations of the scientific literature on happiness, as explained in lecture",
+      "At least four strategies recommended by Lyubomirsky for becoming happier"
+    ],
+    "full_description": "Sonja Lyubomirsky: Describe at least three limitations of the scientific literature on happiness, as explained in lecture. Describe at least four strategies recommended by Lyubomirsky for becoming happier.",
+    "note": "This is exam topic 12, but our lecture 11 is Lyubomirsky. Use the 'lyubomirsky' key for lecture 11."
+  },
+  "13": {
+    "philosopher": "Sartre Existentialism",
+    "exam": "Exam 2",
+    "topics": [
+      "Existence precedes essence",
+      "Each person is 'condemned to be free' (be sure to understand what libertarianism is and what determinism is)",
+      "A person's essence is created by them - indeed created only by their actions - and that they are free at any time to create a different essence",
+      "Whether you are a coward or a hero is determined by what you in fact do (and not anything else, such as your intentions, your personality, your 'potential,' etc.), and is up to you to change at any time",
+      "What, on Sartre's view, constitutes commitment, e.g. to a monogamous marriage",
+      "What constitutes love, e.g. of your mother"
+    ],
+    "full_description": "Sartre Existentialism: You should know that Sartre held the following views, and be prepared to explain them: Existence precedes essence; each person is \"condemned to be free\" (be sure to understand what libertarianism is and what determinism is). You should know and be able to explain Sartre's view that a person's essence is created by them - indeed created only by their actions - and that they are free at any time to create a different essence. E.g. whether you are a coward or a hero is determined by what you in fact do (and not anything else, such as your intentions, your personality, your 'potential,' etc.), and is up to you to change at any time. Be prepared to discuss what, on Sartre's view, constitutes commitment, e.g. to a monogamous marriage, and what constitutes love, e.g. of your mother."
+  },
+  "14": {
+    "philosopher": "Dan Haybron",
+    "exam": "Exam 2",
+    "topics": [
+      "The three dimensions of happiness, according to Dan Haybron",
+      "What compression is and how it fits into these three dimensions (with examples)",
+      "Which dimension is most important, according to Haybron, and why",
+      "What cognitive affirmation is, and what emotional affirmation is",
+      "Whether, according to Haybron, they go together, or come apart (sometimes or always), and why",
+      "Examples"
+    ],
+    "full_description": "Dan Haybron: You should be able to state and describe the three dimensions of happiness, according to Dan Haybron. You should be able to explain what compression is and how it fits into these three dimensions. Be prepared to give examples. Which dimension is most important, according to Haybron, and why? Explain what cognitive affirmation is, and what emotional affirmation is, and whether, according to Haybron, they go together, or come apart (sometimes or always), and why. Again, be prepared to give examples."
+  },
+  "15": {
+    "philosopher": "Martha Nussbaum",
+    "exam": "Exam 2",
+    "topics": [
+      "At least three central human capabilities identified by Nussbaum",
+      "What criteria she uses to determine whether something constitutes a central human capability",
+      "Her view that the different capabilities are incommensurable",
+      "The objection to life satisfaction theories of human flourishing from the phenomenon of adaptive preferences",
+      "Why, according to Nussbaum, there are good pains and bad pleasures",
+      "Discussion with respect to the examples of grief, fear, and someone who takes pleasure in harming others"
+    ],
+    "full_description": "Martha Nussbaum: You should be prepared to describe at least three central human capabilities identified by Nussbaum, and explain what criteria she uses to determine whether something constitutes a central human capability. Be able to explain her view that the different capabilities are incommensurable. Be able to explain the objection to life satisfaction theories of human flourishing from the phenomenon of adaptive preferences. Be able to explain why, according to Nussbaum, there are good pains and bad pleasures. Be able to discuss this with respect to the examples of grief, fear, and someone who takes pleasure in harming others."
+  },
+  "16": {
+    "philosopher": "Foragers",
+    "exam": "Exam 2",
+    "topics": [
+      "At least 5 of the features of forager societies listed on the lecture outline and discussed in lecture",
+      "How these may or may not be conducive to human flourishing",
+      "How they compare to the world we live in today"
+    ],
+    "full_description": "Foragers: Be able to describe in considerable detail at least 5 of the features of forager societies listed on the lecture outline and discussed in lecture. Be able to discuss how these may or may not be conducive to human flourishing, and how they compare to the world we live in today."
+  },
+  "17": {
+    "philosopher": "Wanting vs Liking; Supernormal Stimuli",
+    "exam": "Exam 2",
+    "topics": [
+      "The difference between wanting and liking",
+      "How this manifests in the case of drug addiction",
+      "What features of the brain underlie these different phenomena, according to current best theories in neuroscience",
+      "What a supernormal stimulus is",
+      "At least three examples observed in non-human animals",
+      "At least two phenomena that occur in humans that might plausibly be considered supernormal stimuli",
+      "Whether these are also cases of a divergence between wanting and liking",
+      "Whether they are cases in which we want something – have an urge to do it – but indulging the urge leads to diminished well-being, or some other important loss of value, over the long term"
+    ],
+    "full_description": "Wanting vs Liking; Supernormal Stimuli: Be prepared to describe in detail what the difference is between wanting and liking, and how this manifests in the case of drug addiction, and what features of the brain underlie these different phenomena, according to current best theories in neuroscience. Be prepared to describe what a supernormal stimulus is, and give at least three examples observed in non-human animals. Be prepared to describe at least two phenomena that occur in humans that might plausibly be considered supernormal stimuli, and consider whether or not these are also cases of a divergence between wanting and liking. Consider also whether they are cases in which we want something – have an urge to do it – but indulging the urge leads to diminished well-being, or some other important loss of value, over the long term."
+  },
+  "18": {
+    "philosopher": "Bob Waldinger and Marc Schulz, The Good Life",
+    "exam": "Exam 2",
+    "topics": [
+      "Why Waldinger and Schulz think it is important for people to cultivate their social fitness as well as physical fitness",
+      "The Harvard Study for Adult Development",
+      "Brene Brown's distinction between fitting in and belonging, and why she thinks fitting in is problematic",
+      "Three recommendations Waldinger and Schulz make for how to cultivate and strengthen close, supportive relationships: give time and attention; radical curiosity; give the support you want to receive",
+      "The WISER model for dealing with difficulties in relationships, with examples of each step",
+      "The distinction between the urgent and the important and how systematically prioritizing the urgent over the important can get in the way of cultivating and maintaining close, supportive relationships"
+    ],
+    "full_description": "Bob Waldinger and Marc Schulz, The Good Life: Explain why Waldinger and Schulz think it is important for people to cultivate their social fitness as well as physical fitness. Describe the Harvard Study for Adult Development in the course of doing so. Explain Brene Brown's distinction between fitting in and belonging, and why she thinks fitting in is problematic. Know the following three recommendations Waldinger and Schulz make for how to cultivate and strengthen close, supportive relationships: give time and attention; radical curiosity; give the support you want to receive. Be able to explain the WISER model for dealing with difficulties in relationships, and give examples of each step. Describe the distinction between the urgent and the important and how systematically prioritizing the urgent over the important can get in the way of cultivating and maintaining close, supportive relationships."
+  },
+  "19": {
+    "philosopher": "Robin Wall Kimmerer, Braiding Sweetgrass",
+    "exam": "Exam 2",
+    "topics": [
+      "The gift perspective",
+      "The progression from receiving a gift → gratitude → reciprocity/generosity",
+      "Why Kimmerer sees your very existence, both its origin and its continuation, as a gift from non-human people",
+      "Important differences between the market economy and the gift economy",
+      "Three reasons that Kimmerer thinks tell in favor of adopting the gift perspective",
+      "The thesis of mutual flourishing",
+      "At least 3 important features of the Honorable Harvest",
+      "The two questions Kimmerer thinks should guide how we relate to people, both human people and non-human people"
+    ],
+    "full_description": "Robin Wall Kimmerer, Braiding Sweetgrass: Describe the gift perspective. Describe the progression from receiving a gift → gratitude → reciprocity/generosity. Explain why Kimmerer sees your very existence, both its origin and its continuation, as a gift from non-human people. Describe important differences between the market economy and the gift economy. Explain the three reasons that Kimmerer thinks tell in favor of adopting the gift perspective. Describe the thesis of mutual flourishing, and at least 3 important features of the Honorable Harvest. Describe the two questions Kimmerer thinks should guide how we relate to people, both human people and non-human people."
+  },
+  "20": {
+    "philosopher": "Sam Wren-Lewis, The Happiness Problem",
+    "exam": "Exam 2",
+    "topics": [
+      "The control strategy",
+      "The understanding strategy",
+      "Why Sam Wren-Lewis thinks the control strategy is problematic",
+      "The possible risks and rewards of commitment, for example to a person (e.g. in a marriage) or to a project",
+      "Why Wren-Lewis thinks that in trying to understand others, we should not stop with a moral judgment about them, and why we need to look for a deeper explanation",
+      "At least one example in which looking for a deeper explanation leads to a deeper understanding of the person"
+    ],
+    "full_description": "Sam Wren-Lewis, The Happiness Problem: You should be able to describe the control strategy, and the understanding strategy, and why Sam Wren-Lewis thinks the control strategy is problematic. Explain the possible risks and rewards of commitment, for example to a person (e.g. in a marriage) or to a project. Explain why Wren-Lewis thinks that in trying to understand others, we should not stop with a moral judgment about them, and why we need to look for a deeper explanation. You should be able to describe at least one example in which looking for a deeper explanation leads to a deeper understanding of the person."
+  },
+  "21": {
+    "philosopher": "Dan Haybron, A Very Short Introduction to Happiness",
+    "exam": "Exam 2",
+    "topics": [
+      "Four practical guidelines to follow in order to live well",
+      "Detailed description of each one",
+      "For each of these suggestions, describe an example of what it might look like for someone to implement this in their life"
+    ],
+    "full_description": "Dan Haybron, A Very Short Introduction to Happiness: In the reading, Dan Haybron describes four practical guidelines to follow in order to live well. You should know what these four suggestions are, and be able to give a detailed description of each one of them. For each of these suggestions, you should be able to describe an example of what it might look like for someone to implement this in their life.",
+    "note": "Since I did not have time to present this material in full during lecture, you should review the reading to help you study."
+  }
+}
+

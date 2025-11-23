@@ -1,0 +1,925 @@
+6
+Emotional State
+I have diligently numbered the days of pure and genuine happiness which 
+have feUen to my lot; they amount to fourteen.
+Abd-El-Raham*
+1. INTRODUCTION
+Probably most languages have some counterpart to ‘happiness’ in its oldest 
+meaning, a term for prosperity, good fortune, ot “good hap”—roughly, well­
+being. This is the concept likely invoked at weddings, births, and other major 
+events where we wish, utterly vaguely, for the individuals’ lives to go well for 
+them: “May the newlyweds meet with happiness in their life together.” Once 
+upon a time, this may have been conceptual apparatus enough for the general 
+lot: the life of enviable fortune tended to be just that—mainly a matter of 
+luck—with little point in troubling yourself about how well you were actually 
+doing in that regard. Moreover, your well-being was at best a secondary concern. 
+What mattered then—and still today in many parts of the world—was less 
+a matter of personal fulfillment and more a matter of your family’s material 
+wealth and social standing. You married for cattle, not love, and he who died 
+with the most cows won. If you didn’t like cows, or your spouse, tough; no one 
+was asking.
+Once we started to regard the individual’s welfare as a top priority, and to 
+believe that something could actually be done about it, we needed a richer 
+vocabulary. The problem has been clear since human beings first setded down 
+and started accumulating things: outward prosperity and success hardly guarantee 
+personal flourishing; Abd-El-Raham found this out the hard way, after over fifty 
+years of seemingly unblemished good luck, with little to complain about, left 
+the tenth century Caliph of Cordoba desirous to complain. You can seem to be 
+wildly successful in outward terms and yet fail in achieving a happy life; so too 
+can the seemingly unsuccessful appear to thrive. If we want to promote and assess 
+individual well-being, we will need to focus on more substantive and concrete 
+matters than just formal, abstract notions like well-being or good fortune, since 
+it is not obvious what these things amount to. Since the traditional emphasis 
+on material endowments and public accomplishment plainly fails to suffice, we
+
+
+106 Part II: The NaPure of Happiness
+need concepts bearing on how well these things serve the person: never mind 
+just what you’ve got or what has happened in your life; how 3.K you doing? We 
+need, in addition to concepts regarding the condition of a person’s life, concepts 
+addressing the person’s condition. The concept of health is one such, but it shares 
+with external goods the difficulty that one can easily fare well with it yet still fall 
+far short of flourishing or a happy life. Good health is more or less necessary, but 
+not even close to sufficient, for well-being. Clearly, the missing element here is 
+how all these things relate to the person’s inner life: not her physical condition, 
+but her psychological condition. Does the person flourish psychologically? If not, 
+then the person does not flourish at all. If so, then the person probably does 
+flourish—or so, at any rate, it seems. This, if we can pull it oflF, is a wonderful 
+result: here we have a concrete, substantive good that most of us can agree is, if 
+not sufficient for well-being, then so central to it that we can regard this item as 
+a convenient proxy for it.
+What shall the word be for this psychological condition? Since a person’s 
+being in this condition (enough of the time) appears almost to suffice for a happy 
+life, why not adapt the familiar term and say, then, that the person is happy? 
+And so it makes perfect sense—as it would not given the original meaning 
+of the term—to sharpen our hopes for the newborn infant by expressing our 
+desire that she be “happy and healthy” throughout her days. Now the term 
+is no longer an evaluation of a life, but a description of a person’s psycho­
+logical condition. This is the psychological sense of the word identified in 
+Chapter 2.
+The aim of this chapter is to argue, in light of the reflections of the preceding 
+chapters, that this condition is most profitably understood as a matter of a 
+person’s emotional condition. I will begin with a default version of the emotional 
+state theory, and then discuss a fleshed-out form of the view, in which happiness 
+is understood as a kind of “psychic affirmation,” to illustrate some of the more 
+important types of states that happiness can involve. The next chapter fills in vari­
+ous gaps in the account, and argues that the psychological distinctions that con­
+cern us cut across, and extend beyond, the traditional categories of emotions and 
+moods. I sketch the elements of a fuller view that incorporates the new distinctions 
+and show that the resulting account of happiness is coherent and well-motivated. 
+Moreover, it points to important omissions in standard views of human affect, 
+and so should interest emotion researchers and others on that basis alone.
+A subsidiary goal of both chapters is to show that the popular “smiley-face” 
+stereotype of happiness, which may seem particularly salient on an emotional 
+state view, grossly distorts and oversimplifies the phenomenon: happiness has 
+a much richer, deeper, more complex, and less obvious psychology than the 
+common image suggests. Cheery feelings matter, and do not deserve the abuse 
+so often heaped on them, but they are a relatively uninteresting part of the story. 
+And much of the story, we will see, is likely to be surprisingly opaque to the 
+individual whose happiness is in question. So elusive, indeed, is the psychology of
+
+
+Emotional State 107
+happiness that I will not even try to offer a precise characterization of it: the theory 
+defended here will be filled in as carefully as I can manage, but a complete account 
+of happiness will require further progress in our scientific understanding of the 
+emotional realm. Certainly a reductive analysis in familiar folk psychological 
+terms, of the sort traditionally favored by analytical philosophers, will be out of 
+the question. Here is an example of what I mean. In “A Theory of Happiness,” 
+Wayne Davis offers what he takes to be a hedonistic account, defining happiness 
+as both believing and desiring the propositions one is thinking about.^ The 
+“happiness function” is:
+n
+h b{Pdd{Pi), where Pj,. . .P„ is an enumeration of all thoughts A is 
+i=\thinking.
+and
+A is happy at t iff ^ > 0
+A is unhappy at t iff < 0
+Meaning: “take every proposition A is thinking at the moment, multiply the 
+degree to which it is believed by the degree to which it is desired, add up all 
+the products, and the sum is A’s degree of happiness.”^ If the sum is positive, 
+A is happy; if negative, A is unhappy. This is, in significant respects, admirably 
+precise. But it is also the sort of old-fashioned conceptual analysis that rarely 
+yields believable results. As well, the theory is in significant ways imprecise: what 
+is meant, for instance, by ‘belief and ‘desire’? These terms cover a lot of ground, 
+and some of the things within their province yield a much less plausible theory 
+than others. And how are the beliefs and desires related? Is the idea that one 
+believes, of the proposition one desires, that it obtains? Or that one desires, of the 
+proposition one believes, that it obtain? Other readings are possible as well. At any 
+rate, I will not so much as attempt this sort of formal precision in what follows.
+My arguments will focus not on what it is to achieve happiness, but on the 
+more fundamental question of what makes a state happiness-constituting: in virtue 
+of what a state makes a constitutive difference in how happy or unhappy we are.'* 
+This is the crucial issue: for we want to be as happy as we can be, consistendy with 
+the other things that matter. The further question of whether we will actually be 
+happy, period, is less pressing. It also raises difficulties of its own.
+2. FROM PLEASURE TO HAPPINESS
+Since the emotional state theory can be seen as an effort to remedy the defects 
+of hedonism, it is worth recapping two of the arguments from Chapter 4. 
+First, it is psycholo^cally superficial: it incorporates only the experiential aspect 
+of our emotional conditions. Yet our emotional lives are extremely rich, and
+
+
+do not reduce to their experiential surfaces. They involve unconscious processes 
+of various sorts, and often have physiological components. Recall the paradigm 
+cases from Chapter 3: it is simply not credible to regard them merely as so 
+many experiential episodes. Nor is it plausible to claim that the states listed 
+are happiness-constituting only qua pleasures. One is unhappy by virtue of 
+being depressed, not by virtue of experiencing the unpleasantness of depression. 
+Happiness has depth that the pleasure theory misses.
+The second criticism of hedonism svas that it is too inclusive, counting many 
+irrelevant pleasures: in its usual incarnations, all pleasures and displeasures are 
+considered happiness-constituting. Yet many pleasures seem trivial or superficial, 
+making no difference to how happy we are. Even intensely pleasant experiences 
+can fail to impact our happiness: notoriously, sexual activity can leave us cold. 
+Sometimes it just doesn’t move us. This is one of the hard lessons dealt 
+to the unsophisticated libertine, or the troubled youth seeking to relieve his 
+melancholy through meaningless sexual encounters. Consider also the pain of 
+having one’s gouty toe stepped on. Most of us will find unhappiness in such 
+an experience. It is hard not to let intense pain get to you. But someone of a 
+stoic nature may be disciplined enough that such pains don’t get to her at all; 
+she maintains her equanimity throughout. Intuitively, her happiness remains 
+untouched.
+108 Pan II: The Nature of Happiness
+3. EMOTIONAL STATE THEORIES: THE DEFAULT VIEW
+Happiness in intelligent people is the rarest thing I know.
+Hemingway
+The distinction between happiness-constituting affects and mere pleasures seems 
+to concern whether a given affect involves one’s emotional condition. Certain 
+affects, notably “mere” physical pains and pleasures, seem not to be particularly 
+emotional, and need not make a difference in our emotional conditions: they 
+don’t get to us. Whereas others, such as the paradigm emotions and especially 
+moods, do seem to alter our emotional conditions while they last. I say “paradigm” 
+emotions because the term ‘emotion’ ranges extremely widely, including states 
+that seem not to be particularly emotional, or to involve our emotional conditions. 
+For instance, you might be angry with a distant government for some policy 
+you disapprove of, or afraid that this policy will have a bad outcome, yet never 
+feel the least bit angry or afraid; your attitudes are purely intellectualized, and 
+would at most implicate your emotional state were you to ruminate on the 
+matter and work yourself up into a genuine state of anger or fear about it. 
+Such notional “emotions” amount to litde more than beliefs, perhaps having no 
+affective component at all, and are psychologically very different from paradigm
+
+
+Emotional State 109
+emotions of anger and fear. 5 Thus we are sometimes careful to note that, while 
+we might be “angry” or “fear” something in some sense, we are not genuinely 
+mad or afraid. It is plausible that states of the latter sort diminish one’s happiness 
+thereby, whereas states of the more intellectualized sort do not. (If the reader’s 
+intuitions differ, this will probably be due to conceiving of happiness along the 
+lines of attitudinal hedonism, discussed in Chapter 4, or an a^regative form 
+of life satisfaction.) To capture the distinction, we might refer to the paradigm 
+emotions as “passions,” but this term may connote too much; I will just ^1 
+them “emotions” or “emotions proper.”
+Here is a simple version of the emotional state theory, what we might call the 
+default emotional state theory of happiness. It maintains that happiness consists in 
+a person’s overall emotional condition, which in turn consists in the aggregate 
+of her moods and emotions. To be happy, on this view, is for one’s emotional 
+condition to be, on the whole, positive. That is, the overall balance of one’s 
+moods and emotions is positive rather than negative; positive emotions and 
+moods outweigh the negative. As with a hedonistic account of happiness, the 
+emotional state view allows happiness to be assessed over arbitrarily brief or long 
+periods of time. As stated the theory is somewhat vague, but good enough to 
+give us a starting point for further reflection. I will argue shortly for several 
+modifications to this basic schema.
+An even simpler form of the theory would count only moods, or only emotions. 
+Without a special account of moods or emotions, however, such a move would 
+be hard to sustain. If being in a depressed, irritable, or anxious mood makes a 
+person less happy thereby, then presumably emotions of profound sadness or 
+anger can as well, and vice versa.
+The emotional state theory does not take happiness to be an emotion or 
+mood. It is, rather, a condition consisting in (at least) the aggregate of a person’s 
+emotions and moods, and this can be a complex matter. You can be cheerful and 
+anxious at the same time, for instance. It might be stricdy more accurate, then, 
+to call this an emotional condition” theory, but calling happiness an emotional 
+condition makes it sound like a disease. I will speak interchangeably of a person’s 
+emotional state and emotional condition.
+It is plausible that some son of emotional state theory can account for the 
+paradigm cases; this will become clearer in the discussion to follow. Note that 
+the acute emotion or mood of “feeling happy” is just one of the happiness- 
+constituting states. Its role in happiness is grotesquely exaggerated in the popular 
+imagination, doubtless accounting for much of the scorn heaped on happiness 
+by dysthymic philosophers and the like. Intuitively, most happy people don’t feel 
+happy most of the time: they may be relatively tranquil, fulfilled, in good spirits, 
+etc. They need not be brimming with giddy exhilaration. Indeed, a plausible form 
+of the emotional state theory could well allow that some happy individuals might 
+never feel happy: one can imagine an Archie Bunker-like kvetch—a New York 
+deli owner, say—who is generally fulfilled and emotionally untroubled, as his
+
+
+110 Pan II: The Nature of Happiness
+favorite sport, complaining, doesn’t get him down. He may, despite appearances, 
+be happy.
+This sort of point comes through well in one of the better literary depictions 
+of happiness, ''^ile Hemingway seems to have been no great fan of happiness 
+as such, he arguably left us one of its more compelling illustrations. The Old 
+Man and the Sea’s Santiago is not the imj^e of happiness in the “smiley-face” 
+sense, which turns up only briefly if at all, notably at the beginning, where 
+the reader learns that his eyes are “cheerful and undefeated.”® Yet he is a 
+model of what the ancients called ataraxia—tranquility, imperturbability—and 
+Hemingway’s exemplar, I suspect, of genuine happiness. Indeed, it is hard to 
+avoid the thought that the author very much envied the Cuban fisherman, who 
+appeared in some ways to be his opposite—unreflective, destitute, bereft of 
+physical comforts, and anonymous but utterly contented and at home in his 
+world, in contrast to Hemingway’s own uneasy wealth, fame, and intellectual 
+achievements. (Within a decade of its publication, which quickly garnered a 
+Pulitzer and a Nobel, Hemingway would take his own life. It may seem odd 
+to call Santiago unreflective, since much of the book is taken up with his 
+silent reflections, often perceptive and wise. But even the unreflective have an 
+inner monologue, and all of us engage in some reflection; it is a matter of 
+degree. “Do not think about sin, he thought. There are enough problems now 
+without sin. Also I have no understanding of it. . . Do not think about sin. 
+It is much too late for that and there are people who are paid to do it. Let 
+them think about it.”^ This is not someone you’d expect to find in a Left 
+Bank cafe clutching a well-worn copy of Being and Nothingness) Santiago’s 
+happy disposition shows itself at many points, but I will note just one: despite 
+his poverty, his rotten luck, and tremendous physical discomfort, his sleep 
+throughout is plainly untroubled, characterized by pleasant dreams of watching 
+lions on a beach and the like. The last we hear of him, “the old man was 
+dreaming about the lions,” evidendy unperturbed, even unimpressed, by the 
+long ordeal that had just culminated in losing a record catch to sharks.® Peaceful 
+slumbers are an ancient sign of the tranquil mind, and the scene recalls Plato’s 
+depiction of Socrates at the start of the Crito (see Chapter 1). Hemingway drives 
+the point home with the jarring introduction of clueless tourists immediately 
+before this. They see the tattered remains of Santiago’s marlin and take it for an 
+impressive shark. Santiago’s accomplishment will never be known beyond the 
+village.
+The emotional state theory bears some resemblance to hedonism, but dif­
+fers in at least two important respects. In one respect, it is more restrictive, 
+excluding many “superficial” pleasures that fail to implicate our emotional 
+conditions. In another respect, it is more expansive, incorporating our emo­
+tional conditions in their entirety, including their unconscious and dispositional 
+components. As well, it regards happiness as fundamentally a different sort of 
+entity: not merely a sum of conscious episodes or events, but a psychological
+
+
+Emotional State 111
+condition. (See Chapter 4.) This point, somewhat cryptic here, will become 
+clearer as we add further flesh to the version of the theory defended in this 
+chapter.
+So long as the reader grants the plausibility of some form of emotional state 
+theory, the central aim of this chapter will have been met. But though it is 
+possible for an emotional state theorist simply to identify happiness with the 
+aggregate of an individual’s moods and/or emotions, I think there is a more 
+helpful way to distinguish the relevant states. We will return to that question, 
+and discuss other technical matters, in the next chapter. In what remains of this 
+chapter, I want to go beyond the default view and develop the basic schema in 
+more concrete terms, aiming to illustrate the potential richness and depth, and 
+broad appeal, of an emotional state theory. This will also help the reader develop 
+an intuitive feel for the account before plunging into the more difficult territory 
+of the chapter to follow.
+4. THE THREE FACES OF HAPPINESS
+4.1. Introduction: happiness as psychic affirmation
+To fill out the emotional state view more concretely, it will be helpful to 
+start with a broad ideal that can help guide our reflections about the specifics. 
+A natural proposal is to think of being happy as an individual’s responding 
+favorably, in emotional terms, to her life—responding emotionally to her life as 
+if things are generally going well for her. This usefully parallels the competing 
+ideal of life satisfaction: more or less, the individual’s judging that her life is 
+going well enough for her. That is, roughly, responding rationally to her life 
+as if things are generally going well for her. We might say that life satisfaction 
+chiefly concerns the endorsement of the intellect, whereas happiness concerns 
+the endorsement of the emotional aspect of the self (the “psyche,” as I will 
+sometimes put it, for reasons to be discussed in the next chapter).» Call this 
+conditionaffirmation. In more pronounced forms, we might call it psychic 
+flourishing.^'^
+The question is what psychic affirmation amounts to. My goal here is to sketch 
+a rough and informal outline of a fuller view, with no pretensions at completeness 
+or exactitude. It will be enough if the reader comes away with some appreciation of 
+the diversity and elusiveness of the states encompassed by happiness. Approaching 
+the matter from a biological perspective, we can ask how it would make sense to 
+design emotional creatures such as ourselves. What sorts of emotional responses 
+would be required.^ I would conjecture that all emotional states instantiate 
+one or more of three basic modes of affirmative or negative response. At 
+the most basic level will be responses concerning the individual’s safety and 
+security: for example, letting one’s defenses down, making oneself fiilly at
+
+
+112 Part II: The Nature of Happiness
+home in one’s life— being in a state of utter attunement with one’s life, we 
+might say—as opposed to taking up a defensive stance. Next come responses 
+relating to the individual’s commitment to or engagement with her situation and 
+activities; is it worth investing much effort in them, or would it be wiser to 
+withdraw or disengage from them? Finally, there will be more or less explicit 
+endorsements signifying that one’s life is not just free of threat and worth pursuing 
+enthusiastically, but positively good, containing things that are to be built upon, 
+sustained, repeated, or sought in the future—as, for example, when one has just 
+achieved a goal or received a great benefit. (Theories of emotion frequently take 
+all affects to be of this sort, and accordingly one of my aims is to call attention to 
+other kinds of affective response.) While the three modes of response (arguably) 
+concern progressively less fondamental aspects of well-being, affects of each kind 
+can occur to some extent independently of the others. One need not enjoy 
+security, for instance, to experience something as a positive benefit; on the other 
+hand, the heights of joy may be unreachable for the deeply anxious. We will see 
+as well that some affects appear to instantiate more than one mode of response.
+For each of the three modes of response we can identify a corresponding aspect 
+or dimension of happiness. * ^ People have disagreed through the ages about the 
+relative importance of these dimensions, so that for each we can identify one or 
+more corresponding ideals that emphasize it. Since these ideals of living have 
+probably arisen in every civilized age, it will be helpful to connect them with the 
+familiar ancient Greek tradition, thus distinguishing Democritean, Aristotelian 
+and Dionysian, and Stoic ideals of happiness. I will discuss them in reverse order, 
+starting with the least fundamental, but most familiar:
+1. Endorsement (Democritean)
+2. Engagement (Aristotelian and Dionysian)
+3. Attunement (Stoic)
+Each mode of response encompasses negative as well as positive responses; 
+it will be convenient (if inelegant) to refer to the negative counterparts as 
+“disendorsement,” “disengagement,” and “disattunement.” I will not endorse 
+a particular ideal of happiness, though each dimension is important. And there 
+is clearly more than one way to be happy, as Mill observed in distinguishing 
+two of our three dimensions, writing that “the main constituents of a satisfied 
+life appear to be two, either of which by itself is often found sufficient for the 
+purpose: tranquillity, and excitement. With much tranquillity, many find that 
+they can be content with very little pleasure: with much excitement, many can 
+reconcile themselves to a considerable quantity of pain.”*^ (Note also that these 
+ideals can be driven by non-prudential considerations, such as beliefs about what 
+matters for virtue.) But I will suggest that the standard contemporary view of 
+happiness gets the relative priority of these dimensions pretty near backwards: 
+the dimensions listed above appear in ascending order of importance, whereas 
+we find the reverse ranking in the popular im^ination.
+
+
+Emotional State 113
+4.2. Endorsement
+My body restore for me. i ^
+My mind restore for me.
+Happily I recover. . .
+In beauty 1 walk.
+It is finished in beauty.
+The Night Chant (a Navajo healing 
+ceremony for mental illness)'^
+In the present era, the lion’s share of attention has gone to the endorsement 
+aspect of happiness, typified by affects along tht joy-sadness axis, especially those 
+of feeling happy or cheerful.*'* This is—or at least includes—the prototypically 
+American version of happiness, perhaps because it suits the American emphasis 
+on pursuing your dreams. Also, affects along this dimension are the hardest to 
+miss, as we tend to wear them on our faces, in smiles, frowns, laughter, and the 
+like. Even a child can grasp this sort of happiness. The historical literature, by 
+contrast, tends not to emphasize such affects, as we saw in Mill’s omission of 
+them in distinguishing the main varieties of happiness. Perhaps this is because 
+such affects can be so hard to sustain: it is difficult to make yourselfhappy 
+for any lengthy period of time, at least if you are not already that way by 
+temperament. As with sadness, happy feelings tend quickly to fade. But even 
+among the ancients this sort of ideal seems to have had its defenders, notably in 
+the views of Democritus—“the laughing philosopher”—who apparently held 
+our goal to be euthymia, roughly cheerfulness. We know little of Democritus’ 
+views, and there is reason to believe that he viewed euthymia as more a matter 
+of tranquility than smiley-face feelings. But he has been well-enough associated 
+with ideals of cheerfulness that we might reasonably deem ideals of happiness 
+that emphasize such feelings “Democritean.”
+While it is easy to overstate the importance of joy-sadness affects for happiness, 
+we should not understate it either; in particular, we should bear in mind that 
+such affects can vary widely in centrality or depth: the profound joy that one’s 
+children can bring must not be conflated with a high-fiver’s jubilation, or the 
+vacant cheeriness of a shopping mall devotee who finds his life agreeable but has 
+no occasion for real joy. Consider also the Stoic notion of chara, joy, among the 
+“good feelings,” or the rapturous perception of the world’s beauty expressed by 
+the Navajo chant. A shallow cheeriness has its merits, but if that’s the best that 
+can be said for your emotional state then it is questionable whether we could 
+sensibly deem you happy.
+Other endorsement-type affects do exist, most important perhaps being 
+irritability, which is most naturally contrasted with cheerfulness. The latter, 
+however, appears to fall along the same axis as joy, both being variants of “feeling 
+happy.” Irritability appears to fall on a different axis, perhaps one without a
+
+
+114 Pan II: The Nature of Happiness
+positive pole. (Since many emotion researchers regard positive and negative 
+affects as independent rather than occupying opposite ends of common axes, this 
+asymmetry need not be a problem.*^ But nothing important hangs on whether 
+joy and sadness truly fall along a single axis or not.) Other affects, including 
+fulfillment and anger, will be mentioned later. But states along or near the 
+joy—sadness axis constitute the central case.
+4.3. Engagement
+I wanted to live deep and suck out all the marrow of life, to live so sturdily 
+and Spartan-like as to put to rout all that was not life, to cut a broad swath 
+and shave close, to drive life into a corner.
+Thoreau, Walden
+A closely related but importantly distinct dimension concerns the individual s 
+engagement with her life: not listless and withdrawn, but energetic and engaged. 
+For one can affirm one’s life, not just by giving it a “thumbs up, but by 
+enthusiastically taking up what it has to offer. This can happen even when 
+things are not going particularly well, for instance when struggling to accomplish 
+a difficult goal. There are two ideals associated with engagement, the first of 
+which centers on states of energy or vitality: the exuberance-depression axis.*^ A 
+passionate and demanding orchestra conductor, for instance, might be exuberant, 
+even happy, without being obviously cheerful or joyful. I do not know whether 
+the Cleveland’s George Szell was like this, but he was evidendy quite passionate in 
+living—in his cooking at home as well as in his work—perhaps embodying a kind 
+of exuberance. The mere fact that he was a harsh taskmaster need not disqualify 
+him from happiness. A lot depends on whether his temper often left him deeply 
+unsettled—as seems to have been the case for the mercurial Toscanini—or 
+whether its manifestations were typically superficial and transient, leaving his 
+internal state largely undisturbed.
+This exuberant form of happiness is typified in ideals of passionate living, 
+notably in Nietzsche, Goethe, and countless other romantics and artists.I am 
+not sure who among the major ancient philosophers endorsed such an ideal, 
+so I will refer to the ideal as “Dionysian.” Proponents of the passionate life 
+frequently claim to oppose happiness as a significant value, but I would suggest 
+this owes to an overly narrow understanding of the phenomenon, conflating it 
+with cheerfulness and quietude. Yet there is a real tension here: exuberance or 
+passion often brings in its trail emotional disturbance of a distinctly negative 
+sort, as Stoics, Epicureans, Buddhists, and other ancients were fond of pointing 
+out. The passionate life will normally involve a fair dose of anger, frustration, 
+and sorrow, and so this form of happiness can be hard to achieve without 
+compromising other aspects of happiness. It can thus be a bad bet from the
+
+
+Emotional State 115
+perspective of the individual’s well-being. (Though it might be admirable, and 
+thus worth seeking, all the same.) But one need not pursue the passionate life 
+to the Nietzschean extreme: some forms of exuberant living are less risky than 
+others, and many people lead lives of great vitality without plunging themselves 
+into the depths. Exuberance need not entail epic struggles. (Think Whitman’s 
+“barbaric yawp,” which was not intended to be the howl of a tormented artist.)
+A quieter form of engagement than exuberance or vitality can arguably be 
+found in Aristotle’s work, and more recently in the notion of “flow” propounded 
+by Mihaly Csikszentmihalyi.*® This is the state one assumes when fully engaged 
+in an activity, typically a challenging activity performed well. In states of flow, 
+individuals lose all sense of self-awareness, of the passage of time, and are not 
+aware of feeling anything at all. It is nonetheless a highly pleasant state, and 
+clearly a state in which the individual is happy. We might regard its opposite to 
+be boredom. While the other states we have been discussing may seem clearly 
+to involve a person’s psychic disposition or stance, flow may not seem like that. 
+But it is: to be in a state of flow is to assume, emotionally and cognitively, 
+a stance of interest and engagement—a kind of psychic coupling with the 
+objects of one’s attention. Aristotle does not write explicitly of flow, but his 
+treatment of the pleasures supervening on virtuous or excellent activity clearly 
+resonates (as Csikszentmihalyi notes*^). Certainly, the happiness that attends 
+Aristotelian well-being—virtuous activity—will include a strong component of 
+flow. We might thus term the idea of happiness as engagement in the sense of 
+flow the “Aristotelian” ideal. (To call it that is not to suggest that Aristotelian 
+ethics centers on promoting flow; clearly it does not.^® The point concerns the 
+psychological states that tend to be associated with Aristotelian ideals, even if 
+only as a by-product of the virtuous activity that really matters.)
+The significance of engagement becomes clearest in cases of depression, where 
+the characteristic lethargy and lisdessness signals a broad psychic disengagement 
+from one’s life. While sometimes disordered and always awful, this sort of 
+withdrawal can sometimes be functional, facilitating major life changes by 
+pulling us out of our existing routines and signaling that our present way of 
+living may not be worth continuing.^ ^
+4.4. Attiinement
+Journal notes, August 8.
+Sundown on the Pond. A gull is laughing from a perch on a post in the Pond. 
+Now a skimmer glides by, plowing a tiny furrow through the shallows. No 
+permanent mark. Nothing is permanent out here. Sand and water... no 
+mark endures save of notion, of idea. . . Here the veil between us and the 
+tmth of existence is very thin and, to my mind, can be pierced. These past 
+few weeks, I have setded into mindless existence, with few thoughts and no 
+dreams. My being is effordess, untroubled by pain, unstirred by joy. This
+
+
+being is meditative, with no need of mantras or quiet rooms. Here on the 
+seam between objective and subjective reality no special effort is required to 
+contemplate the merge. When I perceive the gull and apply my perceptual 
+sieves, it is accomplished.
+Ron Haybron, Island'^'^
+116 Part II: The Nature of Happiness
+The third and perhaps most important dimension of happiness is best approached 
+by reflecting on states that fall along on the tranquility-anxiety axis. This is not the 
+occasion to plumb the nuances of tranquility, but we might think of tranquility 
+as “settledness”: not merely peace of mind or lack of internal discord but a 
+kind of inner surety or confidence, stability and balance, or imperturbability.^^ 
+Whereas endorsement’s characteristic appearance is the smile, and engagement’s 
+the jaunty gait, tranquility presents itself in the relaxed, easy posture. It is clearly a 
+highly pleasant state, and not simply the absence of disturbance or other feeling. 
+Nor does it rule out states of high arousal or exuberance; indeed, exuberance 
+without any sort of tranquility is liable to be jittery and unstable. But tranquility 
+seems crucial for being happy. Not long ago, during a somewhat stressful period 
+preceding the birth of our twins, I noticed how happy my mood would become 
+while bathing my three-year-old. Yet even during those moments I do not think 
+/ was happy, for beneath the good cheer ran a distinct undercurrent of anxiety, 
+and I never stopped feeling off balance, unsettled. Hemingway’s Santiago, by 
+contrast, is an exemplar of tranquility. (Those of a Nietzschean bent take note: 
+as Santiago makes clear, tranquility entails neither complacency nor passivity.)
+So misleading is the conventional understanding of tranquility that it is 
+useful to set that notion aside momentarily and consider the fundamental 
+biological condition that it represents. When an organism is in familiar and 
+safe circumstances, where it has mastery of its environment, it can let down its 
+defenses—dialing down the cortisol, for instance—and confidently engage in 
+whatever pursuits it wishes. It is this condition, in a person, we are concerned 
+with. The Stoics might have said that the individual in that situation finds her 
+life oikeion—familiar—to her; she is utterly at home in her life. In her element. 
+Similarly, think of the state one assumes when relaxing with a still-close friend 
+after a long separation, particularly if one normally has few close friends nearby. 
+You feel completely at home with that person. ‘Tranquility’ seems too narrow a 
+term for the condition of psychically being at home in one’s life; I will call it a 
+state of attunement.^^ In this state a person relaxes and blossoms, living as seems 
+natural to her, according to her internal priorities, and without inhibition. The 
+opposite of attunement, disattunement, is not merely anxiety, but more broadly 
+alienation-, your circumstances are in some sense alien to you—unfamiliar, 
+imposing, threatening. Defenses go up: anxiety, stress, insecurity.
+I will not try formally to define the notion of attunement here, but it appears 
+to have three basic aspects: (1) inner calm or peace (“tranquility” in the colloquial
+
+
+Emotional State 117
+sense); (2) confidence or surety; and (3) openness or expansiveness of mood or 
+spirit, or a sense of freedom (feeling “carefree” being one form of this). To 
+fully capture the notion of being at home in one’s life, perhaps we should also 
+add a sense of conrinuity or fit between self and world—a bit perhaps like the 
+“oceanic feeling” Freud spoke of ‘Confidence’ refers to an internal emotional or 
+psychic condition, and bears only a loose relation to one’s opinion of oneself. 
+The phenomenon of what we might call “somatic confidence”—feeling wholly 
+at home in one’s body—is illustrative. Those who have felt the extremes of 
+somatic confidence know how vastly better it is to have it than not, and how 
+much happier one seems to be when in it than not: think, at the negative pole, 
+of Nixonian awkwardness (the former president seemed to personify a Cartesian 
+dualism of body and mind gone badly askew); at the positive end, the athletic 
+grace of a ballet dancer. This is an important part of what is meant here by 
+‘confidence.’ (Is somatic confidence any part of one’s emotional condition? I 
+submit that it is: when enjoying such a state one is not edgy or nervous; one’s 
+emotional condition is more favorable, and one is happier. You could have stood 
+behind Nixon while he thrust his appendages skyward to signal “victory” and 
+known immediately that you were not observing an entirely happy man.)
+The term ‘attunement’ is not ideal; it connotes a state of harmonious 
+coexistence with, or rapt attention to, one’s environment. Yet a logger could 
+enjoy this condition whilst clear-cutting the last stand of ancient redwoods; and 
+while someone in a state of “attunement” with her life is indeed likely to have a 
+healthy outward focus, being receptive to her surroundings, being “attuned” to 
+things in the environment is neither central nor essential to it. The attunement 
+in question is broadly emotional, not perceptual.
+Among the ancients, the ideal of happiness as attunement seems most naturally 
+to be associated with the Stoics, given the apparent affinity between the present 
+conception of attunement and the Stoics’ ‘oikeion,’ and more broadly their focus 
+on living according to nature and not being at odds with one’s life as it is. 
+To call happiness as attunement a “Stoic” ideal might sow confusion given 
+the common view of the Stoics as joyless ascetics who regarded emotions as a 
+pestilence rather than a central aspect of well-being. While the Epicureans are 
+better known for placing a kind of attunement at the center of the good life, the 
+Stoic resonances seem to me sufficiently compelling that I will call this ideal of 
+happiness “Stoic.”
+Without going to the Stoic extreme, I would suggest that attunement does 
+indeed form the core of happiness, being not ancillary but quite central to 
+it. Anxiety, stress, insecurity, and related states are not merely unpleasant in 
+themselves; they rob us of much of our capacity for the other dimensions of 
+happiness. Some measure of cheerfulness you might get while suffering from 
+these forms of psychic disattunement, but exuberance, flow, and joy will be hard 
+to come by. Intuitively, a troubled, anxious, tense, or stressed our person—more 
+broadly, someone who does not seem psychically to be at home in his life—does
+
+
+118 Pan II: The Nature of Happiness
+not seem to be happy, however cheerful he might be. This point will prove 
+significant later.
+4.5. Attunement, part two: stress and compression
+I distmst the perpetually busy; always have. The frenetic ones spinning in 
+tight little circles like poisoned rats. The slower ones, grinding away their 
+fourscore and ten in righteousness and pain. They are the soul-eaters.
+Mark Slouka, “Quitting the Paint Factory”
+It is easy to overlook the importance of the attunement dimension of happiness 
+for human well-being, in great part because it does not command our attention 
+like the others do. (1 will suggest in Chapter 10 that it may be less conspicuous 
+than other affective states by design.) Consider for example the phenomenon of 
+stress, in the sense of being stressed (this term is v^ue, but nowadays we all know 
+it well enough that it needs no introduction). It is important to see how deeply 
+anathema this state is to well-being, for it is said to be pervasive in the present 
+culture, yet seems nonetheless not to be taken very seriously. A major reason for 
+this is that it is not usually all that unpleasant—not agonizing like back pain, 
+chemotherapy, or depression can be, and not something we must urgently labor 
+to relieve. It can seem more a nuisance than a great problem. The appearance 
+is misleading, for the trouble with stress lies not mainly in the suffering it 
+immediately involves but in its corrosive impact on the person: it compresses and 
+flattens the spirit and smothers the individual s capacity for pleasure. Stressed 
+individuals get less out of life, for they cannot as easily enjoy, or even notice, what 
+life offers them. The joy of living, the manifold small pleasures that leaven our 
+days—whose importance is readily dismissed, but is never lost on those peering 
+into the grave—are substantially foreclosed when we are stressed. ^XTiat remains 
+is usually quite bearable, but a lot less worth having.
+What of this “flattening of the spirit”? What is meant by it and why does it 
+matter? The phenomenon in question, relating primarily to the expansiveness 
+aspect of attunement, might be termed affective, psychic, or spiritual com­
+pression. (Though talk of the spirit or soul bears unfortunate connotations of 
+cheap New A%e. sentimentality, 1 use these terms in a common secular and 
+naturalistic sense. I mean them to suggest something psychologic^ly deep, 
+intimate, and important to us.) The word may be new but the basic notion, 
+first broached in Chapter 1, should be familiar to any contemporary, and 
+arguably appears in various forms in the works of many writers, notably Mill 
+and Nietzsche. It is easier illustrated than defined: e.g., someone leading a 
+harried life—caught up in the “rat race,” as we say—may find himself feeling 
+pressed-upon and confined, like a caged animal, emotionally deflated, small, ant­
+like—“pinched and hidebound,” as Mill memorably put it. (Mill actually used
+
+
+Emotional State 119
+‘compression’ to describe the process of making a person like that: e.g., the 
+public’s approved “ideal of character is to be without any marked character; to 
+maim by compression, like a Chinese lady’s foot, every part of human nature 
+which stands out prominently.”)^^ Xhg uncompressed person, by contrast, will 
+feel free, expansive, spirimally enlarged. This is not mere phenomenology: it 
+is how these individuals will seem to perceptive observers as well. To the 
+uncompressed person, her psychically compressed counterparts will seem like 
+“little people,” worker bees or ants rather than full-sized human beings—to the 
+ancient Greeks, perhaps, the mikropsuchoi (literally, “small-souled”).^® Whereas 
+the uncompressed person is liable to strike others as a “free spirit.” The con­
+trast might be seen in comparing our stereotype of, say, an English aristocrat 
+with that of a flamboyant Caribbean islander. Or consider the sharp differences 
+between John Brown, Queen Victoria’s uninhibited Scottish servant—or for 
+that matter Billy Connolly, the man who played him in John Madden’s film 
+Mrs. Brown—and more typical members of a royal court. Uncompression is 
+not exuberance: quieter forms of uncompression exist as well; there is no small­
+ness or compression of spirit in Hemingway’s Santiago, or the Dalai Lama. 
+And these are not mere matters of temperament: all of us have experiences 
+of greater and less compression in our lives. You might experience affective 
+expansion when thoroughly engaged in your favorite activity, particularly if 
+it involves physical virtuosity. Surfing does it for some, sculpture for others, 
+trading commodities for still others.
+To get a better fix on the idea, it may be useful to indulge in a bit of 
+speculation about how evolutionary processes could favor tendencies toward 
+compression in certain circumstances. (It matters little whether the following 
+story is true: the point is to illustrate what compression involves.) Imagine the 
+predicament of an individual who is in a threatened subordinate position—e.g., 
+is under the watchful eye of a hostile and belligerent dominant figure. One 
+natural response to this kind of situation would be to avoid trouble by keep­
+ing a low profile and making oneself as invisible as possible. Hunker down. 
+This is a reactive stance in which one’s behavior is driven not internally but 
+by the agendas of others: go with the flow, be agreeable, and don’t make 
+waves. Y(^at would the emotional aspect of such a strategy be like? We might 
+expect individuals in such a position to be relatively introverted rather than 
+extroverted, to be less likely to be in what we call an expansive mood, to 
+be relatively anxious or prone to anxiety, to be tentative rather than confid­
+ent, to feel confined or trapped—not liberated—and perhaps to be somewhat 
+flat emotionally. Such individuals might also tend to be relatively petty and 
+selfish—too focused on their own precarious status to care much about others. 
+These are all, I think, among the hallmarks of compression. And we should not 
+be surprised if someone who exhibits these characteristics experiences a certain 
+phenomenology: feeling small, or small-spirited. This is the core phenomenology 
+of compression.
+
+
+Compression appears to be a response to oppressive circumstances, such as 
+these, in which one’s behavior can be neither natural nor free. There appear to 
+be at least two basic sources of compression, each yielding a different form of the 
+phenomenon (which is not to say they cannot combine). First is imposition or 
+repression: that is, being in circumstances in which one’s functioning is dictated 
+by forces other than one’s own nature. Social pressures demanding conformity are 
+an obvious case here (it is ironic, but also fitting, that Victoria s closest confidant 
+should have been a man who personified opposition to the buttoned-down ethos 
+that bore her name).^^ But overscheduled living or struggling just to survive can 
+have the same effect. Second is threat, which exerts pressure in a different way: not 
+exacdy dictating what one does, but requiring one to assume a reactive and wary 
+stance, anxious and vigilant. In fact all forms of compression seem fundamentally 
+to involve a reactive stance: one’s functioning reflects external demands too much, 
+and one’s own nature too litde. Little wonder that a form of this notion should 
+make its way into Mill’s wonderful manifesto on behalf of individuality. Compres­
+sion is effectively the sleep of individuality. I would suggest that what makes com­
+pression so bad is not just that it is not a very pleasant way to be; but that it involves 
+the hindrance of self-expression or self-fulfillment. This intuitively seems like a 
+bad thing, and we will see why that should be so in Chapter 9: well-being consists 
+largely in self-fulfillment. Compression does not seem compatible with that.
+Returning to the question of stress, we can see that stressful living often 
+involves both forms of compression: the imposition of having too much to do 
+in too little time, and the constant threat of failing to get things well enough 
+done. Living under a constant bombardment of “insane demands,” as Ginsburg 
+put it,^® and being under continual threat of failure to meet them, tends not to 
+enlarge the soul. Still less if success or failure is judged, not by oneself, but—as 
+often happens in the more anonymous and competitive forms of society—by 
+others whom one may not like or even know.
+Of course it would be desirable to define compression in more exact terms; I 
+have been able to do litde more than gesture at the phenomenon here. But the 
+sheer difficulty of doing so, or even of pointing toward it with any discernment, is 
+revealing in itself, and rather congenid to the purposes of this book. It illustrates 
+how easily overlooked even central aspects of psychological well-being can be. 
+Probably few people under high levels of compression have had much experience 
+of radic^ly uncompressed living, save in early childhood, and probably few have 
+much notion of the difference, or perhaps even that there is anything missing in 
+the reduced condition. Compression seems easy to live with, however undesirable 
+it may be.
+120 Pan II; The Nature of Happiness
+4.6. Summary
+Summing up: we have identified three broad dimensions of happiness, each 
+representing a different mode of emotional response to one s life, and each
+
+
+Emotional State 121
+tending to be favored over the others in various ideals of living. The dimensions, 
+and their chief constituents, are (now in descending order of importance for 
+happiness, though not within each dimension):
+1. Attunement
+a. Peace  of mind vs. anxiety.
+b. Confidence vs. insecurity.
+c. Uncompression vs. compression.
+2. Engagement
+a. Exuberance or vitality vs. lisdessness.
+b. Flow vs. boredom or ennui.
+3. Endorsement
+a. Joy vs. sadness.
+b. Cheerfulness vs. irritability.
+The prominence of attunement reflects what we may think of as the stages of 
+flourishing for a creature: the first priority is to establish conditions of safety 
+and security, where the basic needs for functioning are firmly established so 
+that it can make itself at home and blossom—like placing a sapling in fertile 
+soil. The organism is in its element; it assumes a stance of attunement. This 
+established, a stance of engagement will tend naturally to follow, as the creature 
+exploits the situation in the energetic pursuit of its goals. Last comes the stance of 
+endorsement, as the organism succeeds in meeting its goals. Note that the ranking 
+concerns the relative roles of these states in happiness; you could accept it while 
+ranking them diflPerently in terms of value or choiceworthiness. A Nietzschean, 
+for instance, might value states of vitality or exuberance over peace of mind, even 
+if this means being less happy.
+Naturally, this schema, if illustrative, is a bit oversimplified. For example, I 
+couched compression as a failure of attunement, a kind of psychic disattunement 
+or alienation—it certainly is not a way of being psychically at home in one’s 
+life—but it appears to involve the engagement dimension of happiness as well, 
+since the reactive stance characteristic of compression tends not to combine 
+well with exuberance. And states of flow seem to involve a lessening of com­
+pression. The example illustrates the interdependence of the three modes of 
+response: affective states will often if not usually involve more than one. This 
+makes sense since a given type of situation may call for a multifaceted response, 
+so that affect types need not conform strictly to the three-mode schema. I will 
+mention a few other examples to illustrate, and to show how some imponant 
+states fit in the present account of happiness.
+Fear is typically thought to involve withdrawal (the engagement dimension), 
+a defensive disturbance akin to anxiety (the attunement dimension), and a
+
+
+122 Part II: The Nature of Happiness
+negative appraisal of the object (the endorsement dimension).Anger presents 
+an interesting case: it at least involves a negative appraisal, and possibly some 
+defensive disturbance, but it also seems to involve approach tendencies charac­
+teristic of engagement. It thus appears, in that respect, to be a positive affective 
+state, whilst being negative in others. Though contrary to initial appearances, 
+this seems rather plausible: anger counts against happiness in the obvious ways, 
+but it can also count toward happiness to some extent, as might be imagined 
+in the case of a warrior resolutely pursuing a vendetta against a hated enemy, 
+drawing strength from his anger. There can be an aspect of dark flourishing in 
+such a case, for the individual is fully and energetically engaged in the business of 
+living. But we would hesitate to describe such a person as happy on the whole, 
+since there remains a clear sense in which the anger is primarily a negative state.
+On the positive side, there is the interesting question of what to make 
+of emotional fulfillment, or feeling fulfilled. This seems a crucial aspect of 
+happiness when we picture its prototypical forms, and we are unlikely to 
+regard as happy someone whose life is unfulfilling. The question merits a fuller 
+treatment than it will get here, but I would venture that fulfillment is chiefly 
+a mixture of attunement and joy (usually muted but deeply felt)—a state that 
+paradigmatically follows on the fulfillment of the heart’s desires. We can think 
+of this as taking two forms. At the heights we have the fulfillment of repose, as 
+happens when reflecting on one’s great fortune. The more pedestrian variety, the 
+fulfillment of engagement, arises when engaged in activities that well suit our 
+natures. States of flow may sometimes be like this, or perhaps the fulfillment 
+follows them.
+It must be emphasized that the preceding taxonomy is intended to be rough 
+and informal, meant to serve as a plausible starting point for further reflection 
+and investigation. The core points, regarding the richness and demandingness 
+of happiness, and the basic character of some of its more important states, 
+could survive even with substantial adjustments to the picture. A rigorous 
+development of the account would need to be put in the context of a more 
+or less complete theory of affect—a project well beyond the scope of this 
+book, and possibly premature given the state of scientific knowledge in this 
+realm. Much greater attention must also be given to each of the states involved 
+in happiness, only some of which have been touched on here. Were there a 
+reasonably mature literature on the subject, we would find numerous journal 
+articles dedicated to each of the many states involved here—significant bodies 
+of work on, for example, the nature and significance for happiness of tran­
+quility, or confidence, or vitality, or flow.^o For now, a rough sketch will have 
+to do.
+In the next chapter we will develop the present version of the emotional state 
+theory in greater detail. First, however, I want to note some advantages of an 
+emotional state approach, illustrating how it can diminish common doubts about 
+the significance of happiness.
+
+
+Emotional State 123
+5. IS HAPPINESS IMMUTABLE?
+If someone still wishes to maintain that happiness is not important, it is hard 
+to know what to say. Neither Nietzsche nor the Stoics, who seem to define the 
+limits of sane opinion in such matters, went that far. It would appear to be a 
+bitter, not to say monstrous, view of human life that denies significance across 
+the board to such things as imperturbability, peace of mind, vitality of spirit, 
+fulfillment, inner surety and expansiveness of soul. If there are those who want 
+to embrace such an ethic, they are welcome to it.
+The more interesting questions concern how important happiness is, and it 
+is true that happiness is not the only thing that matters in life, or even for 
+well-being. Moreover, it is clearly overvalued by many—those who are all too 
+eager to trade their integrity for the promise of happiness, or who, thinking 
+themselves entitled to be happy, do terrible things to their families, co-workers, 
+or strangers in the name of an imaginary birthright. Others shoot themselves in 
+the foot by valuing happiness so much they forget to put much value on anything 
+else, leaving themselves with no real source of happiness. We should grant that 
+happiness is not as important as some people think it is, and that it ranks firmly 
+beneath virtue in a good life: to sacrifice the demands of good character in the 
+name of personal happiness—or, I would add, personal welfare—can never be 
+justified. We must, above all, act decently, if not well. Or so, at any rate, I 
+am prepared to grant. None of this is incompatible in the least with the aims 
+of this book. Happiness is a matter of central importance for a good life, and 
+an important object of practical concern. To dismiss happiness as a lightweight 
+matter of little import is most likely to be working with a lightweight conception 
+of happiness.
+Many other interesting doubts have been raised either about the importance 
+of happiness or about whether we should pursue it. Here I will mention only 
+certain worries about the extent to which our emotional conditions really track 
+well-being. The aim will be not to rebut them fully, but to gesture at the resources 
+an emotional state theory of happiness can bring to bear in addressing them. A 
+familiar concern to those who have followed the empirical literature concerns 
+adaptation and the idea that people have happiness “set points” toward which 
+their happiness naturally tends to gravitate.These set points are said to be 
+substantially heritable, perhaps as much as .80, though .50 is a more widely 
+accepted figure. Recent events, even quite major ones, can move people up or 
+down for a brief period, maybe a few months, but usually they will return to 
+their set point—no more or less happy or unhappy than before. In one of 
+the best recent philosophical treatments of happiness, Elijah Millgram pressed 
+a version of this worry, arguing essentially that happiness functions to track 
+not well-being, but changes in well-being. (Peter Railton has been developing
+
+
+124 Part II: The Nature of Happiness
+a version of this idea, suggesting a “delta meter” model of happiness.^^) The 
+issues are too complex to address here fully, but it bears noting that most 
+researchers now seem to believe that past claims about the relative immutability 
+of happiness were often overstated.^^ Here I want to note a few ways in 
+which an emotional state view of happiness may be less susceptible to such 
+objections.
+One version of the adaptation worry arises in political thought, where 
+happiness is frequendy dismissed for being too subject to adaptation, raising 
+the specter of happy slaves and the like.^"* Policymakers should thus focus their 
+attention on other matters, such as the distribution of resources or capabilities. 
+An emotional state view of happiness seems less vulnerable on this count 
+than other theories. For while it is easy to imagine people becoming resigned 
+to oppressive circumstances, even registering satisfaction with their lives or 
+showing the world a happy face, it is not so easy to imagine the enslaved, the 
+solitary homeless, and the browbeaten sweatshop laborer leading emotionally 
+fulfilling lives. When reading Martha Nussbaum’s admirable depictions of 
+struggling Indian women, ‘psychic flourishing’ is not the first term that comes 
+to mind.^5
+Second, we should question the standard rationale for expecting strong forms 
+of adaptation to occur—that it usually doesn’t make sense evolutionarily or 
+otherwise to feel happy or sad forever after an event, because we need to 
+get on with our lives and deal with them as they now are. Emotions need 
+to facilitate a response to the change and then get out of the way. There is 
+something to this thought, but notice that it chiefly applies to endorsement-type 
+states, which are neither the whole nor even the most important aspect of 
+happiness. If relationships and work and leisure activities improve markedly, 
+and remain so, then why should you gradually settle back to a “set point” level 
+of engagement—ceasing to experience as much flow, and feeling less energetic 
+and alive? Consider, particularly, states of anxiety or stress: if you are living 
+under threat, and things stay that way for a long time, it makes little sense 
+to let your defenses down and cease responding as if you are under threat. So 
+long as they are out to get you, you had best stay prepared; so long as they 
+are not, you should relax and stop toasting your brain and body with stress 
+hormones. The point is not to deny that adaptation occurs with such states. But 
+there is no reason to expect the strong sort of adaptation in such states that we 
+seem to see with feelings of happiness and sadness. It is important to note as 
+well that the empirical research mainly focuses on feelings like these—in the 
+case of self-reported “happiness,” indirectly, given the likelihood that people 
+tend to focus inordinately on such feelings when making such reports—or on 
+other measures, like life satisfaction reports, that may also be especially prone 
+to adaptation.(A further limitation of most research, particularly regarding 
+the heritability of happiness, is the homogeneity of the populations studied. 
+To an Amish farmer or San hunter, or the fishermen on the island mentioned
+
+
+Emotional State 125
+in Chapter 1, the affluent Westerners who mostly get studied may seem to 
+be leading pretty near identical ways of life. If all your subjects live in similar 
+environments, then of course the role of environment in determining happiness 
+is going to seem limited. It is as if one were to run a series of studies on 
+zoo bears and circus bears, find not much difference in well-being between the 
+groups, and conclude that it doesn’t matter very much what environment you 
+put bears in.)
+Third, our emotional conditions plausibly tend to be keyed to the general 
+conditions of our lives, not the details.^^ And once our basic needs for health 
+and security are met, they seem to depend chiefly on how we live. Over the long 
+haul, what we have and what happens to us—the sorts of objective variables 
+that tend to get studied—seem to be secondary, typically of little more than 
+transient concern (this is the wisdom embodied in the adaptation literature). 
+If so, then we might expect happiness to seem immutable even if is not: it 
+is hard to change the basics of how we live, at least at the level of individual 
+decision. Consider the sorts of goods that tend to be cited as the main positive 
+sources of happiness: notably, active social engagement, and meaningful activities 
+that are well-matched to your abilities.^® Such things are not easily changed. 
+If you’re lonely, harried, and bored to tears by your work now, you stand a 
+good chance of being lonely, harried, and bored for a long time. And unless 
+you’ve got the nerve and the ability to make some fundamental changes in 
+how you live, and the wisdom to do it well, there may not be much you 
+can do about it. The fact that your big paycheck, your designer home, your 
+aromatherapy sessions, your personal coach, and your washboard abs have done 
+nothing to make you happier scarcely shows that you’ve got a brain defect, or 
+that unhappiness is written into your genes. Perhaps these aren’t the things you 
+need for a good life.
+The pursuit of happiness is not easy. Given that the basic conditions of our 
+lives, and the way we live, are so heavily dependent on our social environment, 
+we may want to look more closely at the societal dimensions of the question. (If 
+this isn’t clear yet, it should become so in Part IV.) Even if we are suspicious of 
+using policy instruments to promote happiness, we might at least consider the 
+limits of individual effort, and the importance of context, in shaping how happy 
+we are. Take, for example, recent initiatives to develop and teach methods by 
+which people can make themselves happier. Such eflforts can produce very real 
+benefits, and in fact many of the ancients were in a version of same business. 
+While there are legitimate worries about such techniques sometimes reducing to 
+cheap spiritual analgesics, I see no reason why this cannot be avoided.'*® A more 
+interesting question, it seems to me, is how far individual efforts like this are 
+likely to improve human well-being on a broad scale. If the problem lies chiefly 
+in the way you live, and this in turn depends heavily on the kind of society you 
+inhabit, then positive thinking techniques and the like are only going to get you 
+so far.^*
+
+
+126
+The difficulty of pursuing happiness is no reason to think happiness a mainly 
+biological or temperamental affair, unchangeable and unconnected with the 
+conditions of our lives. Consider the way that depression has skyrocketed in 
+recent decades. How should we explain this trend? It could be due to some 
+environmental contaminant burning up our neurotransmitters. Or perhaps there 
+is something wrong with the way many of us are living.
+Part II: The Nature of Happiness

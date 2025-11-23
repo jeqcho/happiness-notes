@@ -1,0 +1,4 @@
+"""
+Happiness notes generation package.
+"""
+

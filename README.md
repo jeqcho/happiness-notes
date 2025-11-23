@@ -17,6 +17,19 @@ to generate the notes
 
 Notes should be concise and comprehensive. Tailor it to a student with limited time but needs to know everything that is relevant to that lecture.
 
-All code should be written in src/. You can use OpenAI models to do the audio transcription and the note generation. For note generation, use `gpt-5.1` with reasoning effort `low`. Read https://platform.openai.com/docs for docs and use the Responses API. API key is in .env.
+All code should be written in src/. You can use OpenAI models to do the audio transcription and the note generation. For note generation, use `gpt-5.1` with reasoning effort `medium`. Read https://platform.openai.com/docs for docs and use the Responses API. API key is in .env.
 
 Use uv.
+
+# Generate PDFs
+After generating notes, you can create PDFs using Quarto:
+```bash
+uv run python src/generate_pdfs.py
+```
+
+Or generate notes and PDFs in one command:
+```bash
+uv run python src/main.py --pdf
+```
+
+**Requires:** Quarto (`brew install --cask quarto`)
