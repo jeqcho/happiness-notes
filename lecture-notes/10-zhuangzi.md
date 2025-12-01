@@ -1,336 +1,356 @@
 ## Zhuangzi: Virtues and Vices in Daoism
 
-### 1. Practice and “Knack”: The Wheelwright
+### General picture
 
-- Wheelwright story (summary idea):
-  - An old wheelwright tells a bookish noble that written words are just the “leftovers” of the sages.
-  - Real skill (like making a good wheel) cannot be fully taught by words or rules.
-  - You must practice until you develop a *knack* — an embodied, intuitive responsiveness.
+- **Dao (the Way)**: the natural, ever-changing flow of the world.
+- **Human problem**: we cling to fixed views, roles, and plans; this makes us rigid, anxious, and out of sync with the Dao.
+- **Solution**: cultivate certain *virtues* (dispositions or skills) that let us move with the Dao, and avoid certain *vices* that block us.
 
-**Implication for Daoist virtue:**
+### The Wheelwright story (key background)
 
-- Living in harmony with the Dao is like wheel-making:
-  - Not rule-following, but *skilled responsiveness* to changing situations.
-  - Virtues are practical abilities cultivated through life, not abstract principles memorized from texts.
+- An old wheelwright sees a ruler reading “the books of the sages”.
+- He says:
+  - His *own* craft (making wheels) depends on a **knack**:
+    - If he carves too slowly → wheel is brittle.
+    - Too fast → wheel is spongy.
+    - Just right → “it fits hand and heart”.
+  - This knack:
+    - Cannot be fully put into words.
+    - Cannot be transmitted just by explanation.
+    - Exists as a lived, embodied **skill**.
+- His punchline about the classics:
+  - What the sages really knew **died with them**.
+  - Their books are just “dregs” of that living understanding.
+- Lesson:
+  - **Words and rules alone can’t teach you how to live well.**
+  - You must *practice* living in harmony with the Dao until you develop a flexible, responsive **knack**.
 
----
-
-### 2. Core Virtues in Zhuangzi
-
-All these support moving with the Dao in a changing, uncertain world.
-
-#### a. Openness
-
-- **What it is**:
-  - Willingness to see from multiple perspectives.
-  - Not clinging to one fixed view of what is right, good, or real.
-- **Textual basis (ideas)**:
-  - Different beings “know” different things as right (eels, people, birds, deer each find different foods, homes, mates “right”).
-  - “Each thing is right in its own way”; the sage lets many perspectives be valid.
-- **Role in happiness**:
-  - Reduces dogmatism and conflict.
-  - Makes it easier to accept others and oneself in changing roles and circumstances.
-
-#### b. Adaptability
-
-- **What it is**:
-  - Ability to shift easily as situations change.
-  - Willingness to let judgments, plans, and even self-conceptions adjust.
-- **Textual basis (ideas)**:
-  - “Courses are formed by someone walking them”: paths and norms are made by use, not fixed in advance.
-  - The sage “walks two roads”: can switch between different “rights and wrongs” to harmonize with others while remaining inwardly at ease.
-- **Role in happiness**:
-  - Helps one cope with unpredictable events (loss, failure, illness).
-  - Prevents getting “stuck” in outdated roles or expectations.
-
-#### c. Spontaneity
-
-- **What it is**:
-  - Unforced, natural, flexible responsiveness — like a skilled musician improvising.
-  - Acting without overthinking, once the knack is internalized.
-- **Textual basis (ideas)**:
-  - The wind blowing through many hollows creates many different tones automatically.
-  - The sage “lets things be so of themselves” rather than forcing rigid plans.
-- **Role in happiness**:
-  - Less anxiety and over-calculation.
-  - Actions feel effortless and fitting, like “going with the flow.”
-
-#### d. Attentiveness
-
-- **What it is**:
-  - Careful, present-moment noticing of subtle details: context, timing, other people’s needs.
-  - Awareness of how things are actually changing rather than how we wish they were.
-- **Textual basis (ideas)**:
-  - The sage “goes by the rightness of the present ‘this’”: decides based on the concrete situation before them.
-  - The “Illumination of the Obvious” means clearly seeing how every “this” is also a “that” from another viewpoint.
-- **Role in happiness**:
-  - Prevents clumsy, inappropriate actions.
-  - Makes it possible to be spontaneous *and* wise, because the spontaneity is well-informed.
+This same idea underlies Daoist **virtues** and **genuine pretending**: the point is not to follow explicit rules, but to cultivate fluid, skillful responsiveness.
 
 ---
 
-### 3. Central Vices in Zhuangzi
+### Virtues in Zhuangzi
 
-These are obstacles to harmonizing with the Dao.
+These are traits that help you attune to the Dao.
 
-#### a. Rigidity
-
-- **What it is**:
-  - Clinging to one set of beliefs, rules, or identities as absolutely right.
-  - Insisting there is one correct way things must be.
-- **Textual basis (ideas)**:
-  - Zhuangzi mocks those who “shoot forth like an arrow” to judge right and wrong, and “hold fast as if to sworn oaths.”
-  - Confucians and Mohists each insist their doctrine is *the* correct one, endlessly debating.
-- **Why it’s bad**:
-  - The world is too complex and changing for one rigid standard.
-  - Leads to conflict, self-torment, and inability to adapt when circumstances shift.
-
-#### b. Being Stuck or Blocked
+#### 1. Openness
 
 - **What it is**:
-  - Being trapped in one role, agenda, or emotional state.
-  - Continuing along the same “ruts” even when they no longer work.
-- **Textual basis (ideas)**:
-  - People “drown in their own activities, unable to turn back.”
-  - Zhao Wen’s son spends his life trying to master his father’s zither technique, never moving beyond.
-- **Why it’s bad**:
-  - Wastes life chasing narrow projects or reputations.
-  - Prevents growth and transformation.
+  - Willingness to see from multiple perspectives; not locking into one “this is absolutely right” standpoint.
+- **Textual support**:
+  - “Illumination of the Obvious”: the sage recognizes that **“this” and “that”** (right/wrong, mine/yours) arise from particular standpoints.
+  - The sage “lets them all bask in the broad daylight of Heaven” instead of clinging to one side.
+- **Function**:
+  - Makes you receptive to how things actually are **now**, rather than forcing reality into your preconceptions.
+  - Basis for tolerance: “each thing is just so, each thing is right” from its own perspective.
 
-#### c. Inattentiveness
+#### 2. Adaptability
 
 - **What it is**:
-  - Not really seeing what’s happening now; being lost in fixed concepts or worries.
-- **Textual basis (ideas)**:
-  - Endless debates leave “something unseen”; people argue theories instead of seeing the present situation.
-  - To “labor your spirit” trying to unify all things is called “Three in the Morning”: you miss that 3+4 and 4+3 are the same.
-- **Why it’s bad**:
-  - Leads to foolish emotional reactions (like the monkeys angry at 3/4 but happy at 4/3).
-  - Stops you from acting well in the actual moment you are living.
+  - Ability to shift views, plans, and roles as situations change.
+- **Examples**:
+  - **Monkey/Chestnut story (“three in the morning”)**:
+    - Trainer: “3 chestnuts in the morning, 4 at night.”
+    - Monkeys angry.
+    - Trainer: “Fine: 4 in the morning, 3 at night.”
+    - Monkeys delighted.
+    - Nothing *really* changed, but he flexibly adjusted to their current standpoint (“the rightness of their present ‘this’”).
+  - **Sage “walking two roads”**:
+    - Uses varying “rights and wrongs” to harmonize with people.
+    - Yet stays “at rest in the middle of Heaven’s potter’s wheel” (keeps an inner center while adapting outwardly).
+- **Function**:
+  - Lets you live effectively in a world where values and perspectives constantly shift.
+  - Opposite of stubbornness about one correct way.
+
+#### 3. Spontaneity
+
+- **What it is**:
+  - Natural, unforced responsiveness; acting from a deeply trained knack rather than from tight, self-conscious control.
+- **Connection to Wheelwright**:
+  - The wheelwright’s cutting is not calculated step-by-step; it flows from “hand and heart”.
+  - This is **trained spontaneity**: practice + letting go of rigidity.
+- **Connection to Ziqi “losing me”**:
+  - Ziqi says he has **“lost me”**:
+    - He no longer clings to a fixed, controlling ego.
+    - He is moved by the “piping of Heaven” (the natural processes that blow through “the ten thousand differences”).
+- **Function**:
+  - Prevents overthinking.
+  - Allows alignment with the Dao as it manifests *right now*.
+
+#### 4. Attentiveness
+
+- **What it is**:
+  - Sharp awareness of subtle changes in self, others, and environment.
+- **Examples**:
+  - Listening to the **“piping of Heaven”**:
+    - The wind blows through different hollows; each hollow gives a distinct sound.
+    - Attentiveness = hearing the specific situation rather than imposing one sound on all.
+  - Stories about dream/awakening:
+    - Recognizing how different states (dreaming/waking, life/death, joy/sorrow) arise and pass.
+- **Function**:
+  - Makes you responsive instead of automatic.
+  - Enables openness and adaptability: you can’t adjust well if you don’t perceive what’s actually happening.
 
 ---
 
-## Zhuangzi: Embracing Uncertainty, Change, and Transformation
+### Vices in Zhuangzi
 
-### 1. Uncertainty as Fundamental
+These are patterns that block harmony with the Dao.
 
-#### a. Pervasive Uncertainty
+#### 1. Rigidity
 
-- Humans are naturally unsure about:
-  - What is truly right or wrong.
-  - What will happen to them and the world.
-  - Even what the “self” is.
-- Zhuangzi stresses:
-  - Our judgments of right/wrong depend on perspective (“this” vs. “that”).
-  - What counts as beautiful, useful, or good varies by species, culture, and situation.
+- **What it is**:
+  - Insisting on one fixed doctrine, one identity, one way of life, or one “true” right/wrong.
+- **Examples**:
+  - Debaters (Confucians vs Mohists) each claim to own “right” and “wrong”.
+  - Zhuangzi shows any position can be affirmed or denied from some standpoint.
+- **Why it’s a vice**:
+  - The world is constantly changing; rigid stances soon conflict with reality.
+  - Leads to dogmatism, conflict, and inner tension.
 
-**Key idea**: There is no single, final, context-free standpoint from which to judge everything.
+#### 2. Being Stuck or Blocked
 
-#### b. The Sage’s Attitude: “Radiance of Drift and Doubt”
+- **What it is**:
+  - Getting trapped in one role, mood, or self-conception; inability to move on.
+- **Examples**:
+  - People “continue along the same ruts… held fast as if bound by cords.”
+  - Zhao Wen’s son endlessly grappling with his father’s zither strings, never moving beyond that narrow skill.
+- **Why it’s a vice**:
+  - Blocks transformation of self and perspective.
+  - Makes you brittle and unable to cope with new situations.
 
+#### 3. Inattentiveness
+
+- **What it is**:
+  - Moving through life on autopilot; not noticing how all things and evaluations are constantly shifting.
+- **Examples**:
+  - People spend life “drowning in their own activities,” never asking what any of it amounts to.
+  - Fools assume they are “already awake” to reality, not seeing they’re in a “vast dream”.
+- **Why it’s a vice**:
+  - You miss chances to adapt.
+  - You cling to illusions about yourself, others, and what really matters.
+
+---
+
+## Embracing Uncertainty, Change, and Transformation
+
+### 1. Uncertainty
+
+#### Basic claim
+
+- **Uncertainty about the future and our place in the world is built into human life.**
+- Zhuangzi does **not** try to remove this uncertainty; instead, he teaches how to live *well within it*.
+
+#### Relativity of right and wrong
+
+- “This” and “that”, “right” and “wrong”:
+  - Are generated together from particular standpoints.
+  - From one perspective, X is right; from another, X is wrong.
+- Examples:
+  - Different animals “know” different right foods, right habitats, right beauty.
+  - Humans prefer certain foods, homes, lovers; fish, birds, deer have totally different standards.
+- Conclusion:
+  - There is no single, final, objective standard accessible to us that settles all disputes.
+  - Our words and arguments are inherently limited and “obscured”.
+
+#### Zhuangzi’s response: “Radiance of Drift and Doubt”
+
+- The sage’s only “map” is the **Radiance of Drift and Doubt**:
+  - Drift: letting viewpoints and situations flow, not freezing them.
+  - Doubt: not clinging dogmatically to any single fixed judgment.
 - The sage:
-  - Does *not* decisively fix what is right once and for all.
-  - Instead uses the “Radiance of Drift and Doubt” — a clear, relaxed awareness that things are always shifting.
-  - Does not “define what is right,” but trusts the “everyday function” of each being (what actually works for it).
-- This is not lazy relativism; it is:
-  - Careful attention to concrete cases.
-  - Refusal to absolutize any single perspective.
-
-#### c. “Illumination of the Obvious” and “Present This”
-
-- “Illumination of the Obvious”:
-  - Seeing how every viewpoint is both right and limited.
-  - Understanding that “this” only makes sense against some “that,” and vice versa.
-- “Going by the rightness of the present ‘this’”:
-  - Instead of chasing final certainty, respond wisely to *this* specific situation now.
-  - Deep uncertainty at the grand level, but clear responsiveness in the immediate.
-
-**Result**: Peaceful *epistemic humility* — calmness in not knowing everything, combined with practical skill in action.
+  - “Goes by the rightness of the present ‘this’.”
+  - Entrusts judgments to the **“everyday function of each thing”**:
+    - What works for *this* being in *this* context.
+- This is *not* nihilism:
+  - He still acts, speaks, and cares.
+  - But he does so with humility about his own standpoint.
 
 ---
 
-### 2. Embracing Change and Transformation
+### 2. Change and Transformation
 
-#### a. Self as Process, Not Fixed Thing
+#### Fundamental idea
 
-- Imagery of the wind:
-  - A great breath blows through many hollows; each produces different sounds.
-  - Similarly, the Dao flows through beings, producing many forms and personalities.
-- Ziqi says he has “lost me”:
-  - The rigid, separate “I” dissolves into a more open awareness.
-  - We are shifting patterns in a larger process, not solid, isolated selves.
+- The world, our circumstances, and we ourselves are in **constant transformation**.
+- Zhuangzi urges us to **embrace** this, including:
+  - Changes in fortune.
+  - Aging and disease.
+  - Death.
 
-#### b. Life and Death as Transformations
+#### Key stories and arguments
 
-- Stories and images:
-  - Lady Li cries when captured, but later rejoices in the king’s palace and regrets her earlier distress — perspective changes completely.
-  - Dream images: dreaming of drinking wine vs. weeping, then waking; a “great awakening” might show our current life as just a dream.
-  - Butterfly dream: Zhuang Zhou dreams he is a butterfly; on waking, he cannot tell if he was Zhou dreaming he was a butterfly, or a butterfly now dreaming it is Zhou.
-- Core thought:
-  - Boundaries between states (life/death, waking/dream, human/animal) are not absolute.
-  - Our strong attachments to one state (“life,” “being human,” this particular identity) are partly based on narrow perspective.
+1. **Ziqi “losing me”**
+   - Ziqi says he has “lost me”:
+     - His rigid, ego-centered self has dissolved.
+     - He is like a hollow that wind passes through: the “piping of Heaven” produces many sounds.
+   - Suggests:
+     - The self is not a fixed substance but part of a larger process (“Great Clump” of qi).
+     - Openness to transformation of self.
 
-#### c. Recommended Attitude
+2. **Life as dream; dream as life**
+   - You can dream you drink wine and wake up weeping; or dream weeping and wake up joyful.
+   - “While dreaming, you don’t know it’s a dream.”
+   - Zhuangzi:
+     - Asks if a **“great awakening”** would make our whole present life look like a dream.
+     - Claims that Confucius and the questioner are dreaming; even his own statement is within the dream.
+   - Lesson:
+     - Our current certainties about what is real, important, or tragic may later look as mistaken as dream-fears.
+     - This undercuts obsessive clinging to particular states of life.
 
-- Do **not**:
-  - Cling desperately to any particular identity, role, or condition.
-  - Treat death as an absolute catastrophe or life as an absolute possession.
-- Do:
-  - Treat transformations as natural transitions in the Dao.
-  - Remain flexible and curious: “How do I know that loving life is not a delusion? How do I know the dead do not regret having clung to life?”
-- For happiness:
-  - Reduces fear of future change (aging, illness, death).
-  - Encourages savoring of the present configuration while being ready to flow into the next.
+3. **Butterfly dream**
+   - Zhuang Zhou dreams he is a butterfly, carefree.
+   - Wakes as Zhuang Zhou again.
+   - He doesn’t know:
+     - Whether he was Zhuang Zhou dreaming a butterfly,
+     - or a butterfly now dreaming he is Zhuang Zhou.
+   - Calls this the **“transformation of one thing into another.”**
+   - Lesson:
+     - Identity is fluid; the boundary between “me” and “not me” is not as strict as we think.
+     - We should not cling to one fixed self as ultimately real.
+
+4. **Lady Li**
+   - Lady Li wept when taken from her old life to Qin.
+   - When she later enjoyed palace luxury, she regretted her earlier tears.
+   - Zhuangzi:
+     - Asks whether the dead may similarly regret how tightly they clung to life.
+   - Lesson:
+     - Our present judgments about what is good/bad (life/death, place/status) are unstable and may be overturned by later transformations.
+
+#### How to embrace transformation
+
+- “Harmonize with them by means of their Heavenly Transitions”:
+  - Recognize that every “so” is also “not-so,” every “right” also “not-right,” in some context.
+  - Don’t try to force all things into one permanent pattern.
+- “Forget what year it is, forget what should or should not be”:
+  - Drop obsessive calendar- and duty-fixation.
+  - Live in the present flow, rather than in abstract schemes.
+- Sage’s posture:
+  - “Standing shoulder to shoulder with the sun and moon, scooping up time and space.”
+  - Participates in many different “harvests”, yet tastes the same underlying “maturation” in all.
+  - Even death/life cannot fundamentally disturb him.
 
 ---
 
-## Self and Role: Sincerity, Authenticity, and Genuine Pretending in the Zhuangzi
+## Sincerity, Authenticity, Genuine Pretending – and Zhuangzi’s Recommendation
 
-Zhuangzi is very interested in **how** we inhabit roles (parent, student, official, friend) in a changing world. Three contrasting models:
+This section is about **how to understand the self and its roles**.
 
----
+### 1. Definitions
 
-### 1. Sincerity
+#### Sincerity
 
-*(Think: Confucian ideal.)*
-
-#### a. What Sincerity Is
+(Think roughly: *inner consistency and earnestness about accepted norms or roles*.)
 
 - You:
-  - Wholeheartedly **identify** with your social/moral roles (child, ruler, friend, etc.).
-  - Try to make your inner feelings perfectly match the moral norms of the role.
-  - Want to *really be* a filial child, loyal minister, benevolent ruler, etc.
-- “Genuineness” here:
-  - Being inwardly exactly what your role demands.
-  - Little or no gap between inner self and outer performance.
+  - Deeply internalize certain values/roles (e.g., “dutiful son,” “loyal minister”, “moral person”).
+  - Strive to align your thoughts, feelings, and actions with those norms.
+  - Avoid hypocrisy: you want your **inner** and **outer** to match.
+- Ideal in many Confucian texts:
+  - One should *truly* embody one’s role, not just go through the motions.
 
-#### b. Problems from Zhuangzi’s Perspective
+#### Authenticity
 
-- Encourages **rigidity**:
-  - You lock onto a specific, role-defined identity and moral code.
-  - Hard to accept other perspectives or roles that conflict with your chosen one.
-- Makes you vulnerable to **change**:
-  - If you lose the role (fired, exiled, retired), your sense of self collapses.
-- Strengthens **harsh judgments**:
-  - Sincere defenders of their roles often insist that their way of living is simply right, other ways are wrong.
-  - This leads to endless debates, conflicts, and moralistic anxiety.
-
-**Conclusion**: Zhuangzi is suspicious of sincerity as an absolute ideal. It tends toward the vices of rigidity and stuckness.
-
----
-
-### 2. Authenticity
-
-*(Think: modern Western ideal.)*
-
-#### a. What Authenticity Is
+(Think roughly: *being true to an inner, unique, “real self” that is prior to roles*.)
 
 - You:
-  - Seek to discover your “true inner self” — your unique, deep identity.
-  - Aim to live in a way that expresses this inner essence, even against social expectations.
-  - Often view social roles as masks or constraints that must not distort your true self.
-- “Genuineness” here:
-  - Being faithful to your inner essence, not letting society define you.
+  - Believe you have a deep, stable core self with its own desires, values, identity.
+  - Try to express this inner self outwardly, even if it conflicts with social expectations.
+  - Often involves suspicion of social roles as “masks” that distort your real essence.
+- Ideal in much modern Western thought:
+  - “Be yourself,” “find your true self,” “don’t just conform.”
 
-#### b. Problems from Zhuangzi’s Perspective
+#### Genuine Pretending
 
-- Still assumes a **fixed core self**:
-  - A stable inner essence you must discover and protect.
-  - This clashes with Zhuangzi’s vision of self as fluid and transforming.
-- Can become a new kind of **rigidity**:
-  - “I *am* this kind of person, therefore I must always act this way.”
-  - Anxiety about “Am I really being my true self?” creates inner conflict.
-- Can damage **harmony with others**:
-  - Overemphasis on self-expression may make it hard to adapt kindly to family, workplace, or community needs.
+(Concept used by some interpreters to capture Zhuangzi’s view.)
 
-**Conclusion**: Authenticity is less focused on fixed roles and moral codes than sincerity, but still too focused on a fixed self. It doesn’t fit well with Zhuangzi’s emphasis on transformation and perspective-shifting.
+- You:
+  - Fully and skillfully play your social roles (child, student, friend, worker, etc.).
+  - Do so with **wholehearted engagement**, but with an important awareness:
+    - You know that no role or self-description is **ultimately, absolutely “you”**.
+    - Roles are tools or costumes that you can change as circumstances change.
+- “Pretending”:
+  - Because roles are not your fixed essence.
+- “Genuine”:
+  - Because you are not deceptive or half-hearted; you throw yourself into the role *for now*, while knowing it’s not ultimate.
+- Fits Zhuangzi’s idea of:
+  - “Walking two roads” (both engaging and stepping back).
+  - Letting each “this” be right in its context, without freezing it as absolute.
 
 ---
 
-### 3. Genuine Pretending (Zhuangzi’s Recommended Ideal)
+### 2. Zhuangzi’s critique of sincerity and authenticity
 
-“Genuine pretending” is a helpful modern term for Zhuangzi’s preferred way of being in roles.
+#### Problems with rigid sincerity
 
-#### a. What Genuine Pretending Is
+- When sincerity is tied to **one fixed set of norms or one dao**:
+  - You cling to one moral scheme as *the* truth (e.g., only one way of being filial, loyal, just).
+  - You become **rigid** and unable to adapt to different situations or people.
+- Zhuangzi’s targets:
+  - Confucians and Mohists who insist on their own “right” and denounce others’ as “wrong.”
+  - People who “follow whatever has so far taken shape in their minds, making that their teacher.”
+- Consequences:
+  - “Continue along the same ruts,” exhausted and bewildered.
+  - Constant disputes over right/wrong with no final resolution.
+- From a Daoist standpoint:
+  - Such sincerity is a **vice** because it opposes openness and adaptability.
+  - It ties your identity tightly to one pattern, making change and uncertainty terrifying.
 
-- **Pretending**:
-  - You fully *play* your social roles (parent, teacher, friend, official) — like an excellent actor.
-  - You take them seriously enough to do them well and responsibly.
-  - But you remain aware that they are *roles*, not absolute identities.
-- **Genuine**:
-  - You are not lying or faking in a deceptive way.
-  - Your responses in the role are sincerely caring and appropriate to the situation.
-  - Your genuineness lies in *attunement to the moment*, not in expressing a fixed inner essence.
+#### Problems with authenticity (in the Western sense)
 
-**Key point**: You neither cling to roles as your true self (sincerity), nor cling to a hidden inner essence behind roles (authenticity). You skillfully *inhabit* roles, knowing they are temporary configurations of the Dao.
+- Authenticity assumes:
+  - There is a **stable, deep “true self”** you should discover and express.
+  - Social roles are often false impositions that hide this true self.
+- Zhuangzi’s view of self clashes with this:
+  - The self is **fluid and interdependent**, not a fixed core:
+    - Ziqi “loses me”.
+    - Butterfly dream blurs boundary between “Zhuang Zhou” and “butterfly”.
+    - Body and mind are just configurations of qi that transform.
+  - Our identities and preferences themselves are products of changing circumstances:
+    - Lady Li’s reversal of feelings about her life situation.
+- Thus, a project of “finding and expressing the one, final true self”:
+  - Misunderstands what a self is.
+  - Risks making you cling to yet another **rigid story** about who you “really” are.
+  - Conflict with Daoist embrace of constant transformation.
 
-#### b. Features of Genuine Pretending
+---
 
-Connects directly to Daoist virtues:
+### 3. Why Genuine Pretending fits Zhuangzi
+
+#### How it works
+
+- You accept that:
+  - Roles and identities are **necessary**: we can’t live without them.
+  - But they are also **contingent and changing**: none is ultimately “who you are” forever.
+- So you:
+  - Take on roles as they arise (student, friend, child, worker).
+  - Perform them **skilfully and wholeheartedly** (like the wheelwright’s practiced knack).
+  - Stay **internally light and flexible**:
+    - You don’t absolutize any role.
+    - You let roles transform as situations change.
+- This matches:
+  - The sage “harmonizing with others” through varying rights/wrongs while remaining at rest in the middle.
+  - “Harmonizing with Heavenly Transitions” and “being jostled and shaken by the boundlessness, yet lodged securely in it.”
+  - Going by “the rightness of the present ‘this’” instead of defending one constant identity.
+
+#### Connection to the virtues
 
 - **Openness**:
-  - You are open to many possible identities and perspectives.
-  - You see that each role is one way the Dao flows through you for a while.
+  - Genuine pretending recognizes many legitimate ways of being; you can seriously inhabit different roles without claiming any as the only true one.
 - **Adaptability**:
-  - You can move flexibly among different roles as life changes (child → parent, student → worker, etc.).
-  - You adjust behavior to the needs of each relationship without inner crisis.
+  - You can step into and out of roles as the context changes (like the monkey-trainer’s chestnut counts).
 - **Spontaneity**:
-  - Like a good improviser, you respond creatively to each new situation within the role.
-  - Not rigidly following a script, but letting the role express itself appropriately in changing conditions.
+  - Once you have practiced roles and skills, you can perform them effortlessly, without overthinking.
 - **Attentiveness**:
-  - You carefully read the “rightness of the present this”:
-    - What does this child, this colleague, this stranger need *now*?
-  - You are sensitive to context rather than trapped in abstract rules.
+  - You watch for what this situation calls for, rather than mechanically replaying a role-script.
 
-#### c. How Zhuangzi’s Text Supports Genuine Pretending
+#### Why Zhuangzi recommends genuine pretending
 
-- The sage “uses various rights and wrongs to harmonize with others” while resting in the center (Heaven’s Potter’s Wheel).
-  - Outwardly: can speak and act in many different moral languages and roles.
-  - Inwardly: not bound by any single fixed identity.
-- The sage treats “each thing as right” and “enfolds them all within himself.”
-  - Can affirm many forms of life, many roles and perspectives.
-- Advice to “forget what year it is, forget what should or should not be; let yourself be jostled and shaken by the boundlessness.”
-  - Let go of fixed stories about who you must be.
-  - Allow roles and identities to shift with circumstances.
-
-#### d. Why Genuine Pretending is Recommended over Sincerity and Authenticity
-
-1. **Handles Uncertainty Better**
-   - No need for final certainty about who you “really” are or which moral code is absolutely right.
-   - You navigate uncertainty by skilled, context-sensitive responding.
-
-2. **Handles Change and Transformation Better**
-   - Roles and identities can come and go without destroying your sense of self.
-   - You see yourself more like Zhuang Zhou/the butterfly: multiple forms over time.
-
-3. **Avoids Main Vices**
-   - Less prone to rigidity:
-     - You don’t absolutize roles (sincerity) or inner essence (authenticity).
-   - Less likely to get stuck:
-     - If a role no longer fits, you can gracefully move to another.
-   - Increases attentiveness:
-     - Focus shifts from “Am I being true to *myself*?” to “What is right for *this situation*?”
-
-4. **Promotes Harmony and Happiness**
-   - Easier to get along with diverse people and norms: you can “walk two roads.”
-   - Anxiety about self-justification and moral purity decreases.
-   - You live more lightly and playfully, yet still responsibly.
-
----
-
-### 4. Quick Comparison Table
-
-| Model          | What is “real” self?              | Attitude to roles              | Zhuangzi’s verdict |
-|----------------|-----------------------------------|--------------------------------|--------------------|
-| Sincerity      | My role-defined moral identity    | Be *truly* and fully my role   | Too rigid, role-bound |
-| Authenticity   | Inner essence behind roles        | Roles may be masks            | Still too essentialist |
-| Genuine pretending | No fixed essence; shifting patterns in Dao | Fully play roles, knowing they’re provisional | Recommended ideal |
-
----
-
-**For the exam**: 
-
-- Be able to:
-  - Define the four virtues and three vices and explain how they relate to living with the Dao.
-  - Explain how Zhuangzi embraces uncertainty and change (perspectivism, dreams, transformation).
-  - Distinguish sincerity, authenticity, and genuine pretending, and give reasons why genuine pretending best fits Zhuangzi’s philosophy.
+- It:
+  - Respects the **inescapable reality of roles** (you still act, talk, form relationships).
+  - Avoids the **rigidity of sincerity** (no single fixed dao or identity is treated as absolute).
+  - Avoids the **illusion of a fixed authentic core** (self is recognized as transformable).
+  - Allows you to live **happily and skillfully within uncertainty and change**.
+- In short:
+  - Zhuangzi’s ideal is not “be absolutely sincere” or “express a true inner self,”
+  - But to **play your changing roles genuinely, while knowing they are only roles**—this is genuine pretending.

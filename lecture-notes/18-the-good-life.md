@@ -1,413 +1,412 @@
-## 1. The Harvard Study of Adult Development & Why Social Fitness Matters
+## 1. Waldinger & Schulz: The Good Life, Social Fitness, and the Harvard Study
 
-### What the Harvard Study Is
+### A. Their main claim about the good life
+- The “good life” is not a life without problems.  
+- It includes joy and love, but also pain, struggle, and eventual death.  
+- Core idea: **close, supportive relationships** are a major determinant of:
+  - Happiness and life satisfaction  
+  - Physical health and longevity  
+  - Mental health and resilience  
 
+So, if you care about living well, you should **take relationships as seriously as you take career or physical health**.
+
+---
+
+### B. The Harvard Study of Adult Development
+
+**Design:**
 - Began in the late 1930s.
-- Followed two groups of boys/young men across their whole adult lives:
-  - Harvard undergraduates (mostly relatively privileged).
-  - Boys from disadvantaged neighborhoods in Boston.
+- Followed **two groups of young men** across their entire adult lives:
+  1. Harvard undergraduates (relatively privileged)
+  2. Boys from Boston’s poorest neighborhoods (less privileged)
 - Methods:
-  - Regular interviews, questionnaires about work, family, mental health.
-  - Medical exams, brain scans later on.
-  - Contact with spouses and children for fuller picture.
-- It is the **longest in-depth longitudinal study** of adult life ever done.
+  - Regular detailed interviews  
+  - Questionnaires about work, relationships, mental health  
+  - Medical exams and health records  
 
-### Main Finding Relevant to The Good Life
+**Why it’s important:**
+- It is **the longest in-depth longitudinal study of human life** ever done.
+- It tracks people over many decades, instead of just taking one-time snapshots.
 
-- Flourishing (being happy, healthy, and fulfilled across a lifetime) is **complex** and influenced by many things.
-- But the **single most powerful and consistent predictor** of:
-  - physical health,
-  - mental health,
-  - and overall life satisfaction
-  was the **quality of close relationships**, not:
-  - wealth,
-  - fame,
-  - career success,
-  - or IQ.
+**Key findings:**
+- What best predicts **happiness, health, and longevity** is:
+  - Quality of **close relationships** (family, friends, partners, community),
+  - Not wealth, status, or fame.
+- Loneliness and social disconnection:
+  - Are associated with worse physical health (e.g., more illness, shorter life),
+  - Are as harmful as some major health risk factors (like smoking or obesity).
+- Strong relationships:
+  - Protect both **body** (lower risk of some diseases) and **mind** (better mood, better memory).
 
-> Roughly: Good, supportive relationships protect your body and mind across life.
+**Philosophical upshot:**
+- If relationships matter more than many things we commonly chase (money, prestige, status),  
+  then **rational life planning** should:
+  - Give **high priority** to cultivating and maintaining close, supportive relationships.
 
-### Why This Supports “Social Fitness”
+---
 
-Waldinger and Schulz argue:
+### C. Social Fitness: Why It Matters as Much as Physical Fitness
 
-1. **Relationships strongly affect health and happiness.**
-   - People with warm, reliable relationships had:
-     - lower rates of chronic disease,
-     - better mood,
-     - longer lives.
-   - Loneliness and conflict were associated with:
-     - worse health outcomes,
-     - earlier decline,
-     - more depression and anxiety.
+**Analogy to physical fitness:**
+- Physical fitness:
+  - Requires regular effort: exercise, sleep, diet.
+  - Declines if you neglect it.
+- **Social fitness** (their term):
+  - Your *capacity to form, maintain, and deepen supportive relationships*.
+  - Requires **regular attention and practice**.
+  - Also declines if neglected.
 
-2. **Relationships do not maintain themselves automatically.**
-   - They weaken when neglected.
-   - Conflicts, misunderstandings, and life transitions (moves, job changes, parenting) can erode them.
+**Key idea:**
+- We tend to assume that relationships “take care of themselves” if they are “meant to be.”
+- Waldinger and Schulz argue this is mistaken:  
+  **Relationships, like muscles, weaken without use.**
 
-3. **Therefore we need “social fitness”, not just physical fitness.**
-   - Physical fitness: exercise, nutrition, sleep → stronger body.
-   - Social fitness: intentional effort to build and maintain relationships → stronger network of support.
-   - Both:
-     - require regular, ongoing work,
-     - decline if ignored,
-     - are easier to maintain than to repair after serious damage.
+**What it means to “cultivate social fitness”:**
+- Regularly **assess** your relationships:
+  - Who are my closest people right now?
+  - Which relationships feel strong? Strained? Neglected?
+- Then **act** to strengthen them:
+  - Reach out, repair conflicts, invest time, show care.
+- Treat social fitness as something you **train deliberately**, not as something automatic.
 
-### What “Social Fitness” Involves
+**Illustrative idea (John and Leo):**
+- Think of two old friends (John and Leo):
+  - They were close in college but assume their bond will last without effort.
+  - Years of “too busy right now” → fewer calls, fewer shared experiences.
+  - The friendship quietly weakens.
+- Their point: if John and Leo had treated their friendship like **fitness** (requiring regular “workouts”), they could have maintained or deepened it.
 
-- **Regular assessment**:
-  - Asking yourself:
-    - Who are “my people”—those I can really count on?
-    - Which relationships feel neglected or strained?
-    - When did I last invest time and attention in them?
-- **Deliberate cultivation**:
-  - Scheduling time with people.
-  - Reaching out, checking in.
-  - Repairing conflicts.
-  - Practicing good communication and empathy.
-
-Conclusion: Because relationships are a central determinant of long-term happiness and health, Waldinger and Schulz think **cultivating social fitness is as important to the good life as maintaining physical fitness**—and should be consciously prioritized.
-
+**Why social fitness is *as important* as physical fitness:**
+- Because, as the Harvard Study shows, **relationships are a central determinant of health and happiness**.
+- Just as you schedule workouts or doctor’s appointments, you ought to **schedule and protect** time and energy for relationships.
 
 ---
 
 ## 2. Brené Brown: Fitting In vs Belonging
 
-### Definitions
+### A. Definitions
 
-- **Fitting In**:
-  - Trying to change yourself in order to be accepted by a group.
-  - “What do I need to be, say, or hide so that they will like me?”
-  - Involves:
-    - people-pleasing,
-    - masking or hiding parts of yourself,
-    - conformity motivated by fear of rejection.
+**Fitting in:**
+- Trying to **change yourself** so that others will accept you.
+- You adjust your:
+  - Opinions, interests, appearance, or behavior
+  - To match what you think others want or expect.
+- The question underneath: “**Who do I need to be so you will like me?**”
 
-- **Belonging**:
-  - Being accepted **as your authentic self**.
-  - “I can show up as I really am, and I am still valued and included.”
-  - Involves:
-    - vulnerability (showing your real feelings and flaws),
-    - mutual respect,
-    - feeling safe to disagree or be different.
-
-### Why “Fitting In” Is Problematic
-
-Brené Brown argues that “fitting in” undermines genuine happiness and connection because:
-
-1. **Self-betrayal**:
-   - You deny or hide your true preferences, values, or identity.
-   - This erodes self-respect and can generate shame.
-
-2. **Shallow or conditional connections**:
-   - Others are connecting with your **performed** self, not your real self.
-   - Acceptance feels fragile: “If they knew the real me, they’d reject me.”
-
-3. **Loneliness even in groups**:
-   - You can be surrounded by people and still feel alone if you’re never fully seen.
-   - This blocks the kind of deep, supportive relationships that Waldinger and Schulz argue matter most.
-
-4. **Exhaustion and anxiety**:
-   - Constantly monitoring yourself to conform is draining.
-   - Fear of being “found out” or making a mistake increases stress.
-
-Thus, Brown thinks we should **aim for belonging, not fitting in**:
-- Being honest about who we are.
-- Seeking (and offering) spaces where people can be real.
-- This is precisely the kind of authenticity that sustains close, supportive relationships.
-
+**Belonging:**
+- Being **accepted and valued as you actually are**.
+- You can be:
+  - Honest about your feelings and views,
+  - Imperfect and vulnerable,
+  - Still feel you are part of the group.
+- The question underneath: “**Can I bring my real self and still be loved here?**”
 
 ---
 
-## 3. Three Ways to Strengthen Close, Supportive Relationships
+### B. Why fitting in is problematic
 
-Waldinger and Schulz give three concrete recommendations:
+According to Brené Brown:
 
-### 3.1 Give Time and Attention
+1. **It requires self-erasure.**
+   - You hide or distort parts of yourself to gain acceptance.
+   - Over time, this creates **shame** and a sense of being a “fake.”
 
-**Idea:** Relationships deepen when you invest **quality time and focused attention**.
+2. **It undermines real connection.**
+   - Others are connecting to the **mask**, not the real you.
+   - Even if people “like” you, you can feel lonely because your *true* self is unknown.
 
-- Why it matters:
-  - Signals to the other person: “You matter to me.”
-  - Creates opportunities for shared experiences and emotional connection.
-  - Counters the tendency to prioritize work, screens, and chores over people.
+3. **It is fragile.**
+   - Acceptance depends on constantly maintaining the performance.
+   - Any slip (honest opinion, vulnerability) feels like it might cause rejection.
 
-**Practical ways:**
+4. **It exhausts you.**
+   - Constant monitoring and self-editing are tiring.
+   - This leaves less energy for genuine intimacy and support.
 
-- Schedule regular time:
-  - Weekly phone call with a friend.
-  - Date night.
-  - Family dinner without phones.
-- Be mentally present:
-  - Put devices away.
-  - Listen actively, not half-distracted.
-- Small consistent acts:
-  - Short texts (“Thinking of you”).
-  - Quick check-ins after a hard day.
-
-**Exam tip:** Emphasize that **time + attention** is a *resource allocation choice*; it reflects treating social fitness as important, not as an afterthought.
+**Connection to the good life and social fitness:**
+- If you are always fitting in rather than belonging:
+  - Your relationships will be **shallow or unstable**.
+  - They will not provide the **deep, supportive connections** that the Harvard Study shows are crucial.
+- So, cultivating **belonging**—where you can be authentic—is central to real social fitness and long-term flourishing.
 
 ---
 
-### 3.2 Radical Curiosity
+## 3. Waldinger & Schulz’s Three Recommendations for Strengthening Relationships
 
-**Idea:** Approach people in your life with **deep, open-ended curiosity**, instead of assuming you already know what they think or feel.
+### 1. Give Time and Attention
 
-- Why it matters:
-  - People change over time; old assumptions become inaccurate.
-  - Curiosity helps you understand their inner world (fears, hopes, perspectives).
-  - Feeling truly heard and understood builds trust and belonging.
+**Core idea:**
+- Relationships grow through **regular, high-quality attention**, not just occasional grand gestures.
 
-**What radical curiosity looks like:**
+**Why it matters:**
+- Time and attention signal:
+  - “You matter to me.”
+  - “I’m willing to prioritize you over distractions.”
+- Without this, people feel secondary to work, phones, or other tasks.
 
-- Asking open questions:
-  - “How are you really doing with all this?”
-  - “What’s been on your mind lately?”
-  - “Help me understand how you see this.”
-- Listening without interrupting or planning your reply.
-- Checking your interpretations:
-  - “I’m hearing that you feel X; is that right?”
-- Being willing to be surprised:
-  - Letting go of “I already know who they are” stories.
+**How to do it (examples):**
+- Protect **uninterrupted time**:
+  - Put away your phone at dinner.
+  - Schedule regular one-on-one time with partner, friends, or family.
+- Be **fully present**:
+  - Listen without multitasking.
+  - Notice tone and body language, not just words.
+
+---
+
+### 2. Radical Curiosity
+
+**Core idea:**
+- Don’t assume you already fully know the other person.
+- Approach them with **deep, open curiosity** about their inner world.
+
+**Why it matters:**
+- People change over time (views, fears, hopes).
+- If you stop being curious, you treat them as a **fixed character** rather than a growing person.
+- Curiosity:
+  - Prevents misunderstandings,
+  - Strengthens empathy,
+  - Makes the other person feel truly seen.
+
+**How to do it (examples):**
+- Ask **open-ended questions**:
+  - “How are you *really* feeling about work lately?”
+  - “What’s been on your mind these days?”
+- When there is tension:
+  - Instead of assuming bad intent, ask:
+    - “Help me understand what was going on for you when that happened.”
+- Listen to **underlying emotions and values**, not just surface facts.
+
+---
+
+### 3. Give the Support You Want to Receive
+
+**Core idea:**
+- Treat others in the way *you yourself* would want to be treated *if you were in their position*.
+- Use your own needs as a guide, but combine this with curiosity about their preferences.
+
+**Why this helps:**
+- It encourages:
+  - **Empathy**: imagining how you would feel in their situation.
+  - **Responsiveness**: taking their struggles seriously instead of minimizing them.
+- It counters the tendency to be dismissive or distant when others are in need.
+
+**How to do it (examples):**
+- If you would want someone to **check in regularly** when you are stressed:
+  - Do this for others who are going through something (illness, breakup, exams).
+- If you would want people to **listen without immediate advice**:
+  - Offer that kind of listening first.
+  - Then ask: “Would you like advice, or do you just want me to listen?”
+- If you would appreciate **practical help** (e.g., errands, food) when overwhelmed:
+  - Offer specific forms of help, not just “Let me know if you need anything.”
+
+---
+
+## 4. The WISER Model for Dealing with Relationship Difficulties
+
+The WISER model is a step-by-step strategy to handle conflicts or tensions in relationships more skillfully.
+
+### Overview of Steps
+
+1. **Watch**  
+2. **Interpret**  
+3. **Select**  
+4. **Engage**  
+5. **Reflect**
+
+---
+
+### 1. Watch
+
+**What it means:**
+- **Pause and observe**:
+  - Your own emotions and bodily reactions,
+  - What is happening in the situation,
+  - Without immediately reacting.
+
+**Why it matters:**
+- Prevents impulsive, heated responses you might later regret.
+- Gives you a chance to calm down and think.
 
 **Example:**
-- Instead of assuming a partner is “snapping” because they’re rude, you ask, “You seem stressed—what’s going on?” and learn they’re worried about a sick parent. This opens the door for empathy instead of escalation.
+- Your friend cancels plans last minute for the third time.
+- Immediate reaction: anger, “They don’t care about me.”
+- “Watch” step:
+  - Notice: “I feel hurt and angry; my chest is tight; my thoughts are racing.”
+  - You choose to **wait before sending a harsh text**.
 
 ---
 
-### 3.3 Give the Support You Want to Receive
+### 2. Interpret
 
-**Idea:** Offer others the kind of thoughtful, reliable support **you yourself would want** in hard times, while also being attentive to their specific needs.
+**What it means:**
+- Consider **multiple possible explanations** for the other person’s behavior.
+- Challenge your first, often negative, interpretation.
 
-- Why it matters:
-  - Supportive relationships are **mutual**.
-  - Being a dependable source of care builds closeness and trust.
-  - People remember who showed up when life was difficult.
+**Why it matters:**
+- Our default story is often:
+  - “They’re selfish,” “They don’t care,” etc.
+- This may be wrong or incomplete.
+- Considering alternative explanations opens space for empathy and better responses.
 
-**Forms of support (imagining what you’d want):**
+**Example (continuing):**
+- Instead of settling on “My friend doesn’t value me,” you consider:
+  - They might be overwhelmed at work,
+  - They might be struggling with mental health,
+  - They might be bad at time management but still care.
 
-- Emotional:
-  - Listening without judgment.
-  - Validation (“That sounds really hard; it makes sense you feel that way.”)
-- Practical:
-  - Helping with tasks: rides, meals, childcare, errands.
-- Presence:
-  - Showing up at the hospital, funeral, or stressful event.
-  - Checking in consistently, not just once.
+---
 
-**Important nuance:**
-- Use your own needs as a **starting point**, but then **ask**:
-  - “What would actually feel helpful right now?”
-  - Some people want conversation; others want space; some want concrete help.
+### 3. Select
+
+**What it means:**
+- Choose a **response strategy** that fits:
+  - Your long-term goals for the relationship,
+  - Your values,
+  - The seriousness of the situation.
+
+**Why it matters:**
+- Not every problem requires the same response:
+  - Sometimes you let things go,
+  - Sometimes you have a serious talk,
+  - Sometimes you change your own boundaries.
+- Selecting intentionally avoids both overreacting and underreacting.
 
 **Example:**
-- You’d want someone to remember your big exam or surgery, so you:
-  - Text your friend the night before, wishing them luck.
-  - Follow up afterward to ask how it went.
+- Long-term goal: preserve an honest, close friendship.
+- You select a strategy:
+  - Have a calm conversation about how repeated cancellations make you feel,
+  - Rather than sending an angry text or silently withdrawing.
 
 ---
 
-## 4. The WISER Model for Handling Relationship Difficulties
+### 4. Engage
 
-Waldinger and Schulz’s **WISER model** is a step-by-step approach to responding to conflicts or tensions in relationships more thoughtfully.
+**What it means:**
+- **Carry out** the chosen strategy in real interaction with the person.
 
-### Overview of the Steps
+**How to do it well:**
+- Use **“I” statements** instead of accusations:
+  - “I felt hurt when our plans were cancelled again,”
+  - Instead of “You never take me seriously.”
+- Maintain a respectful tone and body language.
+- Stay open to their side of the story.
 
-- **W – Watch**
-- **I – Interpret**
-- **S – Select**
-- **E – Engage**
-- **R – Reflect**
-
-Use these especially when you are upset, hurt, or angry.
-
----
-
-### W – Watch
-
-**Meaning:** Pause and **observe** what is happening—both externally and internally—before reacting.
-
-- Notice:
-  - What exactly was said or done?
-  - What am I feeling (anger, hurt, fear, embarrassment)?
-  - What is my body doing (heart racing, tense shoulders)?
-
-**Example:**
-- Your friend cancels on you last minute.
-- Instead of immediately sending an angry text, you:
-  - Notice you feel disappointed and disrespected.
-  - Acknowledge the urge to lash out, but hold back for a moment.
+**Example (conversation):**
+- You say: “I care about our friendship and also feel hurt when our plans keep getting cancelled. Can we talk about what’s going on?”
+- You listen to their explanation and discuss ways to handle scheduling better.
 
 ---
 
-### I – Interpret
+### 5. Reflect
 
-**Meaning:** Consider **multiple possible explanations** for the other person’s behavior instead of jumping to the worst one.
-
-- Ask yourself:
-  - Could there be reasons I don’t know about?
-  - Am I assuming they don’t care, or is that just my fear?
-- Aim to **separate facts from stories**:
-  - Fact: They cancelled.
-  - Story: “They don’t value me” or “They always do this because they’re selfish.”
-
-**Example:**
-- Alternative interpretations for the cancelled plan:
-  - They had an unexpected work issue.
-  - Family emergency.
-  - Mental health struggle.
-  - They messed up time management and feel ashamed.
-
-This doesn’t mean excusing everything; it’s about entering the next step with a more flexible, less hostile mindset.
-
----
-
-### S – Select
-
-**Meaning:** **Choose** a response deliberately, based on your values and relationship goals.
-
-- Options might include:
-  - Letting it go (if minor and unusual).
-  - Calmly raising the issue.
-  - Asking for more information.
-  - Taking time to cool off before talking.
-
-**Questions to guide the choice:**
-
-- What kind of relationship do I want with this person?
-- What response aligns with that?
-- What will I likely regret later?
-
-**Example:**
-- You decide:
-  - “This matters enough that I want to talk about it, but I want to do it calmly rather than texting in anger.”
-
----
-
-### E – Engage
-
-**Meaning:** Actually **communicate** with the other person, using the thoughtful approach you selected.
-
-- Use:
-  - “I” statements (to express your feelings without blaming):
-    - “I felt hurt when our plans were cancelled at the last minute.”
-  - Curiosity:
-    - “Can you tell me what happened?”
-  - Specific requests:
-    - “In the future, can you let me know earlier if you need to reschedule?”
-
-**Example script:**
-- “Hey, I was really looking forward to seeing you, and I felt pretty disappointed when you cancelled last minute. I know things come up; can you help me understand what was going on?”
-
----
-
-### R – Reflect
-
-**Meaning:** After the interaction, **look back** at what happened and how you handled it.
-
-- Reflect on:
-  - How did my response affect the relationship?
+**What it means:**
+- After the interaction, **review**:
   - What went well?
-  - What would I do differently next time?
-  - Did I learn anything about the other person—or about myself?
+  - What didn’t?
+  - What did you learn about yourself and the other person?
+- Use this to improve your approach in future conflicts.
+
+**Why it matters:**
+- Conflict-handling is a **skill** that improves with deliberate reflection.
+- Reflection strengthens your **social fitness** over time.
 
 **Example:**
-- You notice:
-  - Speaking calmly led to a better conversation.
-  - Your friend apologized and explained a genuine crisis.
-  - You feel closer instead of more distant.
-- Or, if it went badly, you consider:
-  - “Maybe next time I should wait until I’m less angry.”
-
----
-
-### Why WISER Helps Social Fitness
-
-- It **slows down** impulsive, destructive reactions.
-- Increases understanding and reduces unnecessary conflict.
-- Encourages repair rather than withdrawal or escalation.
-- Over time, this preserves and deepens close relationships instead of letting them fracture.
+- You realize:
+  - Waiting before reacting helped,
+  - “I” statements kept the conversation from escalating,
+  - Next time you might propose fewer, more definite plans with this friend
+    to reduce cancellations.
 
 ---
 
 ## 5. The Urgent vs the Important: A Threat to Relationships
 
-### Distinction: Urgent vs Important
+### A. Distinction
 
-- **Urgent tasks**:
-  - Demand immediate attention.
-  - Often come with deadlines or alarms.
-  - Examples: work emails, texts, bills due today, minor crises, notifications.
+**Urgent tasks:**
+- Demand **immediate attention**.
+- Often come with deadlines or external pressure:
+  - Work emails, project deadlines, exams, bills, minor crises.
+- They feel pressing **right now**.
 
-- **Important tasks**:
-  - Matter deeply for long-term goals and values.
-  - Often **not** time-pressured in the short run.
-  - Examples:
-    - Maintaining health (exercise, sleep).
-    - Building and maintaining close relationships.
-    - Reflecting on life goals and values.
+**Important tasks:**
+- Deeply matter for your **long-term values and well-being**.
+- Often have no fixed deadline, so they can be delayed:
+  - Quality time with loved ones,
+  - Calling a friend who’s going through a hard time,
+  - Expressing appreciation or apologizing,
+  - Investing in health and personal growth.
 
-Key point: Many **relationship activities** are important but **not urgent**:
-- Calling a friend.
-- Planning a date or family outing.
-- Having a difficult but meaningful conversation.
-- Checking in on someone quietly struggling.
-
-### “No Time Today but Plenty of Time Tomorrow”
-
-Waldinger and Schulz (and Rinard’s lecture) highlight a common pattern:
-
-- We tell ourselves:
-  - “I’ll focus on relationships later—when things calm down.”
-- Today, we prioritize:
-  - Urgent work tasks.
-  - Daily hassles.
-  - Digital distractions.
-- Tomorrow, the pattern repeats.
-
-Result:
-- The urgent **systematically crowds out** the important.
-- Weeks or months pass without quality time or serious conversation.
-- Relationships quietly weaken:
-  - Less closeness.
-  - More misunderstandings.
-  - People drift apart.
-
-### How This Undermines the Good Life
-
-Connected back to the Harvard Study:
-
-- If close, supportive relationships are a key driver of long-term happiness and health, then:
-  - Continually prioritizing urgent tasks over important relationship investments is **self-defeating**.
-- You may achieve more short-term productivity, but at the cost of:
-  - Loneliness,
-  - Lack of support when you need it,
-  - Regret later in life.
-
-### Responding to This Problem
-
-To protect and build social fitness, you need to **treat relationships as important, not optional extras**:
-
-- **Schedule important-but-not-urgent social time** just like appointments:
-  - Put calls, dinners, walks, and check-ins on your calendar.
-- **Protect that time** from being overrun by the urgent:
-  - Say no to some work or social obligations.
-  - Limit distractions (phones, email) during that time.
-- **Remember the long-term stakes**:
-  - In old age, people in the Harvard Study most valued:
-    - the quality of their relationships,
-    - not how many emails they answered on time.
+Crucially: **many relationship-building activities are important but not urgent.**
 
 ---
 
-### Overall Connections for the Exam
+### B. “No time today but plenty of time tomorrow”
 
-- **Harvard Study** → Shows empirically that **relationships strongly predict flourishing**.
-- **Social fitness** → Treating relationships like muscles that require regular exercise.
-- **Brené Brown (fitting in vs belonging)** → Deep relationships require **authenticity and mutual acceptance**, not self-erasure to fit in.
-- **Three recommendations** (time/attention, radical curiosity, give the support you want):
-  - Concrete tools for building **strong, supportive bonds**.
-- **WISER model** → Strategy for **handling conflicts** so relationships survive difficulties.
-- **Urgent vs important** → Explains why people *fail* to invest in relationships, even when they know they are crucial.
+**Pattern:**
+- People tell themselves:
+  - “I’m too busy today for a long conversation / date night / visit,
+     but I’ll have more time later.”
+- Then:
+  - “Later” never really comes; new urgent tasks always appear.
+- Over months or years:
+  - Relationships receive only leftover time and energy.
 
-All together, Waldinger and Schulz argue that a **good life**—joyful but challenging—is built not mainly from status or achievement, but from **cultivated, maintained, and repaired relationships** sustained through ongoing social fitness.
+**Result:**
+- Relationships **quietly erode**:
+  - Less emotional intimacy,
+  - More misunderstandings,
+  - Feeling taken for granted or distant.
+
+---
+
+### C. How prioritizing the urgent harms close relationships
+
+1. **Neglect of maintenance:**
+   - Strong relationships require **regular maintenance**, just like physical health.
+   - When urgent tasks always win, you skip the small, steady actions
+     that keep bonds strong (talking, checking in, showing care).
+
+2. **Signals of low priority:**
+   - When someone is repeatedly postponed for work or other tasks, they can feel:
+     - Unimportant,
+     - Unloved,
+     - Like “background noise” in your life.
+   - This weakens trust and willingness to be emotionally open.
+
+3. **Lost opportunities for depth:**
+   - Intimate conversations and shared experiences often arise in **unstructured, unhurried time**.
+   - Over-scheduling your life with urgent tasks leaves no room for this.
+
+4. **Contradiction with your own values:**
+   - Many people *say* relationships matter most,
+     but *live* as if work and other urgencies matter more.
+   - Systematically choosing the urgent over the important creates a **values/practice mismatch**.
+
+---
+
+### D. What the exam may expect you to explain
+
+- Be able to:
+  - **Define** “urgent” vs “important.”
+  - Explain that **relationship-nurturing activities** are often important but not urgent.
+  - Describe how always choosing urgent tasks (work, deadlines, etc.) leads to:
+    - Neglected relationships,
+    - Erosion of close bonds,
+    - Ultimately less happiness and well-being.
+  - Connect this to the Harvard Study:
+    - Since close relationships are key to thriving,
+      **failing to protect time for them undermines your chances of living a good life.**
+
+---
+
+These points together show how Waldinger and Schulz connect:
+- The empirical findings of the Harvard Study,
+- The concept of social fitness,
+- Brené Brown’s idea of true belonging,
+- Concrete relationship practices (time and attention, radical curiosity, supportive behavior),
+- The WISER conflict model,
+- And the urgent vs important distinction,
+
+into a single picture of how to **intentionally build and protect** the close, supportive relationships that make a good life possible.

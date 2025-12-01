@@ -1,318 +1,309 @@
-# The Upanishads – Exam Notes
+## 1. Atman = Brahman
+
+### 1.1 Key Terms
+
+- **Atman**  
+  - Your *true* Self.  
+  - Not your body, personality, thoughts, or emotions.  
+  - The deepest “I” that remains the same through all changes (waking, dreaming, deep sleep; childhood, adulthood, old age).
+
+- **Brahman**  
+  - Ultimate reality; the Infinite.  
+  - The unchanging source, support, and inner essence of everything.  
+  - Not a personal god in a mythological sense, but the deepest reality of the universe.
+
+- **Central claim of the Upanishads**:  
+  **Atman = Brahman**  
+  - Your deepest Self is identical with ultimate reality.  
+  - The same reality that is the “inmost Self” of everything is also your true Self.  
+  - Famous formula: “You are that.”
 
 ---
 
-## 1. Atman = Brahman & Ultimate vs Superficial Reality
+## 2. Ultimate vs Superficial Reality
 
-### Key Questions
-- What is your real Self (Atman)?
-- What is the nature of ultimate reality (Brahman)?
-- Central claim: **Atman = Brahman**.
+### 2.1 Names and Forms vs Underlying “Stuff”
 
-### Key Terms
-- **Atman**: your innermost Self; what you really are beyond body, thoughts, and personality.
-- **Brahman**: ultimate reality; infinite, unchanging Being that is the source and support of everything.
+Upanishadic teaching uses everyday examples:
 
-### Ultimate vs Superficial Reality
+- **Clay / Gold / Iron metaphors**  
+  - If you know what *clay* is, you in a sense know all clay pots, bowls, statues:
+    - They differ only in **name and form**.
+    - The underlying *stuff* is clay.
+  - Similarly for gold jewelry or iron tools:
+    - Superficial reality: ring vs necklace vs bracelet (different shapes, purposes, social meanings).
+    - Ultimate reality: all are just gold (same substance).
 
-The Upanishads distinguish:
+**Lesson:**  
+Most differences we focus on (shape, role, label, function) are superficial.  
+What really matters metaphysically is the underlying reality.
 
-1. **Superficial (apparent) reality**
-   - The world of **“name and form”**: particular objects and people, changing and many.
-   - Example: clay pots look different (bowls, plates, statues), but differ only in **name and shape**.
+### 2.2 Applying This to Ourselves and the World
 
-2. **Ultimate reality**
-   - The underlying **“stuff” or essence** that everything is made from.
-   - Examples from Shvetaketu’s father:
-     - Knowing **one lump of clay** lets you “know” all clay objects: they are all just clay in different forms.
-     - Likewise with **gold** and **iron**.
-   - Lesson: beneath many changing forms, there is **one underlying reality**.
+- **Superficial reality (appearance)**:
+  - Individual persons, animals, trees, rivers, planets.
+  - Social roles: student, parent, boss, stranger.
+  - Psychological features: likes, dislikes, memories, moods.
+  - All these are “names and forms,” constantly changing.
 
-The Upanishadic radical move:
-- The **underlying reality of the entire cosmos** (Brahman) is also the **underlying reality of you** (Atman).
-- Repeated teaching: **“You are that”** – your deepest Self is that infinite Being.
+- **Ultimate reality (what they really are)**:
+  - All beings share a single inner essence: **Brahman**, the Self of all.
+  - Our apparent separateness is like:
+    - Different **clay pots** made of one clay.
+    - Many **rivers** that merge into one sea.
+    - Drops of **honey** from many flowers blended into one.
 
-### Illustrative Images from the Readings
-
-These images support the Atman/Brahman view:
-
-- **Dreamless sleep**: when in deep sleep with no dreams, you are not aware of body or world; the mind “rests in the Self.” Suggests your real Self is deeper than waking thoughts and roles.
-- **The tree and the Self**: if the Self leaves branch by branch, the tree withers; when the Self leaves completely, the tree dies. The Self is **life-giving**, but itself does not die.
-- **The tiny seed**: you break the tiny seed and see “nothing,” yet from it a huge tree grows. Suggests an **invisible essence** from which the visible world arises.
-- **Salt in water**: you can’t see the salt, but the water tastes salty everywhere. Likewise, the Self is **invisible but everywhere present** in all beings.
-- **Honey from many flowers**: individual nectars lose their separateness in the honey; creatures, though they appear many, have one underlying Self.
-- **Rivers into the sea**: rivers lose their names once merged into the ocean; beings lose their apparent separateness when seen at the level of pure Being.
-
-**Conclusion:**  
-Superficial reality = many separate beings and objects.  
-Ultimate reality = **one infinite Self/Being**.  
-The claim **Atman = Brahman** ties these together: your true Self just is that ultimate reality.
+**Claim:**  
+If you see only names and forms, you see the world superficially.  
+To see *ultimately* is to recognize that the same Self, Brahman, is present in all.
 
 ---
 
-## 2. Two Interpretations of “Atman = Brahman”  
-### Ocean Metaphor vs Actor Metaphor (Qualitative vs Quantitative Identity)
+## 3. Two Metaphors for Atman = Brahman: Ocean vs Actor
 
-The statement **“Atman = Brahman”** can be understood in two different ways, illustrated by two metaphors.
+The same equality “Atman = Brahman” can be understood in two different ways, using two metaphors. These correspond to two kinds of identity.
 
-### A. Qualitative Identity – The Ocean Metaphor
+### 3.1 Two Kinds of Identity
 
-**Qualitative identity**: A and B are **exactly the same in kind or nature**, but are still **numerically distinct individuals**.
+- **Quantitative (numerical) identity**  
+  - “A = B” means they are literally *one and the same thing*, just under different descriptions.  
+  - Example: “Clark Kent = Superman” – there is only one person.
 
-**Ocean / wave idea**:
-- Think of the **ocean** and its **waves**:
-  - Each wave is made of **the same water**.
-  - Waves differ in shape, size, and position, but all share the **same underlying nature**.
-- Applied to Atman and Brahman:
-  - Brahman is like the **ocean**.
-  - Individual selves (Atmans) are like **waves**.
-  - Each Atman shares the **same essence** as Brahman (infinite Being), but you and I remain **distinct individuals**.
+- **Qualitative identity**  
+  - Two things are exactly alike in qualities but are still *two* things.  
+  - Example: two identical phones from the same factory.
 
-On this interpretation:
-- **Atman = Brahman** means: *your innermost nature is of the same kind as ultimate reality*.
-- There are still **many selves**, all fundamentally of the same type as Brahman.
+### 3.2 The Ocean Metaphor (Quantitative Identity)
 
-### B. Quantitative (Numerical) Identity – The Actor Metaphor
+- Picture:
+  - Many **waves** on the surface of the **ocean**.
+  - Each wave looks separate and has its own size, shape, “life story.”
+  - But every wave is just the ocean in a temporary form.
 
-**Quantitative (numerical) identity**: A and B are not just similar; they are literally **one and the same individual**, seen in different guises.
+- Applied to Atman = Brahman:
+  - Each individual self (Atman) is like a **wave**.
+  - Brahman is like the **ocean** itself.
+  - Deep truth: there is only **one** reality (ocean); the many selves are not truly separate.
+  - When you realize this, you stop thinking of yourself as a separate “little self” and identify with the whole.
 
-**Actor / roles idea**:
-- One **actor** plays many characters in a play.
-- The roles look and act differently, but at the deepest level they are **all the same person**.
-- Applied to Atman and Brahman:
-  - Brahman is like the **single actor**.
-  - Individual persons (you, me, others) are like **different roles**.
-  - There is really **just one Self** behind all appearances.
+- Type of identity: **quantitative**  
+  - There is only *one* Self, appearing as many.
 
-On this interpretation:
-- **Atman = Brahman** means: *there is literally only one Self; your true Self and the true Self in everyone else are numerically identical*.
-- Apparent individuality is like costumes or roles; ultimately, there is just **one Experiencer**.
+### 3.3 The Actor Metaphor (Qualitative Identity)
 
-### Why This Distinction Matters
+- Picture:
+  - One **actor** plays many **roles**: doctor, villain, lover, king.
+  - The characters are really distinct from each other (different backstories, personalities).
+  - But they are all expressions of the same underlying actor.
 
-- **Ethics and compassion**:
-  - Ocean view: others are “made of the same stuff” as you; strong basis for empathy.
-  - Actor view: harming another is **literally harming yourself**, since there is only one Self.
-- **Death and fear**:
-  - Ocean view: your individual wave disappears, but the water (the common essence) remains.
-  - Actor view: the “role” ends, but the actor (the one Self) never dies.
-- **Exam tip**:  
-  - **Ocean metaphor → qualitative identity** (same nature, many individuals).  
-  - **Actor metaphor → quantitative identity** (one single Self appearing as many).
+- Applied to Atman = Brahman:
+  - Brahman is like the **actor**.
+  - Individual persons are like the **roles**.
+  - Each person is a genuinely distinct center of consciousness, but:
+    - They all share the same fundamental *nature* or essence.
+    - Each Atman is *of the same kind* as Brahman, even if not numerically the same “individual.”
 
----
+- Type of identity: **qualitative**  
+  - Each Atman shares the **same fundamental properties** as Brahman (infinite, pure consciousness, etc.), but there may be many such centers.
 
-## 3. “Trying On” the Upanishadic Worldview
+### 3.4 Why This Matters
 
-How might life feel if you **really accepted** that Atman = Brahman?
+- **Ocean view**:
+  - Strong monism: only one real Self.
+  - Individuality is an illusion or a superficial appearance.
+  - Ethics: can support radical compassion—harming others is harming “yourself” (the same Self).
 
-### Practical Mental Shifts
+- **Actor view**:
+  - Many real individuals, all with a divine nature.
+  - You and others are different, but all equally manifestations of the same infinite reality.
+  - Ethics: respect every person as a “role” of the same ultimate actor.
 
-- **Seeing others**:
-  - You see every person and creature as **expressions of the same Self**.
-  - Likely effects: increased compassion, less dehumanization, reduced anger and resentment.
+On an exam, be ready to:
 
-- **Relating to your own life story**:
-  - Your roles (student, child, friend, etc.) are like **characters** you temporarily “play.”
-  - Your real identity is deeper: the **unchanging witness** of experiences.
-  - Failures, successes, and status become **less central** to your sense of worth.
-
-- **Attitude toward death**:
-  - Death looks less like annihilation and more like:
-    - a **wave returning to the ocean**, or
-    - a **role ending while the actor remains**.
-  - This can reduce fear and anxiety about mortality.
-
-- **Attachment to external events**:
-  - If your deepest Self is infinite Being, your happiness doesn’t wholly depend on grades, income, praise, etc.
-  - You might feel more **stable and secure**, less emotionally whipsawed by daily ups and downs.
-
-- **Inner experience**:
-  - Meditation and reflection aim to help you:
-    - Notice the **quiet, observing Self** behind thoughts and emotions.
-    - Taste moments where the sense of “I vs world” softens.
-  - The tradition claims this can grow into a stable realization of **unity and peace**.
+- Define **qualitative vs quantitative identity**.
+- Explain how **ocean** = quantitative, **actor** = qualitative.
+- Connect these to different ways of understanding “Atman = Brahman.”
 
 ---
 
-## 4. Why Believe “Atman = Brahman”?  
-### Testimony, Unity, and Limits of Evidence
+## 4. Experiencing the Atman = Brahman Worldview
 
-#### 4.1 Testimony of Enlightened People
+### 4.1 “Trying on” the Worldview
 
-- Many meditators and mystics (in the Upanishadic tradition and beyond) report:
-  - Experiencing a **profound unity** with all things.
-  - A sense that the usual ego is **not the real Self**.
-  - A state of **abiding joy** and loss of fear of death.
-- The Upanishads treat these reports as **evidence**:
-  - Those who deeply practice meditation and spiritual discipline independently converge on similar insights.
-  - Their lives (peacefulness, compassion) are presented as **further support**.
+If you move through your day as if Atman = Brahman were true:
 
-As a student, you might:
-- Treat this as **defeasible but non-zero evidence**—a reason to take the view seriously, even if it’s not conclusive.
+- **Self-perception**:
+  - You are not just “this body, this ego, this resume.”
+  - You identify with the deeper consciousness witnessing all your experiences.
 
-#### 4.2 Conceptual Motivation
+- **View of others**:
+  - Every person (even enemies, strangers, annoying people) shares the same inner Self.
+  - Treat others as “you in another form” (ocean) or as fellow roles played by the same ultimate actor.
 
-The metaphors (clay, gold, honey, rivers, seed, salt) suggest:
-- A drive toward **explanatory unity**: instead of many separate ultimate realities, there is **one underlying Being**.
-- This single Being explains:
-  - the origin of all things,
-  - the continuity of life and consciousness,
-  - the similarity of experience across individuals.
+- **Emotions and fears**:
+  - Less fear of death: the body dies, but the Self is like the “life of the tree” that leaves the branch yet does not die.
+  - Less anxiety about status, praise, blame: these affect only the “role,” not the underlying actor.
 
-#### 4.3 Empirical Testability and Uncertainty
+- **Connection with the world**:
+  - You see continuity between yourself and nature: trees, rivers, animals are expressions of the same reality.
+  - Everyday changes become like different waves on one ocean.
 
-- In principle, the claim **“your true Self is identical with ultimate reality”** is about reality, not just language, so it is **empirical in spirit**.
+---
+
+## 5. Why Believe Atman = Brahman?
+
+### 5.1 Testimony of the Enlightened
+
+- Upanishads appeal to the **testimony** of people who claim to have:
+  - Deep realization of the Self through meditation and spiritual discipline.
+  - Direct experience that the individual self and the universal Self are one or of the same nature.
+
+- Pattern:
+  - Like someone who has visited a distant country telling you what it’s like.
+  - You haven’t been there; you rely on credible witnesses.
+  - Similarly, enlightenment reports are treated as “expert testimony” about a kind of experience most people lack.
+
+### 5.2 Empirical Testability
+
+- In principle, the claim is **empirical** in a broad sense:
+  - It’s about what can be directly experienced in a transformed state of consciousness.
+  - It’s not just a logical truth or a mere definition.
+
 - But:
-  - Current scientific methods focus on **publicly observable**, measurable phenomena.
-  - The core evidence for Atman = Brahman is **first-person experience** reached through deep meditation—something not easily accessed or measured in labs today.
+  - Not testable with current **standard scientific methods** (e.g., lab experiments, surveys).
+  - Access seems to require special inner practices (meditation, ethical discipline, etc.).
 
-Therefore:
-- The claim is **not decisively testable now** by standard methods.
-- You face a **decision under uncertainty**:
-  - How much weight to give to ancient testimony?
-  - How much to trust your own future potential experiences?
+### 5.3 Practical Epistemic Situation
 
-A practical approach suggested by the lecture:
-- You must choose what to **devote your life to** without full information.
-- In the meantime, you can:
-  - Try **meditation** yourself, and
-  - See whether it **improves your condition** (calmer, less anxious, more focused) in the short term.
-- This doesn’t prove Atman = Brahman, but it can give **partial, pragmatic evidence** that something in this path is valuable.
+- You must decide how to live **under ignorance and uncertainty**:
+  - You cannot *prove* the Atman = Brahman doctrine in advance.
+  - But you also cannot conclusively disprove it.
 
----
-
-## 5. The Path of Pleasure vs the Path of Joy
-
-The Upanishads (and the lecture) contrast two life strategies:
-
-1. **The path of pleasure** (preya)
-2. **The path of joy** (shreya), connected to realizing the Self/Brahman
-
-### 5.1 The Path of Pleasure
-
-**Definition:**
-- Pursuing experiences that feel good: sensory enjoyment, praise, success, comfort, entertainment, etc.
-
-**Key features:**
-- **Caused by external objects or circumstances**:
-  - Food, sex, wealth, status, recognition, favorable conditions.
-- **Always tied to its opposite—pain**:
-  - “To pursue pleasure is to also pursue pain.”
-
-**Two reasons pleasure and pain go together:**
-
-1. **Dependence on changing circumstances**
-   - External things are **unreliable and impermanent**:
-     - You may not get what you want → frustration, disappointment.
-     - You may lose what you have → grief, fear, anxiety.
-   - The more you stake your happiness on externals, the more **vulnerable** you are.
-
-2. **Craving, contrast, and adaptation**
-   - Pleasures require **contrast**: you feel them when things get better than before.
-   - Over time you **adapt** (hedonic adaptation):
-     - The same enjoyable thing stops feeling special.
-     - You need more or new kinds of pleasure to get the same feeling.
-   - This creates ongoing **craving, restlessness, and dissatisfaction**.
-   - Even while enjoying pleasure, you may feel:
-     - Fear of losing it,
-     - Urge for more,
-     - Emptiness once it ends.
-
-Overall:
-- The path of pleasure produces **brief highs** mixed with:
-  - anxiety,
-  - disappointment,
-  - and eventual emptiness.
-
-### 5.2 The Path of Joy
-
-**Definition:**
-- Focusing on a **deep, stable, inner happiness** that does not depend on particular external circumstances.
-- In the Upanishadic framework, this joy comes from **realizing Atman = Brahman**.
-
-**Key features of joy (as presented in lecture):**
-
-- **Internal source**:
-  - Joy arises from the **state of your Self**, not from obtaining or keeping external things.
-  - It is linked to **inner realization** and a quieted mind.
-
-- **Undirected**:
-  - Not “I’m happy because I got X.”
-  - More like a **background radiance or peace** that doesn’t point to a specific object.
-  - A general sense of **rightness and fullness**.
-
-- **Intense and peaceful at the same time**:
-  - Unlike excitement or thrill (which are agitated), this joy is:
-    - very **powerful**, yet
-    - deeply **calm and serene**.
-
-- **“Billions to the pennies of pleasure”**:
-  - Analogy: ordinary pleasures are like a few pennies.
-  - Joy from realizing the Self is like possessing **billions**—of a **different order of magnitude**.
-  - Suggests:
-    - greater **depth**,
-    - greater **stability**,
-    - and incomparably more **value**.
-
-The Upanishadic idea:
-- Only contact with the **Infinite** (Brahman) yields **abiding joy**; finite things give only fleeting pleasure.
-
-### 5.3 How to Achieve Lasting Joy (1) and (2)
-
-The lecture highlights **two broad steps**:
-
-1. **Reorient your life’s aim**
-   - Shift your primary goal from:
-     - “Maximize pleasures / minimize pains”
-   - To:
-     - “Realize my true Self; seek the Infinite; follow the path of joy.”
-   - This includes:
-     - Recognizing the **limitations** of pleasure.
-     - Deciding to place **ultimate value** on inner transformation, wisdom, and connection with Brahman.
-
-2. **Adopt a spiritual discipline aimed at Self-realization**
-   - In the Upanishadic context, this involves:
-     - **Meditation**: training attention, quieting the mind, observing the Self behind thoughts.
-     - **Study and reflection**: contemplating teachings like “You are that,” and the metaphors of unity.
-     - **Ethical living**: reducing selfishness and cruelty, which disturb the mind and reinforce ego.
-     - **Guidance from a teacher**: as with Shvetaketu and Narada, who both seek and receive teachings that point beyond ordinary knowledge.
-
-These practices are supposed to:
-- Weaken identification with the **ego and roles**.
-- Reveal the **underlying Self** common to all.
-- Allow the **path of joy** to gradually replace the compulsive chase after pleasure.
-
-### 5.4 Are These Claims Testable? How to Decide Under Uncertainty
-
-- The claim that this path leads to **lasting joy** is, in principle, about how human minds and reality actually are—so **empirical** in a broad sense.
-- But:
-  - It involves **inner states** reached through long practice.
-  - Not straightforwardly testable by **current** scientific methods.
-
-You must:
-- Make life decisions (how much to prioritize pleasure vs inner growth) from a **position of ignorance and uncertainty**.
-- Weigh:
-  - Testimony from the tradition (enlightened people report lasting joy),
-  - Philosophical appeal (a joy not hostage to circumstances),
-  - Your own experiences.
-
-A reasonable interim strategy:
-- Treat this as a **hypothesis**.
-- Run **small experiments**:
-  - Try meditation.
-  - Reduce some pleasure-chasing behaviors.
-  - Observe whether this brings more **peace, clarity, and well-being** even in the short term.
-- Use those results to inform your longer-term choice between a life centered on **pleasure** vs **joy**.
+- Upanishadic suggestion:
+  - Consider the possible benefits if it is true (deep joy, freedom from fear).
+  - Try practices like meditation *on a small scale* to see whether they:
+    - Reduce suffering,
+    - Increase peace and insight, even short term.
+  - Use these “trial results” as partial evidence when deciding how much to commit.
 
 ---
 
-**Core exam takeaway:**
+## 6. The Path of Pleasure vs The Path of Joy
 
-- **Atman = Brahman**: your deepest Self is the same as ultimate reality.
-- **Ocean vs actor metaphors** illustrate two kinds of identity:
-  - Ocean (waves): **qualitative** identity (same nature, many individuals).
-  - Actor (roles): **quantitative** identity (one Self, many appearances).
-- **Ultimate vs superficial reality**: behind many changing “names and forms” lies one unchanging Being/Self.
-- **Path of pleasure**: externally caused, unstable, and intertwined with pain.
-- **Path of joy**: inner, undirected, intensely peaceful happiness grounded in Self-realization—“billions to the pennies of pleasure”—pursued through reorienting life’s aim and spiritual discipline, under conditions of uncertainty.
+### 6.1 Two Ways of Living
+
+- **Path of Pleasure**:
+  - Main aim: maximize pleasant experiences and minimize unpleasant ones.
+  - Focus on external goods:
+    - Sense pleasures (food, sex, comfort).
+    - Social pleasures (praise, admiration, status).
+    - Material pleasures (money, possessions).
+
+- **Path of Joy**:
+  - Main aim: realize the Self and attain **abiding inner joy**.
+  - Focus on:
+    - Knowledge of the Infinite (Brahman).
+    - Inner transformation through meditation, reflection, and discipline.
+    - Detachment from dependence on external conditions.
+
+The Upanishadic message:  
+**To chase pleasure is, unavoidably, to chase pain.**  
+Joy offers a fundamentally different alternative.
+
+### 6.2 Why Pleasure and Pain Go Together (Two Reasons)
+
+1. **Dependence on External, Changing Things**
+   - Pleasure depends on specific objects and circumstances:
+     - Tasty food, a comfortable body, friendly treatment, success.
+   - These are:
+     - Unstable (aging, loss, illness, failure, others’ choices).
+     - Outside your full control.
+   - When:
+     - You don’t get what you want → frustration, disappointment.
+     - You lose what you enjoy → grief, anxiety.
+   - Result: building your life on pleasure is like building on shifting sand.
+
+2. **Craving, Habituation, and Contrast**
+   - Pleasure tends to:
+     - Create **craving** for more: what was once enough stops satisfying.
+     - Lead to **habituation**: over time, the same stimulus produces less pleasure.
+     - Change your **baseline**: after intense pleasures, ordinary life feels dull or painful by comparison.
+   - Thus:
+     - You need ever-greater stimulation just to feel “okay.”
+     - Neutral or mildly pleasant states can feel like deprivation.
+
+Conclusion:  
+Pursuing more pleasure usually increases **instability, craving, and vulnerability to pain**.
+
+### 6.3 Nature of Joy
+
+- **Source**:
+  - **Internal**: arises from realizing your true Self and its relation to Brahman.
+  - Not tied to specific external outcomes; it can persist through success and failure.
+
+- **Direction**:
+  - **Undirected**:
+    - Not “I’m joyful *about* getting X.”
+    - More like a background radiance or peace that doesn’t need a particular reason or object.
+
+- **Feel**:
+  - **Intense and peaceful at the same time**:
+    - Not frantic excitement or adrenaline rush.
+    - Deep fulfillment and stillness.
+
+- **Value comparison**:
+  - Joy is “**billions to the pennies of pleasure**”:
+    - Even small amounts of true joy vastly outweigh large amounts of ordinary pleasure.
+    - The quality of experience is categorically different, not just a bit better.
+
+### 6.4 Lasting Joy: How to Move Toward It
+
+Upanishadic strategy involves at least two central components:
+
+1. **Shift Your Aim from Pleasure to Joy**
+   - Intellectually:
+     - Recognize the built-in link between pleasure and pain.
+     - See that chasing pleasure cannot deliver what you ultimately want: secure, lasting fulfillment.
+   - Practically:
+     - Loosen attachment to pleasure as your main life goal.
+     - Accept some short-term discomfort (e.g., discipline, restraint) for deeper long-term well-being.
+
+2. **Cultivate Knowledge of the Self (Atman) and the Infinite (Brahman)**
+   - Practices:
+     - Meditation and inward attention: learning to rest in awareness itself, not in passing thoughts and sensations.
+     - Ethical discipline: reducing greed, hatred, and selfishness, which cloud perception of the Self.
+     - Reflective inquiry: “Who or what am I really?”, distinguishing the witnessing Self from body and mind.
+   - Aim:
+     - To move from merely *hearing about* Atman = Brahman to directly *realizing* it.
+     - This realization is said to be the source of abiding joy.
+
+### 6.5 Infinite vs Finite: Why Joy Outlasts Pleasure
+
+From the Nārada story:
+
+- All ordinary knowledge and accomplishments concern the **finite** (limited, changing things).
+- The sage teaches:
+  - Only the **Infinite** is the source of **abiding joy**.
+  - Finite things cannot provide lasting happiness because they always change.
+
+Thus, according to the Upanishads:
+
+- **Path of Pleasure** = dedication to the **finite**: always unstable, ultimately unsatisfying.
+- **Path of Joy** = dedication to the **Infinite** (Brahman): the only secure foundation for lasting happiness.
+
+---
+
+### Summary for Exams
+
+Be able to:
+
+- Define **Atman** and **Brahman**, and explain the claim **Atman = Brahman**.
+- Contrast **ultimate** vs **superficial** reality using the clay/gold/iron and related metaphors.
+- Explain **qualitative vs quantitative identity**, and link:
+  - **Ocean metaphor** → quantitative identity (one Self, many apparent forms).
+  - **Actor metaphor** → qualitative identity (many individuals sharing the same divine nature).
+- Describe the **path of pleasure** vs the **path of joy**, including:
+  - Two reasons pleasure is tied to pain.
+  - Key features of joy (internal, undirected, intense and peaceful).
+  - Why joy is “billions to the pennies of pleasure.”
+  - The main elements in moving from pleasure-seeking to joy (shift of aim + realization of the Self).

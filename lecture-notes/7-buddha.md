@@ -1,298 +1,330 @@
 ## 1. The Four Noble Truths (Pali Canon)
 
-### 1.1 First Noble Truth: There is Suffering (Dukkha)
+Buddha presents human life using a medical model: disease, cause, cure, treatment.
 
-- “Suffering” (dukkha) includes:
-  - Obvious pain: illness, loss, conflict, aging, death.
-  - Mental distress: worry, frustration, disappointment.
-  - Subtle “unsatisfactoriness”: even good things don’t fully satisfy and don’t last.
+### 1.1 The First Noble Truth: There is Suffering (Dukkha)
 
-- Key idea: Recurring suffering is inevitable as long as we live with ignorance and attachment.
-- WHY internalizing this can reduce suffering:
-  - Lowers unrealistic expectations (“life should always be pleasant”).
-  - Makes difficulties feel less personal (“this is part of human life, not uniquely my failure”).
-  - Helps you respond wisely instead of with shock and resentment.
+- Claim: Life inevitably involves *dukkha*.
+- *Dukkha* includes:
+  - Obvious suffering: pain, grief, illness, aging, death.
+  - Dissatisfaction: frustration, restlessness, anxiety.
+  - The fact that everything we enjoy is fragile, changing, and cannot be held onto.
 
----
+**Not** saying “everything is awful all the time.”  
+Instead: recurring forms of suffering are inevitable as long as we live in the ordinary way.
 
-### 1.2 Second Noble Truth: Suffering is Caused by Desire
+**Why internalizing this can reduce suffering:**
+- Lowers unrealistic expectations that life “should” be smooth.
+- Reduces shock/resentment when difficulties arise.
+- Creates a sense of shared human condition (“not just me”), which can soften self-pity and isolation.
+- Encourages acceptance instead of constant inner protest (“this must not be happening”).
 
-- More precisely: suffering is caused by craving/attachment (clinging), not by all desire.
-  - Craving = a needy, grasping “I must have / this must not be taken from me.”
-  - Forms: craving for pleasure, status, permanence, control, or even annihilation of what we dislike.
-
-- How craving produces suffering:
-  - Wanting what we don’t have → frustration, envy, discontent.
-  - Having what we want but fearing loss → anxiety.
-  - Losing what we’re attached to → grief, rage, despair.
-  - Hating what is present (pain, insult, injustice) → internal torment.
-
-- Objection: “It’s not the wanting; it’s the not having.”
-  - Buddhist reply:
-    - If you satisfy one craving, new ones arise. The basic restless structure of craving remains.
-    - You can test this: recall a big thing you once thought would “complete” you. Did it end dissatisfaction?
-
-- Objection: “Desire doesn’t cause all suffering. What about physical pain?”
-  - Distinction: physical/initial pain vs mental suffering about it.
-
-#### The Two Darts of Suffering
-
-- First dart: unavoidable unpleasant experience (e.g., injury, illness, insult).
-- Second dart: the extra mental layer:
-  - Resistance: “This must not be happening to me.”
-  - Clinging to a narrative: “I’m ruined; my life is over; they can’t treat me like this.”
-  - Fear, resentment, self-pity, rumination.
-- Buddhism claims:
-  - We usually can’t avoid the first dart, but we can greatly reduce or drop the second dart.
-  - Craving/aversion produce the second dart; weakening them reduces overall suffering, even with the same external pain.
+Exam skill: Be able to explain how *accepting* that life contains suffering can paradoxically make it easier to bear.
 
 ---
 
-### 1.3 Third Noble Truth: To Eliminate Suffering, Eliminate Desire (Craving)
+### 1.2 The Second Noble Truth: Suffering is Caused by Desire (Craving / Clinging)
 
-- Not: eliminate all goals, plans, or ordinary preferences.
-- Instead: eliminate attachment/clinging:
-  - Let go of the “my happiness/identity depends on this” attitude.
-  - Accept impermanence and lack of full control.
+- Central claim: The main **mental** source of suffering is **desire** understood as *craving* or *attachment* (clinging), not just wanting in a neutral sense.
+- We suffer when:
+  - We want something we don’t have (status, relationship, object, success).
+  - We have something but cling to it and fear losing it.
+  - We crave certain feelings (pleasure, admiration) and resist their ending.
 
-- Objection: “If I eliminate desire, I’ll do nothing and die.”
-  - Reply via distinction:
-    - You can still have:
-      - Preferences
-      - Commitments
-      - Projects
-    - but without *clinging* to outcomes.
-  - You still act wisely and energetically—but with less fear, anger, and desperation.
-  - Motivation shifts from craving and anxiety → clarity, compassion, and wise intention.
+#### Objection: “It’s not the wanting, it’s the not having.”
+
+Response (Buddhist-style):
+- Getting what you want often:
+  - Produces only short-lived satisfaction.
+  - Leads quickly to new desires and new dissatisfaction.
+  - Generates anxiety about losing the thing gained.
+- So the *structure* of craving itself (never being satisfied, always needing more) is the deeper problem, not just “not having” right now.
+
+You are encouraged (in this course) to:
+- Treat this as an empirical hypothesis.
+- Run your own experiments: Notice what happens *after* a desire is fulfilled. Does deep contentment last, or does the mind quickly move on to the next craving?
+
+#### Objection: “Not all suffering comes from desire – what about physical pain?”
+
+Buddhist reply: **The Two Darts**
+
+- First dart:
+  - The raw, unavoidable physical or emotional pain (e.g., illness, injury, loss).
+  - This is part of human life; Buddhism does not deny it.
+
+- Second dart:
+  - The extra suffering we add through our mental reactions:
+    - “This is unbearable, this shouldn’t be happening to me.”
+    - Fear, resentment, self-blame, catastrophizing.
+    - Clinging to how things *should* have been.
+  - This second dart is largely driven by craving and aversion.
+
+Key idea:  
+We may not control the first dart, but we can greatly reduce the second dart by working with our desires, expectations, and reactions.
 
 ---
 
-### 1.4 Fourth Noble Truth: The Eightfold Path as the Cure
+### 1.3 The Third Noble Truth: To Eliminate Suffering, Eliminate Desire
 
-- The Eightfold Path is the training that gradually:
-  - Weakens craving, hatred, and delusion.
-  - Cultivates wisdom, ethical conduct, and mental discipline.
+- Claim: If craving/attachment is the main cause of our suffering, then weakening and finally ending craving is the way to end that suffering.
+- This is about ending **clinging**, not ending all forms of motivation or interest.
 
-- Three broad areas:
-  - Wisdom: seeing reality clearly (e.g., impermanence, not-self, cause-and-effect).
-  - Ethical conduct: speech, action, and livelihood that reduce harm and agitation.
-  - Mental training: effort, mindfulness, and concentration to steady the mind.
+#### Objection: “If I eliminate desire, I’ll just sit and do nothing and die.”
 
-- For this course: main takeaway
-  - The path is a *practice* for transforming how the mind relates to experience.
-  - End goal: a mind that does not cling—hence no second dart; profound peace (nirvana).
+Response using a key distinction:
+
+- **Attachment / Craving (clinging):**
+  - “I MUST have X; I can’t be okay without it.”
+  - Tightly bound to identity, self-worth, and fear.
+  - Produces anxiety, anger, jealousy, desperation.
+
+- **Mere Preference / Project:**
+  - “I would like X; I care about X; I’ll work for X.”
+  - But: “If X doesn’t happen, I can still be fundamentally okay.”
+  - Motivates action and care without obsession or despair.
+
+Ending suffering means ending *attachment* (craving), not ending all preferences, values, or projects.
 
 ---
 
-## 2. Preference vs Attachment (Craving / Clinging)
+### 1.4 The Fourth Noble Truth: The Eightfold Path as the Way to Eliminate Desire
 
-### 2.1 Mere Preference
+- Very brief for this exam:  
+  The Eightfold Path is the practical training (in wisdom, ethics, and mental discipline) designed to weaken and eventually uproot craving.
+- For this course, the most relevant part is the **mental discipline** component: mindfulness and meditation practices that train non-clinging awareness.
 
-- A calm, flexible inclination:
-  - “I’d rather X than Y.”
-  - You care and act to achieve X, but your basic well-being does **not** feel at stake.
-- Features:
-  - If blocked, you feel some disappointment but can adapt.
-  - You don’t need to distort reality to protect the preference.
-  - You can enjoy success without terror of losing it.
+---
 
+## 2. Preference vs Attachment (Clinging/Craving)
+
+This distinction is crucial for understanding how to live an active life without generating unnecessary suffering.
+
+### 2.1 Preference (Healthy Wanting)
+
+- A *preference* is:
+  - A calm inclination toward certain outcomes.
+  - Compatible with flexibility and acceptance.
 - Examples:
-  - Preferring one dessert over another.
-  - Wanting to do well on an exam, but if you don’t, you learn and move on.
+  - “I want to do well on this exam, so I’ll study hard. If I don’t get the grade I hope for, I’ll be disappointed, but I’ll be okay.”
+  - “I’d like people to like me, but I can survive and still be basically content if some don’t.”
+
+Signs you are operating from preference:
+- You take action, but your sense of worth doesn’t collapse if things go badly.
+- You can adjust plans when circumstances change.
+- Emotional reactions are present but not overwhelming or long-lasting.
 
 ---
 
-### 2.2 Attachment (Clinging, Craving)
+### 2.2 Attachment / Clinging / Craving
 
-- Rigid, needy stance:
-  - “I MUST have this; I CANNOT be okay without it.”
-  - Often tied to identity or self-worth: “If I fail at this, I’m worthless.”
-
-- Signs of attachment:
-  - Strong anxiety about losing the object (person, status, achievement, comfort).
-  - Intense anger when frustrated.
-  - Obsessive rumination.
-  - Inability to accept change; heavy fear of impermanence.
-
+- An *attachment* or *craving* is:
+  - A rigid, emotionally charged “must.”
+  - Often tied to identity (“If I don’t get this, I am a failure / unlovable / meaningless”).
 - Examples:
-  - Needing others’ approval to feel okay.
-  - Being unable to tolerate the idea of aging, career failure, or relationship change.
+  - “I MUST get into this specific program; otherwise life is ruined.”
+  - “My partner MUST never leave me; I couldn’t live without them.”
+  - “People MUST respect me; any criticism is unbearable.”
 
-- Pali Canon link:
-  - “Mind precedes all mental states; if with an impure mind one acts, suffering follows.”
-  - An “impure” mind = full of greed, hatred, and delusion—i.e., forms of attachment and aversion.
-
----
-
-### 2.3 Why Attachment Causes Suffering, Preference Does Not
-
-- Preference:
-  - You can lose what you prefer and still fundamentally accept reality.
-  - Emotional response ≈ sadness or disappointment, but not ongoing torture.
-
-- Attachment:
-  - Turns natural desire into a second dart.
-  - Leads you to replay injuries and insults mentally (“He hurt me, he wronged me”), keeping hatred alive.
-  - Creates constant vulnerability: any threat to the attachment shakes your whole sense of self.
-
-- Buddhist strategy:
-  - Keep preferences and wholesome aims.
-  - Drop the inner *grip*—the thought that your worth or possibility of peace depends on specific outcomes.
+Signs of attachment:
+- Obsessive thinking and rumination.
+- Strong fear, anxiety, or anger when the desired object is threatened.
+- Inability to let go even when the pursuit is clearly harmful.
 
 ---
 
-## 3. Practicing Letting Go (Non-Clinging) & the Lake Metaphor
+### 2.3 Why the Distinction Matters
 
-### 3.1 What Letting Go Is (and Is Not)
+- Attachment is the kind of desire identified in the Second Noble Truth as the main cause of *dukkha*.
+- Preference allows:
+  - Energetic action,
+  - Compassion,
+  - Commitment to projects,
+  - Without the heavy burden of constant anxiety and despair.
 
-- Letting go:
-  - Releasing your *mental grip* on thoughts, emotions, and outcomes.
-  - Allowing experiences to arise and pass without insisting they stay or go.
-  - Not a form of repression; you’re not denying or pushing away feelings.
-
-- Not:
-  - Apathy or indifference.
-  - Forcing yourself not to feel.
-  - Pretending “I don’t care” while secretly clinging.
-
----
-
-### 3.2 Practical Steps: How to Practice Non-Clinging
-
-**Step 1: Notice**
-
-- Become aware of:
-  - Thoughts: “I can’t stand this,” “I need them to respect me.”
-  - Emotions: tightness, anxiety, anger, craving.
-  - Body sensations: tension in jaw, chest, stomach.
-
-- Key stance: curious, non-judgmental observation—“What is present right now?”
+Exam skill: Be able to:
+- Define preference vs attachment.
+- Explain why eliminating *attachment* does not equal apathy or death.
+- Give a concrete example showing you can care deeply about something from a place of preference rather than clinging.
 
 ---
 
-**Step 2: Gently Release / Let Go**
+## 3. Practicing Letting Go (Non-Clinging) and the Lake Metaphor
 
-- With a thought or emotion:
-  - Name it: “thinking,” “worrying,” “anger is here.”
-  - See it as a passing event, not as “me” or as absolute truth.
-  - Mentally loosen your grip:
-    - “I don’t have to follow this thought.”
-    - “This feeling can be here without me acting it out.”
-- For cravings:
-  - Acknowledge: “Craving is present.”
-  - Notice the urge in the body; watch it peak and pass like a wave.
-  - Don’t feed it with stories (“I deserve this,” “Just one more.”).
+The third noble truth is made practical through *non-clinging*: learning to “hold lightly” all experiences, thoughts, and emotions.
 
-- For aversion:
-  - Notice the “NO” reaction.
-  - Allow the discomfort (first dart), but drop the extra “This must not be!” commentary.
+### 3.1 Basic Practice: Letting Go
+
+Two core steps:
+
+1. **Notice**
+   - Become aware of what is happening in your mind and body *right now*:
+     - Thoughts (“He insulted me,” “I’m going to fail”).
+     - Emotions (anger, fear, envy).
+     - Bodily sensations (tight chest, clenched jaw).
+   - You can silently label: “worrying,” “anger,” “planning,” “remembering.”
+
+2. **Release (Let Go)**
+   - Instead of feeding the thought with more stories, gently *drop it*.
+   - You don’t push it away with force; you simply stop *holding on*.
+   - It’s like relaxing a tight grip on an object and letting it fall from your hand.
+   - You allow the emotion to move through without acting it out or amplifying it.
+
+Key point:  
+Letting go is not suppression. You aren’t pretending the feeling isn’t there; you are just not clinging to it or building elaborate narratives around it.
+
+You are encouraged to **experiment**:
+- Start with small annoyances (a slow line, minor criticism).
+- Notice the urge to replay the story (“He wronged me!”).
+- Practice releasing the thoughts and see whether the suffering decreases.
 
 ---
 
-**Step 3: Repeat, Patiently**
+### 3.2 Resistance and Aversion
 
-- This is a skill; repetition is essential.
-- Start with small, everyday attachments:
-  - Annoyance in traffic.
-  - Desire to check your phone.
-  - Mild envy or insecurity.
-- Also avoid growing new attachments:
-  - Don’t dwell on slights, build revenge fantasies, or constantly replay praise.
+- Non-clinging includes not only releasing *craving* but also releasing *resistance*:
+  - Craving: grasping what is pleasant.
+  - Aversion: pushing away what is unpleasant with anger, fear, or hatred.
+- Both are forms of attachment:
+  - Clinging to pleasure.
+  - Clinging to the idea that pain or difficulty “must not exist.”
+
+Practice:
+- When unpleasant experiences arise (pain, embarrassment, sadness):
+  - Notice the impulse to fight, tense up, or mentally scream “No!”
+  - Soften around the experience instead.
+  - Let it be present *without* either feeding it or suppressing it.
 
 ---
 
 ### 3.3 The Lake Metaphor
 
-- Ideal mind = calm, clear lake:
-  - Surface is mostly still, reflecting the world accurately.
-  - Not constantly churned up by storms of craving, fear, or hatred.
-  - When disturbed, it settles naturally once the wind dies down.
+Ideal: The mind like a calm, still lake.
 
-- Emotions/thoughts = wind and waves:
-  - Hatred, injustice, fear, anxiety: strong winds that create rough waves.
-  - If you cling or resist, you keep stirring the water.
-  - If you let go—don’t grasp, don’t push away—mental “wind” decreases and the lake settles.
+- When the mind is calm:
+  - Thoughts and emotions are like ripples or waves.
+  - They arise and pass without disturbing the depth of the lake.
+  - The lake doesn’t cling to pleasant ripples or try to push away unpleasant ones.
 
-- Takeaway:
-  - Goal is not to suppress all waves, but to:
-    - Not dwell on them.
-    - Not identify with them.
-    - Allow the mind to return to stillness more quickly.
+Applied:
+- Hatred, injustice, fear, and anxiety will still arise.
+- But the calm mind:
+  - Sees them clearly,
+  - Doesn’t dwell on them unnecessarily,
+  - Doesn’t keep re-stirring the water with repetitive stories.
 
----
+Connection to the Dhammapada:
+- Continually thinking “He abused me, he struck me, he wronged me” keeps hatred alive.
+- Letting go of those thoughts allows hatred to settle, like waves dying down on a lake.
 
-## 4. Awareness Without Resistance: “Don’t Cling, Don’t Push Away, Don’t Ignore”
-
-This is a concise formula for how to relate to any experience (thought, emotion, sensation) in awareness.
-
-### 4.1 Don’t Cling
-
-- With pleasant experiences:
-  - Enjoy them fully, but recognize they are impermanent.
-  - Avoid “I must keep this feeling/person/status forever.”
-- With neutral or unpleasant experiences:
-  - Don’t cling to self-centered stories:
-    - “I am this depression.”
-    - “I will always be a failure.”
-
-- In practice:
-  - Notice when you want to *hold on* (to praise, pleasure, comfort).
-  - Acknowledge the wish, then let the object/event come and go.
-  - Remember: clinging is what turns change into suffering.
+Exam skill: Be able to:
+- Describe the lake metaphor.
+- Explain how it illustrates non-clinging and the reduction of suffering.
 
 ---
 
-### 4.2 Don’t Push Away (No Resistance / No Aversion)
+## 4. Awareness without Resistance:
+### “Don’t Cling, Don’t Push Away, Don’t Ignore”
 
-- With pain, fear, sadness, or insult:
-  - Allow the first dart: “This hurts.”
-  - Drop the second dart: “This is unbearable; it shouldn’t be happening; I hate these people.”
-- Non-hatred:
-  - Buddhist teaching: hatred is never ended by more hatred; it ends by non-hatred.
-  - If you replay “He abused me, he harmed me,” hatred continues.
-  - If you stop harbouring those thoughts, hatred naturally fades.
+This is a meditation instruction for cultivating a particular kind of awareness.
 
-- In practice:
-  - When something unpleasant arises, mentally say “Let it be here” for a few breaths.
-  - Feel it in the body without immediately reacting or distracting yourself.
-  - Watch resistance as just another experience you can allow and release.
+### 4.1 Awareness without Resistance
+
+- *Awareness*: Clearly noticing what is happening in your mind and body right now.
+- *Without resistance*: Not fighting, grasping, or turning away from what you notice.
+
+This involves training three attitudes:
 
 ---
 
-### 4.3 Don’t Ignore (Don’t Numb Out / Don’t Space Out)
+### 4.2 Don’t Cling (No Grasping of Pleasant Experiences)
 
-- Ignoring = a third unhelpful strategy:
-  - Zoning out, distraction, denial, refusal to look.
-  - This allows hidden attachments and fears to keep driving behaviour unconsciously.
+- When something feels good (pleasure, praise, success), notice:
+  - The urge to hold on: “This must last,” “I need more of this,” “I can’t lose this.”
+- Practice:
+  - Enjoy the pleasant experience fully while it is present.
+  - At the same time, recognize its impermanent nature.
+  - Let it pass without chasing it or mentally replaying it over and over.
 
-- Why non-ignoring matters:
-  - You need awareness to see craving and aversion clearly.
-  - Only what is seen can be let go.
-  - The Pali canon emphasizes seeing what is truly essential vs unessential—this requires clear attention.
-
-- In practice:
-  - Notice impulses to escape: compulsive scrolling, overeating, mindless TV, etc.
-  - Instead, stay with your actual experience for a bit:
-    - “Loneliness is here.”
-    - “Boredom is here.”
-  - Observe without judgment; this itself weakens their power.
+Why this helps:
+- Reduces anxiety about losing good things.
+- Weakens craving and dependency on specific conditions for happiness.
 
 ---
 
-### 4.4 Summary: Awareness Without Resistance
+### 4.3 Don’t Push Away (No Aversion to Unpleasant Experiences)
 
-- For any experience, apply all three:
+- When something is painful or uncomfortable, notice:
+  - Tension, resistance, and mental protest (“This is awful; it must stop now”).
+- Practice:
+  - Allow the discomfort to be there in your awareness.
+  - Stay with the raw sensation (tightness, heat, heaviness) without adding extra commentary.
+  - This directly reduces the “second dart” of suffering.
 
-1. **Don’t Cling**
-   - No grasping, no “I must have/keep this.”
-2. **Don’t Push Away**
-   - No war against what’s already here; allow it to be felt.
-3. **Don’t Ignore**
-   - Don’t go numb; stay gently aware.
+Example:
+- Physical pain: Notice the pure sensations (pressure, throbbing) and breathe with them, instead of adding “This is unbearable, I’ll never cope.”
+- Emotional pain: Allow sadness or fear to be felt in the body without rejecting it.
 
-- Result:
-  - You still experience life fully—including joy and pain—
-  - But you greatly reduce the second dart of mental suffering.
-  - Over time, the mind becomes like a well-built house or a calm lake:
-    - Less easily shaken by passion and hatred.
-    - More stable, clear, and capable of genuine happiness.
+---
+
+### 4.4 Don’t Ignore (No Numbing or Distraction)
+
+- A third common strategy is to *ignore* discomfort:
+  - Constant distraction (scrolling, noise, overwork).
+  - Numbing (overuse of substances, compulsive entertainment).
+- This may give short-term relief but:
+  - Leaves underlying patterns untouched.
+  - Allows craving and fear to continue shaping your life unconsciously.
+
+Practice:
+- When you notice the impulse to distract yourself immediately:
+  - Pause.
+  - Turn toward the experience for a moment:
+    - “What am I actually feeling right now?”
+    - “Where do I feel this in my body?”
+  - Give it some gentle, non-judging attention.
+
+---
+
+### 4.5 Meditation Experiments: Applying “Don’t Cling, Don’t Push Away, Don’t Ignore”
+
+In formal meditation (e.g., sitting quietly focusing on the breath):
+
+- When pleasant experiences arise (relaxation, calm):
+  - Notice them.
+  - Don’t cling: enjoy them but allow them to change or fade.
+
+- When unpleasant experiences arise (restlessness, boredom, pain):
+  - Notice them.
+  - Don’t push away: stay with them gently; let them come and go.
+
+- When you feel like spacing out or distracting yourself:
+  - Notice the urge to “check out.”
+  - Don’t ignore: stay present with what is happening, even if subtle or dull.
+
+Over time:
+- This trains the mind to be like the calm lake.
+- It undermines the habits of craving, aversion, and ignorance that fuel suffering.
+
+---
+
+## What You Should Be Able to Do for the Exam
+
+1. **Four Noble Truths**
+   - State and briefly explain each.
+   - Explain how internalizing “there is suffering” can reduce suffering.
+   - Explain “suffering is caused by desire” and the “two darts” idea.
+
+2. **Preference vs Attachment**
+   - Define each clearly.
+   - Explain why eliminating attachment is not apathy.
+   - Give your own example of acting from preference rather than clinging.
+
+3. **Practicing Letting Go & Lake Metaphor**
+   - Describe the two-step practice: notice, release.
+   - Explain the role of resistance and how letting go addresses it.
+   - Explain the lake metaphor and how it illustrates non-clinging.
+
+4. **Awareness without Resistance**
+   - Explain the instruction: “Don’t cling, don’t push away, don’t ignore.”
+   - Show how each of the three (clinging, pushing away, ignoring) contributes to suffering.
+   - Describe how meditation experiments embody this approach.

@@ -1,225 +1,223 @@
 ## 1. The Gift Perspective
 
-### What is a “gift” for Kimmerer?
+**Core idea:**  
+See the world (especially the natural world) as full of *gifts* rather than *commodities*.
 
-- A **gift** is something that:
-  - Comes to you **through no action of your own**
-  - Is **not earned**, not a reward, and not a payment
-  - Is **freely given**
-- Your proper role:  
-  - To be **open-eyed and present**  
-  - To **notice** the gift, **enjoy** it, and then respond appropriately
+- **What is a gift?**
+  - Comes to you through no action of your own
+  - Free; not earned; not a reward or payment
+  - Calls for *appreciation*, not calculation
 
-### World as a web of gifts
+- **Your role in a gift world:**
+  - To be *open‑eyed and present*  
+  - To notice, receive, and respond appropriately (gratitude, care, reciprocity)
 
-- The natural world is full of **“non-human people”** (plants, animals, waters, soils) who:
-  - Provide what we need **without bargaining**: air, water, food, materials, beauty, knowledge
-  - Thus, we live in a **world full of gifts**, not just neutral “resources”
+- **Existence as a gift from non-human people:**
+  - Your life *originates* from gifts:
+    - Air from plants and trees
+    - Food from plants, animals, fungi, soil microbes
+    - Water filtered by ecosystems
+    - A habitable climate from the whole Earth system
+  - Your life *continues* only through ongoing gifts:
+    - Every breath, every bite of food, every sip of water are unpurchased “services” from non-human beings
+  - Kimmerer calls many non-human beings “people” (plant people, animal people, etc.) to emphasize:
+    - They are not mere “resources”
+    - They are members of a shared community, with which we are in relationship
 
----
+- **The joy of a world full of gifts:**
+  - The world becomes a place of ongoing giving and receiving, not just extraction
+  - Everyday life can be experienced as surrounded by generosity, not scarcity
+
 
 ## 2. From Gift → Gratitude → Reciprocity / Generosity
 
-Kimmerer sees a natural **progression**:
+**Progression:**
 
 1. **Receiving a gift**
-   - Example: clean air, sunlight, fruits, a river, a forest
-   - We did nothing to earn these; they are simply there, sustaining us
+   - Recognizing that what you receive is *not owed* to you
+   - Seeing your dependence on others (human and non-human)
 
 2. **Gratitude**
-   - Recognition that what we receive is a **gift**, not an entitlement
-   - Emotional response: **thankfulness, joy, wonder**
-   - Cognitive shift: “I am being given to” rather than “I am owed this”
+   - Emotional and cognitive recognition: “I have been given something good.”
+   - Leads to:
+     - Humility (I rely on others)
+     - Appreciation (this is not just “mine”)
 
 3. **Reciprocity / Generosity**
-   - Genuine gratitude naturally asks: **“What can I give in return?”**
-   - Leads to:
-     - Caring for land and ecosystems
-     - Sharing with others (human and non-human)
-     - Acting to **support the flourishing** of the sources of our gifts
-   - Important idea: **The value of a gift increases as it is shared and passed on.**
+   - Proper response to gifts is not just “thanks,” but *giving back*
+   - Reciprocity can be:
+     - Direct: you help the specific being/community that helped you
+     - Indirect: you help the broader community or ecosystem
+   - **Important idea:**  
+     The *value* of a gift increases as it is shared and passed on.  
+     - Hoarding diminishes the spirit of the gift
+     - Sharing extends the circle of gratitude and care
 
-This chain is central: **enjoyment → gratitude → reciprocity** is how we should respond to the world’s gifts.
+- **Human purpose (according to Kimmerer):**
+  - To *feel and express gratitude*
+  - To *love and care* for the beings who sustain us  
+  This is how humans properly inhabit a gift-filled world.
 
----
 
-## 3. Your Existence as a Gift from Non-Human People
+## 3. Gift Economy vs Market Economy
 
-### Origin as a gift
+### Gift Economy (as Kimmerer understands it)
 
-- Your **very existence** depends on countless non-human beings:
-  - Plants: convert sunlight into food; supply oxygen
-  - Animals and microbes: form ecosystems; create soil; pollinate plants
-  - Waters, air, earth: create habitable conditions for life
-- You did **nothing** to deserve being born into a world that already:
-  - Has breathable air, drinkable water, fertile soil, rich biodiversity  
-  - Is **already prepared** to sustain you
+- Goods are **gifts**, not commodities.
+- Main features:
+  - Giving creates relationships and mutual obligations
+  - Emphasis on *circulation*: gifts move through the community
+  - Goal: *mutual flourishing* and relationship-building
+  - Status comes from *generosity*, not accumulation
+  - The more a gift is shared, the more valuable and meaningful it becomes
 
-### Continuation as a gift
+### Market Economy
 
-- Your **continuing life** is also sustained by non-human people:
-  - Daily gifts of: food, water, air, materials, medicines, beauty, meaning
-  - Ecosystem processes (photosynthesis, water cycles, etc.) keep you alive
-- Conclusion:  
-  - **Both** the **origin** and **ongoing continuation** of your existence are **gifts** from non-human people.
-  - This grounds a deep **debt of gratitude** and a duty of **reciprocity** toward them.
+- Goods are **commodities** with a price.
+- Main features:
+  - Exchange is based on *equivalence* and *payment*
+  - Relationships are often *impersonal* (buyer–seller, not kin)
+  - Goal: *profit*, growth, accumulation, individual gain
+  - Value measured mainly in *money*
+  - Tends to encourage a *scarcity mindset*: you win by having more than others
 
----
+### Key Differences
 
-## 4. Gift Economy vs Market Economy
+- **Nature of value:**
+  - Gift economy: value = relationship, gratitude, shared well-being
+  - Market economy: value = market price, profit
 
-### Gift Economy (Kimmerer’s model)
+- **Attitude toward the world:**
+  - Gift economy: world as *generous*, alive, full of “people” who give
+  - Market economy: world as *resource*, stuff to be owned, bought, sold
 
-- **Core idea**: Relationships are built on **giving, gratitude, and reciprocity**
-- Key features:
-  - Things are understood as **gifts**, not mere commodities
-  - Gifts create **obligations of gratitude and care**
-  - **Value increases** when shared and passed on
-  - Emphasizes **mutual support, abundance, and relationship**
-  - Rooted in **long-term connection** and responsibility
+- **Resulting behavior:**
+  - Gift economy: sharing, restraint, reciprocity
+  - Market economy: extraction, competition, overuse is tempting when profitable
 
-### Market Economy (contrast)
 
-- **Core idea**: Relationships organized by **buying and selling**
-- Key features:
-  - Things are **commodities** with a **price tag**
-  - Interactions are **transactions**, not relationships
-  - **Value** is often tied to **scarcity**, profit, and individual gain
-  - No built-in obligation of gratitude or reciprocity beyond the contract
-  - Tends to encourage a **scarcity mindset** (“never enough,” competition)
+## 4. Why Inhabit the Gift Perspective? (Three Reasons)
 
-### Why this contrast matters
-
-- In a **gift economy**, we ask:  
-  **“What can I give? How can I reciprocate?”**
-- In a **market economy**, we tend to ask:  
-  **“What can I get? What can I buy or sell?”**
-- Kimmerer argues we should **inhabit the gift perspective** toward the Earth, even if we live within a market system.
-
----
-
-## 5. Three Reasons to Adopt the Gift Perspective
-
-Kimmerer gives (at least) **three reasons** to see the world as a gift:
+Kimmerer offers three main considerations in favor of adopting the gift perspective:
 
 1. **It is joyful**
-   - Noticing gifts (beauty, air, food, relationships) increases **wonder and happiness**
-   - Gratitude brings an immediate **emotional uplift**
+   - Experiencing your life as full of gifts leads to:
+     - Wonder, appreciation
+     - A sense of being loved and supported by the Earth
+   - Everyday experiences become occasions for gratitude, not entitlement.
 
 2. **It fosters an abundance, not scarcity, mindset**
-   - Market thinking often makes us feel there is **never enough**
-   - Gift thinking highlights **how much we constantly receive**
-   - Focus shifts from **hoarding** to **sharing** and **trust in mutual support**
+   - Gift perspective:
+     - Focuses on *what is given*, what circulates, what we share
+     - Encourages the sense that there is *enough* when used respectfully and shared
+   - Scarcity mindset (typical of market focus):
+     - Focuses on competition and hoarding
+     - Makes others’ gain feel like your loss
 
 3. **It might help humanity survive and flourish long-term**
-   - A gift perspective encourages:
-     - **Respect** for the sources of our gifts (ecosystems)
-     - **Reciprocity**: protecting and restoring the natural world
-   - This is crucial if humans are to **avoid destroying** the systems we depend on
-   - Supports the possibility of **mutual flourishing** between humans and non-human people
+   - Gift thinking:
+     - Encourages *restraint* (take only what you need)
+     - Encourages *reciprocity* (give back, repair damage)
+     - Treats ecosystems and non-human people as *partners* to care for, not just resources
+   - This reduces ecological destruction and supports sustainable forms of life.
+   - A market-only perspective, focused on constant growth and extraction, risks destroying the systems that support life.
 
----
 
-## 6. Thesis of Mutual Flourishing
+## 5. Thesis of Mutual Flourishing
 
-### What is mutual flourishing?
+**Thesis:**  
+Humans and non-human people *can and should* flourish *together*; true human well-being must be linked to the well-being of the more-than-human world.
 
-- **Core thesis**:  
-  Human flourishing and the flourishing of non-human people **can and should go together**.
-- Opposes the idea that:
-  - Human well-being must come at the **expense** of nature
-  - Nature must be sacrificed for human progress
+Key points:
 
-### Key elements
+- Humans are **“the little brother”** or **“the new kid on the block”**
+  - Other beings (plants, animals, fungi) have been here much longer.
+  - They are our “older siblings,” with more experience in how to live sustainably.
+  - We should learn from them rather than assume superiority.
 
-- We are **interdependent**:
-  - Our well-being depends on healthy ecosystems
-  - Ecosystems can also benefit from respectful human actions (restoration, tending, seed dispersal, etc.)
-- The goal is:
-  - Not domination, but **relationship**
-  - To create ways of living where:
-    - Humans live well  
-    - **And** the land, waters, plants, and animals also **thrive**
+- **Flourishing is mutual, not one-sided**
+  - We should not seek human comfort and prosperity at the expense of the land, water, and non-human people.
+  - Instead: design ways of living where:
+    - Humans get what they need *within limits*
+    - Ecosystems remain healthy or are improved
 
-- Kimmerer sees humans as the **“little brother”** or **“new kid on the block”**:
-  - Other species are our **older siblings** with long experience of living sustainably
-  - We should **learn from them**, including the crucial lesson:
-    - **Do not destroy the systems on which you depend.**
+- **Lesson from our “big siblings”:**
+  - Do not destroy the systems on which you depend.
+  - Many species live within the carrying capacity of their environment; humans must learn to do the same.
 
----
+- Mutual flourishing rejects:
+  - The idea that nature must be sacrificed for “progress”
+  - The idea that caring for the Earth means human deprivation  
+  Instead: caring for the Earth is *part of* caring for ourselves and future generations.
 
-## 7. The Honorable Harvest
 
-The **Honorable Harvest** is Kimmerer’s name for a set of **ethical guidelines** for taking from the Earth in a way that supports **mutual flourishing**.
+## 6. The Honorable Harvest
 
-Here are important features (know at least 3 clearly):
+The Honorable Harvest is a set of ethical guidelines for taking from the Earth in a way that respects mutual flourishing and reciprocity.
 
-1. **Ask permission before taking**
-   - Treat plants, animals, and ecosystems as **persons**, not objects
-   - “Ask” by:
-     - Observing health and abundance
-     - Consulting cultural practices, knowledge, and your own conscience
-   - If the answer (from signs of scarcity or harm) is “no,” **do not take**.
+At least 3 key features (with more for context):
 
-2. **Take only what you need**
-   - Avoid greed and waste
-   - Resist the tendency to accumulate just because you can
-   - Emphasize **sufficiency**, not excess
+1. **Ask permission from the ones whose lives you seek**
+   - Treat plants/animals as *people* with whom you are in relationship.
+   - Listen for signs (abundance, health, presence/absence) that indicate “yes” or “no.”
 
-3. **Take only from abundance; never take the first or the last**
-   - Do not harvest in ways that risk wiping out a species or population
-   - Leave enough so that the gift can **regenerate** and others can share it
+2. **Never take the first, never take the last**
+   - Ensures that:
+     - There is always a “seed” population to regenerate
+     - Others (human and non-human) also have access
 
-4. **Use everything you take**
-   - No disrespectful waste
-   - Honors the life that has been given
-   - Encourages careful, thoughtful taking
+3. **Take only what you need**
+   - Rejects unnecessary excess and greed.
+   - Encourages mindfulness about real needs vs wants.
 
-5. **Minimize harm**
-   - Choose methods and times of taking that **least damage** the ecosystem
-   - Consider long-term impacts of your actions
+4. **Take only that which is given**
+   - Do not force or damage to obtain more.
+   - Harvest in season, from abundant populations.
 
-6. **Express gratitude**
-   - Offer thanks in word, ceremony, or attentive care
-   - Keeps the **gift perspective** alive in consciousness
+5. **Never take more than half; leave some for others**
+   - Ensures:
+     - Regeneration
+     - Food/habitat for other beings
+   - Concrete rule to prevent overharvesting.
 
-7. **Share what you take**
-   - Gifts are meant to **circulate**
-   - Strengthens community and reflects the idea that **value increases when shared**
+6. **Use everything you take**
+   - No waste.
+   - Respect the life that was given by not discarding it carelessly.
 
-8. **Reciprocate; give back to the source**
-   - Examples:
-     - Restoring habitats
-     - Planting, tending, cleaning, protecting
-     - Supporting environmental stewardship
-   - Embodies the move from **gratitude → reciprocity**
+7. **Give thanks**
+   - Explicit expression of gratitude honors the giver.
+   - Reinforces the gift perspective and your role as a grateful recipient.
 
-Any 3 of these, clearly explained, illustrate what the **Honorable Harvest** requires.
+8. **Share what you have taken**
+   - Extends the gift beyond yourself.
+   - Spreads the benefits and the gratitude through the community.
 
----
+9. **Give a gift in return**
+   - Restore habitats, plant seeds, clean rivers, protect species, tend the land.
+   - Reciprocity is *active*: not just “not harming,” but positively contributing.
 
-## 8. Two Guiding Questions for Relating to People (Human & Non-Human)
+Overall:  
+The Honorable Harvest operationalizes the gift perspective and mutual flourishing: you receive from the Earth with gratitude, restraint, respect, and active reciprocity.
 
-Kimmerer thinks we should relate to all people—human and non-human—through the **gift perspective** and the logic of **reciprocity**. Two key guiding questions:
 
-1. **What gifts am I receiving from this person (human or non-human)?**
-   - Focuses attention on:
-     - Our **dependence** on others
-     - The **value** of what we are given, often unnoticed
-   - Encourages **gratitude** rather than entitlement
+## 7. Two Guiding Questions for Relating to People (Human and Non-Human)
 
-2. **Given these gifts, what can I give in return to support their flourishing?**
-   - Moves from gratitude to **reciprocity and generosity**
-   - Leads to asking:
-     - How can I be a **good relative** to this being?
-     - What actions of care, protection, or sharing are required of me?
+Kimmerer suggests that our relationships with all people—human and non-human—should be guided by two central questions. A useful way to formulate them:
 
-These questions apply to:
+1. **What gifts am I receiving from this being or community?**
+   - Recognize how others support your life and well-being.
+   - For human people: time, care, labor, knowledge, emotional support.
+   - For non-human people: air, food, water, materials, beauty, inspiration.
 
-- **Human people**: friends, family, communities, future generations
-- **Non-human people**: plants, animals, waters, lands, ecosystems
+2. **What can I give in return to support their flourishing?**
+   - Move from passive gratitude to active reciprocity.
+   - For human people: kindness, fairness, help, listening, sharing resources.
+   - For non-human people: protecting habitats, reducing harm, restoring ecosystems, cultivating plants respectfully, following the Honorable Harvest.
 
-They operationalize Kimmerer’s view that the **purpose of a human being** is:
+Using these two questions:
 
-- **To feel and express gratitude**
-- **To love and care**—for human and non-human people alike.
+- Keeps relationships **reciprocal**, not one-sided or exploitative.
+- Applies equally to:
+  - Family, friends, strangers
+  - Animals, plants, waters, soils, and ecosystems
+- Enacts the **gift perspective** and the **thesis of mutual flourishing** in daily life.

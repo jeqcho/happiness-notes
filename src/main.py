@@ -22,30 +22,6 @@ from generate_notes import (
 )
 
 
-def load_mapping(mapping_file: str = "mapping.json") -> dict[str, list[str]]:
-    """
-    Load the custom outline-to-readings mapping.
-    
-    Args:
-        mapping_file: Path to the mapping JSON file
-        
-    Returns:
-        Dictionary mapping outline filenames to reading filenames
-    """
-    mapping_path = Path(mapping_file)
-    
-    if not mapping_path.exists():
-        print(f"Warning: Mapping file not found at {mapping_file}")
-        return {}
-    
-    try:
-        with open(mapping_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except Exception as e:
-        print(f"Error loading mapping file: {e}")
-        return {}
-
-
 def extract_lecture_number(outline_filename: str, naming_mapping: dict[str, str] = None) -> Optional[str]:
     """
     Extract lecture number from outline filename or naming mapping.
@@ -81,7 +57,6 @@ def process_lecture(
     readings_dir: Path,
     transcripts_dir: Path,
     output_dir: Path,
-    mapping: dict[str, list[str]],
     naming_mapping: dict[str, str],
     exam_guide: dict
 ) -> bool:
@@ -93,7 +68,6 @@ def process_lecture(
         readings_dir: Directory containing reading .txt files
         transcripts_dir: Directory containing lecture transcript .txt files
         output_dir: Directory where notes will be saved
-        mapping: Custom outline-to-readings mapping
         naming_mapping: Mapping from outline filenames to output filenames
         exam_guide: Exam study guide with topics for each lecture
         
@@ -112,8 +86,7 @@ def process_lecture(
         # Get matching readings
         readings_texts = get_matching_readings(
             outline_file.name,
-            readings_dir,
-            mapping
+            readings_dir
         )
         
         if not readings_texts:
@@ -134,14 +107,6 @@ def process_lecture(
         lecture_num = extract_lecture_number(outline_file.name, naming_mapping)
         exam_topics = None
         exam_key = lecture_num
-        
-        # Special case: check if we need to use a different key (e.g., "lyubomirsky" instead of "11")
-        if "lyubomirsky" in outline_file.name.lower() and "lyubomirsky" in exam_guide:
-            exam_key = "lyubomirsky"
-        elif "tao te ching" in outline_file.name.lower() and exam_key == "9":
-            exam_key = "9"  # Already correct
-        elif "zhuangzi" in outline_file.name.lower() and exam_key == "10":
-            exam_key = "10"  # Already correct
         
         if exam_key and exam_key in exam_guide:
             exam_topics = exam_guide[exam_key].get("full_description")
@@ -206,17 +171,11 @@ def main(generate_pdfs: bool = False):
         output_dir=str(readings_txt_dir)
     )
     
-    # Step 3: Load mappings
+    # Step 3: Load configuration
     print("\n" + "=" * 70)
-    print("STEP 3: Loading custom outline-readings mapping")
+    print("STEP 3: Loading configuration")
     print("=" * 70)
-    mapping = load_mapping()
-    if mapping:
-        print(f"✓ Loaded {len(mapping)} custom reading mapping(s)")
-    else:
-        print("⚠ No custom mappings loaded (will use number prefix matching)")
-    
-    print("\nLoading lecture naming mapping...")
+    print("Loading lecture naming mapping...")
     naming_mapping = load_lecture_naming()
     if naming_mapping:
         print(f"✓ Loaded {len(naming_mapping)} lecture name mapping(s)")
@@ -262,7 +221,6 @@ def main(generate_pdfs: bool = False):
                 readings_txt_dir,
                 transcripts_dir,
                 notes_dir,
-                mapping,
                 naming_mapping,
                 exam_guide
             ): outline_file

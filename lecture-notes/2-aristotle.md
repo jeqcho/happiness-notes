@@ -1,245 +1,240 @@
 # Aristotle on Happiness (Eudaimonia) and Virtue  
-*Focused exam notes*
+*Exam-focused notes*
 
 ---
 
-## 1. What Is Eudaimonia?
+## 1. What is Eudaimonia?
 
-**Key term:**  
-- **Eudaimonia** is usually translated as “happiness,” but better as **“flourishing”** or **“living well.”**
+### 1.1 Basic Idea
 
-**Not a mere feeling or mood**  
-- Not just pleasure, contentment, or a positive mental state.  
-- It is about the **overall quality of a life**, not momentary experiences.  
-- Someone might feel happy yet live a shallow, vicious, or wasted life – Aristotle would not call that eudaimonia.
+- **Eudaimonia** is usually translated as *happiness* or *flourishing*.
+- For Aristotle, it is:
+  - The **highest human good** – the ultimate aim of all our actions.
+  - **Complete** – chosen entirely for its own sake, never as a means to something else.
+  - **Self-sufficient** – if you have it, your life is lacking in nothing important.
 
-**The highest human good**  
-Eudaimonia is:
+### 1.2 Not a Feeling or Passing Mood
 
-1. **Final (ultimate) end**  
-   - We choose everything else (money, honor, pleasure, health, etc.) for the sake of something further.  
-   - **Eudaimonia is never chosen for the sake of something else**; it is desired **for its own sake**.
+- Eudaimonia is **not**:
+  - A temporary feeling of pleasure,
+  - A mood like joy or contentment.
+- It is an **overall condition of living well** over a whole life – a life that is going as a human life *ought* to go.
 
-2. **Complete (nothing further needed to improve it as an end)**  
-   - If you could add another good (e.g., a bit more money) and that made it a better *end*, then the original wasn’t fully complete.  
-   - Eudaimonia is already the **most complete** form of living well.
+### 1.3 Why Not Pleasure, Wealth, or Honor?
 
-3. **Self-sufficient**  
-   - Enough by itself to make life **worth living and lacking in nothing essential**.  
-   - Includes not just the individual, but a life within human relationships (family, friends, community), since humans are social/political animals.
+Aristotle considers popular views and rejects them as the **highest** good:
 
-**Where is eudaimonia located?**  
-- Goods can be:
-  - **External** (wealth, status),
-  - **Bodily** (health, strength),
-  - **Of the soul** (virtues, activities of thinking and choosing).
-- Aristotle says the **most important goods are of the soul**.  
-- So eudaimonia is primarily **a way of living and acting** — **excellent activity of the soul**, not external possession or bodily condition.
+- **Pleasure**:
+  - Resembles the life of “grazing animals.”
+  - Can be base, bodily, and not uniquely human.
+  - Can be had by a thoroughly bad person.
+- **Wealth**:
+  - Clearly a **means** to other things, not an end in itself.
+  - Therefore cannot be the *ultimate* end.
+- **Honor**:
+  - Depends on **other people’s opinions**, not on your actual state.
+  - People seek honor as a sign that they are already good; so **virtue** seems more fundamental than honor.
 
-**Summary:**  
-Eudaimonia = **a complete, self-sufficient life of doing well**, chiefly consisting in **excellent rational activity**, not in mere pleasure, wealth, or honor.
+**Conclusion:**  
+Eudaimonia is not any one of these things. It is a **life of excellent human activity** – a life in which your distinctively human capacities are fulfilled in the best way.
 
 ---
 
-## 2. Why Eudaimonia for Humans Is Living in Accordance with Reason
+## 2. Why Eudaimonia for a Person is Living in Accordance with Reason
 
-### (a) The Function Argument
+### 2.1 The Function Argument (Core of Aristotle’s Reasoning)
 
-Aristotle’s strategy:  
-- To find the human good, ask: **What is the characteristic function (ergon) of a human being?**  
-- For anything with a function, its **good** consists in **performing that function well**.
+Aristotle’s key move:  
+**The good for a thing = excellent performance of its characteristic function.**
 
-Examples:
-- The good of a **flute-player** = playing the flute well.  
-- The good of a **knife** = cutting well.  
-- In general: **Good X = excellent performance of X’s distinctive function.**
+1. **Every function-thing has a “good”:**
+   - For a flute-player, good = playing the flute well.
+   - For a doctor, good = healing well.
+   - For an eye, good = seeing well.
+   - In general: the **good** of X is **doing its proper function excellently**.
 
-Apply this to humans:
+2. **Human beings must also have a characteristic function:**
+   - Like the eye or the flute-player, a human is a kind of thing with a role or function.
+   - The function of the human cannot just be:
+     - **Life/nutrition/growth** – plants have that too.
+     - **Perception/sensation** – animals share that as well.
+   - So the distinctively human function must involve what is **special to humans**.
 
-1. **Everything that has a function has a good tied to that function.**  
-   - Eyes → seeing well.  
-   - A harpist → playing well.
+3. **What is distinctively human? Reason.**
+   - Humans uniquely:
+     - Have the capacity for **rational thought** (theoretical and practical),
+     - Can **organize their lives by reasons** rather than by mere impulse.
+   - Therefore the **human function** is:
+     > *Activity of the soul that involves reason or requires reason.*
 
-2. **Does a human as such have a function?**  
-   - Not just whatever a particular person happens to do (e.g., “shoe-making”), but what **humans as a kind** are for.
+4. **The human good = performing the human function excellently:**
+   - Just as the good harpist plays well, the **good human**:
+     - Engages in **rational activity**,
+     - Does so **in accordance with virtue (excellence)**.
+   - So the **human good** (eudaimonia) is:
+     > *Activity of the soul in accordance with the best and most complete virtue, over a complete life.*
 
-3. **What activities do humans share with other beings?**  
-   - **Nutrition and growth** → shared with plants.  
-   - **Perception and basic desire** → shared with animals.  
-   - These cannot be the *distinctively human* function.
+### 2.2 Two Aspects of “Living in Accordance with Reason”
 
-4. **What is distinctively human?**  
-   - The capacity for **reason**:
-     - Using reason to **think, deliberate, and understand**.
-     - Using reason to **guide actions and desires**.
+The lecture outline helpfully breaks this into two parts:
 
-5. **Conclusion about our function**  
-   - The human function = **activity of the soul involving reason**:
-     - Using reason itself.
-     - Obeying or following reason in action.
+1. **Excelling in the activity of reasoning itself**
+   - Using reason well:
+     - Thinking clearly,
+     - Judging well about what is true (theoretical reasoning),
+     - Judging well about what to do (practical reasoning).
+   - This includes intellectual excellences like:
+     - **Wisdom**, **understanding**, **practical wisdom (phronesis)**.
 
-### (b) From Function to Eudaimonia
+2. **Performing the actions that reason recommends**
+   - Not enough to think well; you must **act** on good reasons.
+   - Your actions and feelings should be:
+     - In the **right way**,
+     - At the **right time**,
+     - For the **right reasons**,
+     - As **good reason** dictates.
 
-Once we know the function, we ask: what is it to do it **well**?
+**Result:**  
+For a person, **eudaimonia = living a life of rational activity in accordance with virtue** – both:
+- exercising reason excellently, and  
+- shaping one’s whole pattern of actions according to sound reason.
 
-1. **The function of a human being**:  
-   - **Rational activity of the soul** (thinking and acting in line with reason).
-
-2. **The function of a good human being**:  
-   - Rational activity **performed well**, i.e., **in accordance with virtue (excellence)**.
-
-3. **Therefore, the human good (eudaimonia):**  
-   - **Activity of the soul in accordance with virtue**, especially the best and most complete virtue.  
-   - **Over a complete life** (not just one good day or moment).
-
-**Living in accordance with reason – two aspects (from the lectures):**
-
-1. **Excelling in reasoning itself**  
-   - Thinking clearly, judging well, understanding what is truly good.  
-   - Having intellectual virtues (e.g., wisdom, practical judgment).
-
-2. **Performing the actions reason recommends**  
-   - Actually **acting** in line with good reasoning: acting justly, courageously, temperately, etc.  
-   - So it is not enough to know what is right; one must **do it consistently**.
-
-**Summarizing Aristotle’s argument:**
-
-1. The highest good is the **final, complete, self-sufficient end** → eudaimonia.  
-2. The human function is **rational activity of the soul**.  
-3. Doing one’s function well = activity in accordance with **virtue**.  
-4. So **eudaimonia for a human = a life of excellent rational activity, thinking and acting in accordance with reason and virtue**.
+This is the **greatest good** (the *summum bonum*) for a human being.
 
 ---
 
 ## 3. Excellence (Virtue) as the Mean Between Deficiency and Excess
 
-**Key term:**  
-- Greek: **arete** – usually translated as **virtue** or **excellence**.
+### 3.1 What is Arete (Excellence/Virtue)?
 
-### (a) Character virtue as a state
+- **Arete** means **excellence** or **virtue** – being good at being the kind of thing you are.
+- For humans, virtues are:
+  - **Stable character traits** (e.g., courage, generosity),
+  - That dispose us to **feel and act** in the right way,
+  - In line with **reason**.
 
-- Moral (character) virtues are **stable states of character** that dispose us to:
-  - **Feel** appropriately,
-  - **Choose** appropriately,
-  - **Act** appropriately.
+### 3.2 The Doctrine of the Mean
 
-### (b) The doctrine of the mean
-
-Aristotle’s central idea:  
-- **Moral virtue is a mean between two vices**:
+- Moral virtue is a **mean between two vices**:
   - One of **excess**,
   - One of **deficiency**.
+- This “mean” is:
+  - **Relative to us** – depends on the situation and person,
+  - **Not** a simple arithmetic middle (“exactly halfway”),
+  - Determined by **good judgment** (practical wisdom).
 
-Formally:
-- Virtue is a **mean “relative to us”**, determined by **reason** and by what the person of practical wisdom would decide.
+#### Structure:
 
-**Important clarifications:**
+- For each virtue, we can identify:
+  - A relevant **sphere** (e.g., danger, money, honor, pleasure, anger),
+  - The **deficiency** (too little),
+  - The **excess** (too much),
+  - The **virtue** (right amount in the right way).
 
-1. **Not the simple arithmetic middle**  
-   - The mean is not just splitting the difference numerically.  
-   - It depends on the person and situation (e.g., the right amount of food differs by body type, activity level).
+#### Examples (very important to be able to produce):
 
-2. **Mean in terms of emotions and actions**  
-   - Virtue = feeling and acting:
-     - **At the right time**,  
-     - **About the right things**,  
-     - **Toward the right people**,  
-     - **For the right reasons**,  
-     - **In the right way**.
+- **Courage** (sphere: fear and confidence about danger):
+  - Deficiency: **cowardice** (too much fear, too little confidence),
+  - Excess: **rashness** (too little fear, too much confidence),
+  - Virtue: **courage** (fears the right things, at the right times, to the right degree, for good reasons).
 
-3. **The extremes are vices**  
-   - Each virtue lies between **two bad extremes**.
+- **Generosity** (sphere: giving and taking money):
+  - Deficiency: **stinginess/meanness** (gives too little),
+  - Excess: **wastefulness** (gives too much, carelessly),
+  - Virtue: **generosity** (gives the right amounts, to the right people, in the right way).
 
-### (c) Standard examples
+- **Temperance** (sphere: bodily pleasures, especially food, drink, sex):
+  - Deficiency: **insensibility** (too little responsiveness even to appropriate pleasures),
+  - Excess: **self-indulgence** (too much pursuit of pleasure),
+  - Virtue: **temperance** (moderate enjoyment under the guidance of reason).
 
-1. **Courage**  
-   - Concerns: **fear and confidence** in the face of danger.  
-   - **Deficiency (too much fear, too little confidence):** cowardice.  
-   - **Excess (too little fear, too much confidence):** rashness.  
-   - **Mean:** courage – fearing the right things, in the right way, and standing firm when reason says one should.
+### 3.3 Role of Reason in the Mean
 
-2. **Temperance (moderation)**  
-   - Concerns: **bodily pleasures** (especially food, drink, sex).  
-   - **Deficiency:** insensibility (not enjoying what a human reasonably should).  
-   - **Excess:** self-indulgence (overvaluing and overpursuing such pleasures).  
-   - **Mean:** temperance – enjoying such pleasures in appropriate ways and amounts.
+- The virtuous person:
+  - Hits the **mean as reason would determine it**,
+  - Given the circumstances.
+- That is why we need:
+  - **Practical wisdom (phronesis)** to see where the mean lies,
+  - Not just a formula like “always choose the middle option.”
 
-3. **Generosity (liberality)**  
-   - Concerns: **giving and taking money**.  
-   - **Deficiency:** stinginess/meanness.  
-   - **Excess:** wastefulness/prodigality.  
-   - **Mean:** generosity – giving the right amounts to the right people at the right times, in line with good judgment.
-
-**Why the mean view matters for eudaimonia:**
-
-- Since eudaimonia is **excellent rational activity**, and virtue = **the state that enables us to choose and act well**,  
-- Cultivating the virtues (these means) is essential to **living in accordance with reason** and thus to **flourishing**.
+**Connection to eudaimonia:**  
+Since eudaimonia is activity in accordance with virtue, and virtue = rationally finding and hitting the mean, **living well is consistently choosing the reasonable mean in actions and feelings.**
 
 ---
 
 ## 4. The Importance of Practice in Developing Excellence (Virtue)
 
-### (a) Virtue is acquired, not innate
+### 4.1 Virtue is Not Inborn or Merely Theoretical
 
-- Aristotle thinks we are **not born virtuous or vicious**.  
-- We are born with the **capacity** to develop virtues or vices.  
-- Whether we become virtuous depends heavily on **habituation (practice)**.
+- We are **not born** virtuous or vicious.
+- We are born with the **capacity** to become virtuous.
+- Moral virtue is **not**:
+  - Simply a matter of knowing rules or theories,
+  - Automatically produced by intellectual instruction alone.
 
-### (b) Habituation: we become what we repeatedly do
+Virtue is a **settled character state** formed by **habit**.
 
-Core idea:
-- **We become just by doing just actions;**  
-- **We become temperate by doing temperate actions;**  
-- **We become courageous by doing courageous actions.**
+### 4.2 Habituation: How We Become Virtuous
 
-Analogy from the lectures:
-- Like learning to play the **lyre/instrument**:
-  - You don’t become a good musician by merely **learning theory**.  
-  - You become a good musician by **repeated practice of the right kind of playing**, under guidance.
+Key idea:  
+> We become just by doing just actions; we become brave by doing brave actions; we become temperate by doing temperate actions.
 
-Similarly for virtue:
-- Knowledge alone is not enough.  
-- One must **perform virtuous actions often enough** that they **shape one’s character**.
+- **Habituation** = forming habits through **repeated actions**:
+  - Repeatedly acting in the right way,
+  - Under the guidance of reason (or of those who have it),
+  - Gradually shapes our **character** and **emotional responses**.
 
-### (c) Role of upbringing and social environment
+Analogy used in the lecture outline:
 
-- **Good upbringing is crucial**:
-  - Families and laws should **train us from youth** to take pleasure in good actions and feel pain at bad ones.  
-  - This early training sets our character on a particular path.
+- Like learning to play the **lyre (a musical instrument)**:
+  - You don’t become a good musician by reading about music,
+  - You must **practice, practice, practice** the right moves.
+- Similarly:
+  - You don’t become courageous merely by admiring courage,
+  - You must **face fears in the right way** repeatedly.
 
-- The right environment:
-  - Being around people and institutions that **encourage and reward virtuous actions** makes it easier to habituate virtue.
+### 4.3 Role of Upbringing and Exemplars
 
-### (d) Emulating exemplars
+- **Good upbringing is crucial:**
+  - Children must be trained to:
+    - Take **pleasure** in good actions,
+    - Feel **pain or shame** at bad actions.
+  - This early training supplies the **starting points** from which ethical reasoning later develops.
 
-- One way to learn what the virtuous mean looks like in practice:
-  - **Observe and imitate moral exemplars**, people of **practical wisdom and good character**.  
-  - Ask: What would a truly brave, just, or generous person do here?
+- **Emulating exemplars:**
+  - To know how the virtuous person acts, we:
+    - Look at **wise and virtuous exemplars**,
+    - Use their lives as models.
+  - Imitating those who already have good character helps us:
+    - Learn what the “mean” looks like in real situations,
+    - Form similar habits ourselves.
 
-### (e) Why practice is necessary for eudaimonia
+### 4.4 Why Practice is Essential for Eudaimonia
 
-1. **Living in accordance with reason** requires **stable character**, not occasional good choices.  
-2. Stable character only develops through **long-term habituation**.  
-3. Without virtues, our feelings and desires will **pull us away** from what reason recommends.  
-4. So **practice (habituation) is essential** if we are to:
-   - Consistently act in accordance with reason,  
-   - Possess the virtues,  
-   - And thereby **achieve eudaimonia**.
+- Eudaimonia = **excellent rational activity** over a life.
+- But:
+  - Without **practiced virtues**, our emotions and desires resist reason.
+  - We may know what is right but **fail to do it**.
+- Practice:
+  - Aligns our **feelings, desires, and actions** with reason,
+  - Makes acting virtuously **easier, more stable, and more pleasant**.
+
+**Therefore:**  
+To reach eudaimonia, it is not enough to ask, “What is my purpose?” or to see that it involves reason. You must **train yourself, through repeated practice and guided upbringing, to live in accordance with reason**, consistently hitting the mean that constitutes virtue.
 
 ---
 
-### Very Short Exam-Style Summary
+### Quick Summary for Exam Recall
 
-- **Eudaimonia**: The highest human good; a **complete, self-sufficient life of flourishing**, consisting in **excellent rational activity** rather than in mere pleasure, wealth, or honor.
-
-- **Why eudaimonia = living according to reason**:  
-  - Human **function** = rational activity (distinctive capacity).  
-  - Good human life = **performing this function excellently**, i.e., **activity of the soul in accordance with virtue** over a complete life.
-
-- **Virtue as mean**:  
-  - Moral virtue is a **state of character** that aims at the **mean between excess and deficiency** (relative to us), as determined by reason.  
-  - Examples: courage between rashness and cowardice; temperance between self-indulgence and insensibility; generosity between wastefulness and stinginess.
-
-- **Practice in developing virtue**:  
-  - Virtue is formed by **habituation**, like a skill.  
-  - We become virtuous by **repeatedly doing virtuous actions**, guided by good upbringing and exemplars, until we possess stable character that allows us to **live consistently in accordance with reason** and thus to flourish.
+- **Eudaimonia**: objective flourishing; the highest human good; not mere feeling; complete and self-sufficient.
+- **Why “in accordance with reason”?**
+  - Human function = rational activity (distinctively human).
+  - Human good = excellent performance of that function → activity of soul in accordance with virtue (rational excellence) over a complete life.
+- **Virtue as mean**:
+  - Virtue = excellence in character.
+  - Each moral virtue is a mean between excess and deficiency, relative to us, found by right reason.
+  - Examples: courage (between cowardice and rashness), generosity (between stinginess and wastefulness), temperance (between insensibility and self-indulgence).
+- **Practice and habituation**:
+  - We acquire virtues by **repeatedly performing virtuous actions**.
+  - Good upbringing and role models are vital.
+  - Practice aligns feelings and actions with reason, enabling a life of eudaimonia.

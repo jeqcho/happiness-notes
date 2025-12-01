@@ -17,7 +17,7 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
-def load_exam_guide(guide_file: str = "exam-study-guide-mapping.json") -> dict:
+def load_exam_guide(guide_file: str = "mapping/exam-study-guide.json") -> dict:
     """
     Load the exam study guide mapping.
     
@@ -153,7 +153,7 @@ The notes should:
         raise
 
 
-def load_lecture_naming(naming_file: str = "lecture-naming.json") -> dict[str, str]:
+def load_lecture_naming(naming_file: str = "mapping/lecture-naming.json") -> dict[str, str]:
     """
     Load the lecture naming mapping.
     
@@ -171,15 +171,7 @@ def load_lecture_naming(naming_file: str = "lecture-naming.json") -> dict[str, s
     
     try:
         with open(naming_path, 'r', encoding='utf-8') as f:
-            naming_data = json.load(f)
-        
-        # Extract just the filename mapping (skip comments and metadata)
-        mapping = {}
-        for key, value in naming_data.items():
-            if not key.startswith("_") and isinstance(value, dict) and "output_filename" in value:
-                mapping[key] = value["output_filename"]
-        
-        return mapping
+            return json.load(f)
     except Exception as e:
         print(f"Error loading naming file: {e}")
         return {}
@@ -252,55 +244,31 @@ def load_text_file(file_path: Path) -> Optional[str]:
 
 def get_matching_readings(
     outline_filename: str,
-    readings_dir: Path,
-    mapping: dict[str, list[str]]
+    readings_dir: Path
 ) -> list[str]:
     """
-    Get matching reading texts for a given outline.
+    Get matching reading texts for a given outline using number prefix matching.
     
     Args:
         outline_filename: Name of the outline file (with .txt or .docx extension)
         readings_dir: Directory containing reading .txt files
-        mapping: Custom mapping dictionary for unnumbered outlines
         
     Returns:
         List of reading text contents
     """
     readings = []
     
-    # Normalize filename - try both .txt and .docx versions for mapping lookup
-    docx_filename = outline_filename.replace(".txt", ".docx")
-    txt_filename = outline_filename.replace(".docx", ".txt")
-    
-    # Check if there's a custom mapping (try both extensions)
-    mapped_pdfs = None
-    if docx_filename in mapping:
-        mapped_pdfs = mapping[docx_filename]
-    elif txt_filename in mapping:
-        mapped_pdfs = mapping[txt_filename]
-    elif outline_filename in mapping:
-        mapped_pdfs = mapping[outline_filename]
-    
-    if mapped_pdfs:
-        for pdf_name in mapped_pdfs:
-            txt_name = pdf_name.replace(".pdf", ".txt")
-            reading_path = readings_dir / txt_name
-            text = load_text_file(reading_path)
+    # Extract number prefix (e.g., "1" from "1 Plato Lecture Outline.txt")
+    parts = outline_filename.split()
+    if parts and parts[0].isdigit():
+        number_prefix = parts[0]
+        
+        # Find all readings starting with this number
+        pattern = f"{number_prefix} *.txt"
+        for reading_file in readings_dir.glob(pattern):
+            text = load_text_file(reading_file)
             if text:
                 readings.append(text)
-    else:
-        # Use number prefix matching
-        # Extract number prefix (e.g., "1" from "1 Plato Lecture Outline.txt")
-        parts = outline_filename.split()
-        if parts and parts[0].isdigit():
-            number_prefix = parts[0]
-            
-            # Find all readings starting with this number
-            pattern = f"{number_prefix} *.txt"
-            for reading_file in readings_dir.glob(pattern):
-                text = load_text_file(reading_file)
-                if text:
-                    readings.append(text)
     
     return readings
 

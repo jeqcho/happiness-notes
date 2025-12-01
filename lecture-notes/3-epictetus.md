@@ -1,188 +1,217 @@
-# Epictetus (Stoicism): Exam-Oriented Notes
+## 1. Epictetus on How to Live Well: Two Parts
+
+Epictetus thinks living well has TWO main components:
+
+1. **(1) Use your rational faculty correctly (virtue).**  
+   - Train your *judgments, choices, desires, and aversions* so they line up with what is truly good (virtue) and truly bad (vice).
+   - This is about your *inner life*: how you see things, what you care about, and how you respond.
+
+2. **(2) Restrict concern to what is “up to you” and accept the rest.**  
+   - Direct genuine desire/aversion only at what is *within your control* (your own mind and choices).  
+   - Regarding everything else (body, wealth, reputation, other people, outcomes), don’t treat them as true goods/bads; accept whatever happens as part of nature’s plan.
+
+These two parts are tightly linked:
+
+- (1) is the **goal**: becoming virtuous, wise, and rational.  
+- (2) is the **method**: by caring only about what’s up to you, you protect and perfect your rational faculty and avoid disturbance.
 
 ---
 
-## 1. Two Parts to Living Well
+## 2. What Is Up to You, and What Is Not
 
-Epictetus’s basic recipe for living well:
+### 2.1 Epictetus’s Distinction
 
-1. **(1) Distinguish what is up to you and what is not.**  
-   - Up to you: your *judgments, values, choices, desires, aversions, intentions* (“faculty of choice”).  
-   - Not up to you: *body, health, wealth, reputation, job, success, other people’s actions, political events, life span*.
+**Up to us (truly ours, free, unhindered):**  
+All aspects of our *rational faculty*:
 
-2. **(2) Care about, desire, and fear only what is up to you.**  
-   - Treat externals as “nothing to you” in the sense that they are neither genuine good nor genuine bad.  
-   - Make your *only* serious goal: keeping your mind and choices “in accord with nature” (i.e., rational and virtuous), whatever happens.
+- Judgments/opinions about what things are and what they mean  
+- Choices / decisions (the “faculty of choice”)  
+- Desires and aversions, *insofar as we can decide what to value*  
+- Our inner attitude toward events (e.g., resentment vs acceptance)
 
-Living well = getting (1) intellectually clear, and then *actually living* by (2).
+**Not up to us (enslaved, hindered, not truly ours):**
 
----
+- Our *body* (health, illness, looks, strength, disability)  
+- *Possessions* (money, property, clothes, tech, etc.)  
+- *Reputation* (what others think or say about you)  
+- *Social position* (offices, honors, jobs, promotions, admissions)  
+- *Other people’s actions and characters*  
+- *Events and outcomes* in the world (weather, accidents, political events, whether you win the race, etc.)  
+- Even *family members* and loved ones, because they can be taken away
 
-## 2. Four Justifications for Focusing Only on What Is Up to You (for Part (2))
+Key claim:  
+- Only the inner things are by nature “free, unhindered, and unimpeded.”  
+- Everything else is inherently insecure and can be taken away at any time.
 
-Epictetus gives several reasons why you should direct desire and aversion only at what is under your control.
+### 2.2 Is Epictetus Right?
 
-### 2.1 Avoiding Misery and Frustration
+**Problems / criticisms:**
 
-- If you desire things not up to you (health, success, affection), **you are guaranteed to be thwarted sometimes**.  
-- Thwarted desire = unhappiness and blaming others or the gods.  
-- If you desire only what is up to you (good use of your own mind), **you can always succeed** and never be forced to act unwillingly.  
-- So, for a stable, unshakable happiness, your main aims must be internal.
+1. **Our mind is not fully up to us in practice.**
+   - Our beliefs, desires, and emotions are heavily shaped by genes, upbringing, trauma, social pressures.  
+   - Changing deep-seated attitudes often takes long therapy, habits, and luck; it’s not a simple “choice.”
 
-### 2.2 True Freedom vs. Slavery
+2. **We have *some* control over some externals.**
+   - Through effort, we *can* usually influence health, friendships, grades, career, reputation.  
+   - It seems too extreme to say none of this is “up to us” at all.
 
-- **Your “master”** is whatever has power over what you strongly want or fear.  
-- If you want wealth, status, or someone’s love, **anyone who can give or withhold these owns you** → you are a slave.  
-- If you want only to use your own choices well, **no one can coerce you**, because no one can touch your faculty of choice.  
-- So, to be *truly free*, you must desire only what is up to you.
+3. **Moral responsibility seems to need some external control.**
+   - If circumstances are totally outside our concern, it’s unclear why we should take responsibility for helping others, or for shaping institutions.
 
-### 2.3 Moral Responsibility and Piety
+**What can be salvaged?**
 
-- If you think *externals* are true goods and evils, you will:
-  - Hate or blame people who block your goals.  
-  - Blame the gods or fate when you are unlucky.
-- Epictetus says: good and bad lie only in your own choices; externals are “indifferent.”  
-- Seeing this makes you:
-  - Just toward others (you don’t rage at them for your misfortunes).  
-  - Pious toward the gods (you accept events as part of a wise order).
+A *weakened, but plausible* version:
 
-### 2.4 Invulnerability and “Being Unharmed”
+- Treat as **primarily up to you**:  
+  - Your deliberate judgments, long-term values, and how you choose to respond to events.
+- Treat as **partly but not fully up to you**:  
+  - Health, grades, career, relationships (you can influence them, but not guarantee outcomes).
+- Treat as **not ultimately under your control**:  
+  - The final outcomes of efforts, other people’s reactions, accidents, death.
 
-- Events (illness, poverty, insults, death of loved ones) affect **body and circumstances**, not your *faculty of choice*, unless you let them.  
-- Harm = your own bad judgment (e.g., thinking you must be miserable).  
-- If you train yourself to see events as indifferent and focus on responding virtuously, **no event can truly harm you**.  
-- This yields the Stoic ideal of *invincibility*.
+So the *practical Stoic lesson* still works:
 
----
-
-## 3. What Is Up to You and What Is Not
-
-### 3.1 Epictetus’s Distinction
-
-**Up to you (inner):**
-- Your judgments (what you think is good/bad).  
-- Your endorsements of desires and aversions.  
-- Your decisions, intentions, and chosen actions *as such* (not their outcomes).  
-- Your attention and efforts to respond virtuously.
-
-**Not up to you (outer):**
-- Your body: health, strength, illness, disability.  
-- Possessions, money, property.  
-- Social status and reputation.  
-- Career success, public office, honors.  
-- Other people’s choices and attitudes.  
-- External outcomes of your actions.  
-- Life span, time and manner of death, luck generally.
-
-Key method: when a disturbing impression appears, *ask*:  
-“Does this concern what is up to me or not?”  
-If not: “You are nothing to me.”
-
-### 3.2 Is Epictetus Right?
-
-**Criticisms:**
-
-1. **Some “inner” things are not fully under immediate control.**  
-   - Emotions, moods, some beliefs can resist voluntary change.  
-   - We can’t always *instantly* choose not to feel grief, anxiety, or anger.
-
-2. **Some “outer” things are partly under our control.**  
-   - Through action we can often *reliably influence* our health, finances, relationships.  
-   - It seems too extreme to treat all outcomes as equally indifferent.
-
-3. **Risk of emotional coldness or denial.**  
-   - Saying “my child’s death is nothing to me” seems morally and psychologically problematic.
-
-### 3.3 What Is Salvageable?
-
-A reasonable “soft Stoic” reinterpretation:
-
-- **Direct control vs. influence:**  
-  - Direct control: what you can change by a simple act of will (e.g., choice not to lie now).  
-  - Influence but not control: outcomes that depend also on luck and others (e.g., getting the job).  
-  - Epictetus’s core insight: ground your *self‑evaluation and basic serenity* only in what is under direct control.
-
-- **Two-level attitude to externals:**
-  - It is rational to **prefer** health, friends, success, justice, etc. and to act to promote them.  
-  - But do not treat them as *necessary for happiness*; be prepared to accept their loss without inner collapse.
-
-- **Emotions as trainable, not instantly controllable:**  
-  - Take Epictetus as advocating long-term training to reshape desires and emotions, not overnight emotional numbness.  
-
-So the strict doctrine is questionable in detail, but the **practical strategy** is defensible:
-> Make your peace of mind depend on your character and decisions, not on fortune.
+- **Shift your main focus** from outcomes to your own efforts, attitudes, and character.  
+- **Accept uncertainty** about everything else.  
+- This can reduce anxiety and resentment, even if Epictetus’s strict metaphysical claim is too strong.
 
 ---
 
-## 4. Managing Desire
+## 3. Four Justifications for Focusing Only on What Is Up to You
 
-### 4.1 Problem: Unsatisfied Desire
+Epictetus offers multiple overlapping reasons for part (2):
 
-Case: You want something and don’t have it (promotion, romantic partner, success, comfort).  
-Options:
+### 3.1 Psychological Freedom and Happiness
 
-1. Try to satisfy the desire.  
-2. Give up or reduce the desire.  
-3. Transform the desire into a different kind (e.g., desire to act well rather than to get result).
+- If you treat externals as if they were truly yours, you will be:
+  - “Thwarted, miserable, and upset”
+  - Blaming gods, fate, and other people
+- If you treat only your inner life as yours:
+  - “No one will ever coerce you or hinder you”
+  - You will have no enemies, and “no one will harm you,” because true harm would require corrupting your mind, which is under your control.
 
-Epictetus thinks: **simply trying to satisfy every desire is not the best solution**, because:
+**Argument form:**
 
-- Many desires aim at things not up to you → repeated frustration.  
-- New desires will keep appearing (hedonic treadmill).  
-- You become enslaved to circumstances and other people.
+1. Being thwarted happens when you desire what you can’t control.  
+2. If you only desire what you can control (your own rational action), you can never be thwarted.  
+3. Therefore, you become psychologically invulnerable.
 
-### 4.2 Stoic Strategy for Desire
+### 3.2 Moral Responsibility and Self-Respect
 
-Key Stoic moves:
+- Your *virtue*—how you judge and act—is the only thing that is truly *your* achievement.  
+- Wealth, beauty, status can come from luck, inheritance, or corruption.
+- So:
+  - Pride in externals is misguided (“You are not your horse; you have a good horse”).
+  - You should base self-respect on how you handle appearances and choices, not on external success.
 
-1. **Suspend desire for externals (at least at first).**  
-   - Epictetus even suggests, initially, *eliminating* desire for externals and focusing only on “impulses” to act appropriately, held “lightly” and “with reservation.”
+### 3.3 Piety and Agreement with Nature / God
 
-2. **Redirect desire to inner virtue.**  
-   - Desire to use each situation to practice self‑control, justice, patience, courage, gratitude, etc.  
-   - Aversion only toward *vicious choices* (lying, cowardice, cruelty), which are up to you and truly bad.
+- The world is governed by a rational order (god/nature) which assigns each event.
+- Our role:
+  - Treat events as the “play” assigned by the playwright.
+  - Our task is *not* to choose the part (beggar, official, sick, healthy), but to play whatever part we get *well*.
+- To fight externals is to fight nature; to accept them is to cooperate with the divine order.
 
-3. **“With reservation” formula.**  
-   - When you intend something external, think: “I will do my part to achieve X, *if nothing prevents*.”  
-   - You commit to the *action*, not to guaranteed success.
+### 3.4 Logical Coherence about Good and Bad
 
-4. **Reframe appearances.**  
-   - When you strongly want something, bring to mind both:
-     - The short-term pleasure if you get it.  
-     - The regret, dependence, and self‑reproach if it undermines your character.
-   - Counterbalance with the pride of having mastered the desire.
+- If things truly *good* or *bad* could be taken from you by others, then your moral state would partly depend on others’ choices.
+- Then:
+  - Your goodness could be destroyed by someone else’s decision.
+  - This makes virtue too fragile.
+- So:
+  - True goods and bads must be confined to what no one else can control: your own rational choices.
 
-### 4.3 Examples: Bath and Olympics
+---
 
-**Bath example:**
+## 4. Managing Desire and Unsatisfied Wants
 
-- Before going to the public baths, reflect: there will be splashing, jostling, rude people, theft.  
-- Then say to yourself:
-  > “I want not only to bathe, but also to keep my mind/choices in a state conformable to nature.”
-- Outcome:
-  - You form a *dual goal*: (a) take a bath (external, not up to you), **but more importantly** (b) keep your mind calm and rational (up to you).  
-  - If circumstances spoil your bath, you can honestly say: *my main aim—staying rational and calm—was still achieved*.
+### 4.1 The Problem: You Want Something You Don’t Have
 
-**Olympics example:**
+When a desire is unsatisfied, possible responses:
 
-- You want to win an Olympic victory (analogous to any big life ambition: career, fame, etc.).
-- Epictetus: before committing, consider:
-  - Strict training, diet, discomfort.  
-  - Risk of injury and even losing despite all effort.
-- If, after fully understanding the costs and risks, you still choose this, fine.  
-- But don’t be like a child changing roles (athlete, actor, philosopher, politician) without serious commitment.
+1. **Try to get what you want.**
+2. **Change the world so that the object becomes available.**
+3. **Change *your desire* instead of the world.**
+4. **Change what you count as truly good or bad.**
 
-**Key lesson for desire:**
-- **Don’t attach your happiness to uncertain external outcomes.**  
-- Attach it to whether you *played your part well* (trained diligently, acted courageously and fairly) regardless of win or loss.
+Epictetus says: **(3) and (4) are often better.**
 
-### 4.4 Is Satisfying Desire Ever Best?
+### 4.2 Why Satisfying Desire Is Not Always Best
 
-- Sometimes satisfying desire is appropriate:
-  - Bodily needs (food, shelter), reasonable career goals, relationships.  
-  - Epictetus is not against all external goods; he’s against **treating them as ultimate goods**.
-- But:  
-  - If satisfying a desire risks your integrity, peace of mind, or makes you a “slave” to others’ power, **better to refine or abandon the desire**.
+- If you aim at externals (wealth, status, praise), you:
+  - Depend on other people and luck.  
+  - Risk anxiety, envy, bitterness, and fear of loss.
+- Also, many pleasures bring **regret** or new dependencies:
+  - Overindulgence, addictions, vanity about looks or social media, etc.
+
+So:  
+- Trying to satisfy every desire can make you *less* free and *less* happy.
+
+### 4.3 The Stoic Solution to Desire
+
+Core strategy:
+
+1. **For now, suspend desire for externals.**  
+   - Epictetus even suggests temporarily eliminating desire, and using only:
+     - *Impulse* (toward what seems appropriate)
+     - *Rejection* (away from what seems against nature)  
+   - This is like going on a mental “desire diet.”
+
+2. **Detach aversion from externals.**  
+   - Don’t be averse to illness, death, poverty. Those are not truly bad.  
+   - Be averse only to:
+     - Acting unjustly  
+     - Failing to live rationally and in accord with nature
+
+3. **Eventually, redirect desire toward what is up to you.**  
+   - Desire to:
+     - Be just, brave, and self-controlled  
+     - Hold correct judgments  
+     - Accept events as they occur
+
+4. **Align your will with reality.**  
+   - “Do not seek to have events happen as you want them to, but want them to happen as they do happen.”
+
+### 4.4 The Bath Example
+
+Scenario: You go to a public bath.
+
+- What you would *like*:  
+  - A quiet, pleasant, clean experience.
+- What usually happens:  
+  - People splash, jostle, insult, steal, etc.
+
+**Stoic practice:**
+
+1. **Before acting, remind yourself what the situation is like.**
+   - “At baths there are people who splash, jostle, insult, steal.”
+
+2. **Set a *double* aim:**
+   - “I want to bathe”  
+   - “and to keep my mind/choices in accord with nature.”
+
+3. **When things go wrong**, remind yourself:
+   - “I did not want just a bath, but a bath *while* remaining rational and calm.  
+     I cannot keep my choices in accord with nature if I get angry.”
+
+Lesson:
+- You change the *kind* of desire: not “I must have a perfect bath” but “I must keep my mind in order *whatever happens at the bath*.”
+
+### 4.5 The Olympics Example
+
+Wanting an Olympic victory:
+
+- Epictetus: if you want to compete, you must accept:
+  - Strict diet, painful training, injuries, heat and cold, risk of public defeat.
+- If you only want the *glory* but not the *full package*, you’re childish.
+
+Applied to Stoic practice:
+
+- If you want the “gold medal” of inner freedom:
+  - You must accept giving up:
+    - Some worldly ambitions (wealth, office, status)  
+    - Some pleasures and comforts  
+  - You cannot have *complete* Stoic freedom and also chase externals in the usual way.
 
 ---
 
@@ -190,136 +219,214 @@ Key Stoic moves:
 
 ### 5.1 Who Is the True Slave? Who Is the True Master?
 
-**True slave:**
+Epictetus’s definitions:
 
-- Not mainly the person legally owned.  
-- The person whose happiness depends on what others control:
-  - The ambitious man desperate for honor.  
-  - The lover obsessed with someone’s affection.  
-  - The tyrant terrified of losing power.
-- Anyone whose desires and fears are fixed on externals is under the power of whoever controls those externals.
+- **A person’s master:**  
+  - Anyone who has power over what that person *wants* or *fears*—can grant it or take it away.
+- **Slave (in the philosophical sense):**
+  - Someone whose happiness depends on things controlled by others or by luck:
+    - Needs others’ approval  
+    - Craves money, status, sex, comfort  
+    - Fears poverty, illness, death, disgrace
+  - Such a person must “obey” those who control these externals.
 
-**True master / truly free person:**
+- **True master / truly free person:**
+  - Desires and fears only what is up to them:
+    - Their own judgments and choices
+  - Since no one can force them to think or value wrongly, no one can enslave them.
+  - Even if they are literally in chains or beaten, their *mind* remains free.
 
-- Desires and fears only what is up to them (their own judgments and chosen actions).  
-- No one can force them to assent to a false value-judgment or to choose unjustly.  
-- They may be physically imprisoned, but their *mind* is free and uncoerced.
+Epictetus:  
+> Whoever wants to be free, let him not want or avoid anything that is up to others. Otherwise he will necessarily be a slave.
 
-### 5.2 Invulnerability: Is It Possible? Desirable?
+### 5.2 Freedom as Invulnerability
 
-**Claim:**  
-- If harm is only in *bad use of your faculty of choice*, then others can kill you but not harm you (morally/spiritually).
+- If you only care about what you control:
+  - No one can *make* you lie, flatter, or do wrong; they can only hurt your body or externals.
+  - You can lose everything external and still retain what matters most: a good will.
+- Epictetus claims:
+  - You become “invincible” by refusing to enter contests whose outcome isn’t up to you.
+  - You stop competing for status, praise, and material success—things others can take.
 
-**Is it possible?**
+### 5.3 Is This Freedom Really Possible?
 
-- As an *ideal*:  
-  - Perhaps achievable only by a sage, but Epictetus thinks we can *approximate* it by constant practice.
-- As a *psychological fact for ordinary people*:  
-  - Full invulnerability is doubtful; grief, fear, and pain will still affect us.  
-  - However, **some reduction of vulnerability** through trained attitudes is realistic.
+**Challenges:**
 
-**Is it desirable?**
+- Human psychology:
+  - Emotions and attachments arise spontaneously; hard to limit caring only to inner states.
+- Social reality:
+  - Institutions and others can seriously constrain your options and shape your character.
 
-- Pros:
-  - Great stability and resilience.  
-  - Courage in the face of illness, poverty, and death.  
-  - Independence from social pressure and manipulation.
-- Cons / worries:
-  - Could slide into emotional detachment or lack of concern for others.  
-  - Risks underestimating the real weight of injustice and tragedy.
+**Stoic reply:**
 
-### 5.3 Is This Approach Cruel or Uncaring Toward Others?
+- The *perfect* sage is extremely rare, but:
+  - We can *make progress* by:
+    - Constant practice (anticipating difficulties; reflecting on what’s up to us)  
+    - Gradually loosening the grip of externals on our minds  
+- So treat it as an *ideal* and a direction, not an all-or-nothing fact about you now.
 
-Worry: If you believe suffering is “just their judgment,” you might respond coldly to others’ misfortunes.
+### 5.4 Is This Ideal Desirable?
 
-**Epictetus’s reply and attitude:**
+**Worry:** It sounds cold or inhuman.
 
-- Recognize that **most others are not Stoics** and are still vulnerable to externals.  
-- Even fellow Stoic learners are far from the ideal and *cannot yet help* being affected.
-- Therefore:
-  - Treat others with kindness and justice.  
-  - When someone suffers:
-    - Internally: you see that what crushes them is their judgment.  
-    - Externally: you *sympathize*, speak kindly, even “moan with them” if needed—but do not inwardly share the false judgment.
-- So Stoicism is meant to be **strict with yourself**, **gentle with others**.
+- If I am invulnerable:
+  - Do I stop caring about my family, friends, or social justice?
+  - Do I just shrug at terrible events and say “it’s just an appearance”?
+
+**Epictetus’s response:**
+
+1. **Appropriate action based on relationships.**
+   - You still have *duties* as:
+     - Parent, child, sibling, citizen, friend.
+   - Being rational includes:
+     - Taking care of your father  
+     - Treating your brother as a brother even if he behaves badly  
+     - Helping your city in ways consistent with virtue
+
+2. **Differentiating inner disturbance from outer concern.**
+   - You may still help others, comfort them, act to improve the world.  
+   - You just don’t let your *inner peace* depend on success in these aims.
+
+3. **Compassion for others’ vulnerability.**
+   - Most people are not Stoics, and even Stoics are far from ideal:
+     - They are vulnerable to external harm and emotional pain.
+   - Therefore:
+     - You must treat them well, avoid cruelty, and not use Stoicism to justify harming them.
+
+### 5.5 Is It Cruel and Uncaring When Applied to Others?
+
+**Worry:**
+- If I think only judgments harm us, I might say to a suffering person:
+  - “Your problem is just your opinion” — which is dismissive and unkind.
+
+**Epictetus’s guidance:**
+
+- When seeing someone grieving:
+  - Recognize *philosophically*: the real problem is their judgment.  
+  - But in practice:
+    - “Do not hesitate to sympathize with him verbally, and even to moan with him,”  
+    - Just don’t let yourself *internally* believe that the external event is a genuine evil.
+- With others:
+  - You treat them as genuinely affected, because they *are* vulnerable at their current stage.  
+  - Stoicism is not a tool for blaming victims; it’s primarily for working on *your own* mind.
 
 ---
 
 ## 6. The Insufficiency of Purely Intellectual Work
 
-Epictetus strongly criticizes merely “intellectual” philosophy.
+Epictetus stresses that **merely understanding arguments is not enough**:
 
-### 6.1 Intellectual vs. Practical Philosophy
+1. **Distinction:**
+   - *Theoretical* work:
+     - Learning definitions, distinctions (e.g., what is a demonstration, truth, conflict).
+   - *Practical* work:
+     - Actually changing desires, handling insults, facing illness or death calmly.
 
-- **Insufficient approach:**
-  - Mastering logic, metaphysics, and Stoic terminology.  
-  - Being able to expound Chrysippus or argue cleverly.  
-  - Talking often about what virtue is, but not actually living it.
+2. **Critique of armchair philosophy:**
+   - Many people:
+     - Can explain Stoic logic and ethics in detail.  
+     - But their lives are still driven by fear, anger, vanity, and attachment to externals.
+   - This is like:
+     - Praising a trainer’s manual but never working out.
 
-- **Sufficient approach (what he demands):**
-  - Use doctrines to *transform your habits*—what you fear, desire, and choose.  
-  - Constantly train your faculty of judgment:  
-    - Don’t blame others.  
-    - Resist being carried away by appearances.  
-    - Practice self-control, patience, endurance in real situations.
+3. **What is required beyond intellect:**
+   - Habitual exercises:
+     - Pre-rehearsing difficulties (bath example, death of loved ones, failure, insult).  
+     - Monitoring your judgments when upset (“What belief is making this feel terrible?”).  
+     - Starting with “little losses” (spilled oil, stolen wine) as training opportunities.
+   - Constant self-watchfulness:
+     - Treat yourself like an invalid who must protect healing parts (your developing rational faculty).
 
-**Images he uses:**
-
-- **Sheep and wool:**  
-  - Sheep don’t display what they’ve eaten; they show it by producing wool and milk.  
-  - Likewise, don’t show your philosophical progress by talking; show it by how you live.
-- **Sick patient:**  
-  - One making progress treats himself as an invalid, extremely cautious not to re-injure his fragile character.
-
-**Exam takeaway:**  
-Epictetus insists that real progress in living well is measured by *transformed desires and actions*, not by theoretical knowledge alone.
+4. **Evidence of real progress:**
+   - You blame no one else, praise yourself less, aren’t thrown off by praise or blame, and care less about externals.
+   - You are more cautious with desires and aversions, and you are on guard against yourself “as an enemy lying in wait.”
 
 ---
 
 ## 7. How to Love Your Family (Stoically)
 
-Epictetus is often misread as anti‑love. His view is subtler: **love deeply, but wisely**.
+Epictetus’s challenge:  
+- How to love deeply **without** becoming enslaved by fear of loss.
 
-### 7.1 Remember Their Nature and Mortality
+### 7.1 Seeing Loved Ones as Mortal and “On Loan”
 
-- When you love a jug, remind yourself: “I love *a jug*”—then you won’t be devastated when it breaks.  
-- When you kiss your child or spouse, remind yourself: “I am kissing a mortal human being.”
-  - Aim: not to kill affection, but to prepare your mind so that, if they die, you grieve without total inner collapse.
-- Loved ones are **“on loan” from nature**; when they die or are lost, they are “given back.”
+Key practices:
 
-### 7.2 Love Through Roles and Duties
+1. **Remember what they are: mortal human beings.**
+   - When you kiss your child or spouse, remind yourself:
+     - “I am kissing a mortal human being.”
+   - This is not to *love them less*, but to:
+     - Avoid reacting with total collapse if they die.
 
-- Your relationships define **specific tasks**:
-  - As a parent: care for, be patient with, and endure your child’s faults.  
-  - As a child: respect and support your parents, even if they are flawed.  
-  - As a sibling, citizen, friend: fulfill what is appropriate to that role.
-- Focus on **what is up to you in the relationship**:
-  - Your kindness, justice, reliability, respect.  
-  - Not: whether they reciprocate, or how long they live.
+2. **Think of them as temporarily entrusted to you.**
+   - A child, spouse, or property is “given” by nature or god.  
+   - When they die or are lost, say:
+     - “I have given it back,” not “I’ve lost it.”
+   - Your role:
+     - Care for them well while they are with you, as travelers care for things in an inn.
 
-### 7.3 Accept Their Imperfection
+3. **Banquet metaphor:**
+   - Life is like a banquet:
+     - When a dish (child, partner, office, wealth) is placed before you, take it politely.  
+     - When it passes on or doesn’t arrive, don’t grab or strain after it.
+   - You enjoy them while present, but you do not cling.
 
-- It is foolish to demand a flawless child, spouse, or friend—this would be wanting “badness not to be badness.”  
-- Instead:
-  - Expect human weakness.  
-  - When wronged by a family member, take hold of the situation by the “handle” that they are your kin, not by the “handle” that they wronged you.  
-  - Aim to keep your *own* character in accord with nature in response.
+### 7.2 Duties from Relationships
 
-### 7.4 Loving Without Making Them Your Master
+- Being someone’s:
+  - Father, mother, child, sibling, spouse, friend
+- Entails *specific appropriate actions*:
+  - Care, patience, forgiveness, support.
+- Even if:
+  - Your father is bad, you still owe him *fatherly* respect and care.
+  - Your brother wrongs you, you still act as a brother should, focusing on *your* role.
 
-- If your happiness absolutely depends on your family’s safety and virtues, then:
-  - You are constantly terrified of losing them or their approval.  
-  - You become a slave to fate and to their behavior.
-- Stoic ideal:
-  - **Love them genuinely and act for their good**,  
-  - But ground your final happiness in your own virtuous character, not in their presence or perfection.
+### 7.3 Loving Without Enslavement
 
-### 7.5 Not Just Words: Practicing Love
+Epictetus’s model:
 
-- Intellectual insight (“my child is mortal”) is not enough.  
-- You must **train daily**:
-  - Imagine losses; remember death and exile; practice small detachments (e.g., “a little wine is spilled: this is the price of tranquillity”).  
-  - So when serious loss comes, your mind is more prepared to grieve *without* despair.
+- **Do:**
+  - Love your family, care for them, fulfill your role, suffer with them in a measured way when they suffer.
+- **Don’t:**
+  - Make your own happiness *depend* on their survival, success, or perfect behavior.
+  - Demand that they live forever or be flawless — that’s wanting what is not up to you.
 
-**Overall Stoic picture of family love:**
-> Cherish your family, fulfill your duties to them with patience and care, remember their fragility, and refuse to make your peace of mind hostage to what you cannot control.
+This gives a distinctive ideal:
+
+- **Deep engagement in action, measured detachment in judgment.**
+  - Act as a devoted parent / child / partner.
+  - Internally remember:
+    - They are mortal, and your ultimate good lies in your own character, not in their fate.
+
+---
+
+### Quick Summary for Exam Recall
+
+- **Two parts to living well:**  
+  (1) Perfect your rational faculty (virtue).  
+  (2) Care only about what is up to you; accept the rest as fate.
+
+- **Up to you:** judgments, choices, desires/aversions as guided by reason.  
+  **Not up to you:** body, possessions, reputation, office, others’ actions, outcomes.
+
+- **Why focus only on what’s up to you?**  
+  Psychological invulnerability; genuine self-respect; piety toward rational nature; logical coherence about what counts as a true good/bad.
+
+- **Managing desire:**  
+  Don’t always try to satisfy desires; often better to change desires.  
+  Bath example: set higher aim of keeping mind in accord with nature.  
+  Olympics example: you must accept full costs of the goal; can’t mix full Stoic freedom with ordinary ambition.
+
+- **Freedom vs slavery:**  
+  True slave: person ruled by desires for externals other people control.  
+  True master: person whose desires are confined to their own rational choices.  
+  Ideal: mental invulnerability; controversial but defensible as an aspirational ideal.
+
+- **Insufficiency of intellectual work:**  
+  Knowing doctrines is useless without practice.  
+  Need daily exercises, habit-change, and self-watchfulness.
+
+- **Loving family:**  
+  Fulfill relational duties with real care.  
+  Remember they are mortal and “on loan.”  
+  Love them, but don’t make your ultimate happiness depend on their remaining safe or perfect.
