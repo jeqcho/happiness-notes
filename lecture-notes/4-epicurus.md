@@ -1,234 +1,309 @@
-# Epicureanism – Exam Notes
+## Epicureanism – Exam-Focused Notes
 
 ---
 
-## 1. Three Theses of the Epicureans
+## 1. The Three Theses of the Epicureans
+
+Epicureanism is built on three core theses:
 
 ### 1.1 Physicalism
+- **Claim:** Everything that exists is physical (made of atoms and void).
+- The **soul/mind** is also made of fine atoms.
+- **Implication for happiness and death:**
+  - No non-physical, immortal soul.
+  - When the body dies, the soul’s atoms disperse → no consciousness after death.
+  - This supports the claim that **death is nothing to us**, because there is no subject left to feel anything.
 
-- **Claim**: Everything that exists is physical (bodies and void); no immaterial souls or supernatural forces acting in the world.
-- **Human beings**:
-  - Body and soul are both made of matter.
-  - The soul is mortal: when the body dies, the soul dissolves; **no afterlife**.
-- **Moral implication**:
-  - Since there is no conscious afterlife, all good and bad must occur **in this life**, in our experiences.
-  - This supports the idea that **death cannot be a harm** (no subject left to experience it).
-
-### 1.2 Atheism (in the Epicurean sense)
-
-- Epicurus says gods exist as **perfect, blessed, untroubled beings**, but:
-  - They **do not create the world**.
-  - They **do not reward or punish** humans.
-  - They **do not intervene** in nature or human affairs.
-- For practical purposes: **we should not fear the gods**.
-- Moral implication:
-  - No divine judgment, no hell, no cosmic punishment.
-  - Religious fear is a major source of mental disturbance; eliminating it is essential for tranquility.
+### 1.2 Atheism (in Epicurean sense)
+- Epicurus does not deny the existence of gods, but:
+  - Gods are **perfectly blissful and indestructible**.
+  - They **do not intervene** in the world, do not reward/punish, and do not care about human affairs.
+- From a practical perspective:
+  - We must **not fear gods** (no divine punishment, no afterlife judgment).
+  - Religion-based fears (hell, eternal punishment, angry gods) are baseless.
+- This removes a major source of **mental disturbance**, contributing to ataraxia.
 
 ### 1.3 Hedonism
-
-- **Hedonism**: Pleasure is the only intrinsic good; pain is the only intrinsic bad.
-- Important Epicurean twist:
-  - The **best kind of pleasure** is not intense stimulation, but a **stable state** of:
-    - No bodily pain (**aponia**).
-    - No mental disturbance or anxiety (**ataraxia**).
-- Once we reach this painless, tranquil condition, we **need no further pleasure** to make life better.
+- **Claim:** Pleasure is the only intrinsic good; pain is the only intrinsic bad.
+- All rational choices aim (or should aim) at:
+  - **Maximizing pleasure**, and
+  - **Minimizing pain**.
+- But Epicurus has a **refined** view of pleasure:
+  - The highest pleasure is **not constant stimulation**, but **freedom from bodily pain and mental disturbance**.
 
 ---
 
 ## 2. How Best to Pursue Pleasure and the Absence of Pain
 
-### 2.1 The Goal: Ataraxia and Aponia
+### 2.1 Pleasure as the Goal: Ataraxia and Aponia
+- **Goal of life:** a state of:
+  - **Aponia** – absence of bodily pain.
+  - **Ataraxia** – calm, tranquil, deeply peaceful mind (absence of fear, anxiety, disturbance).
+- Once you lack pain in body and disturbance in mind:
+  - You have reached the **limit of pleasure**; you do not need “more” pleasure.
+  - Extra luxuries do not make you more happy in any deep sense.
 
-- Best life = **freedom from pain in body** and **freedom from disturbance in mind**.
-- Result: **ataraxia** – a calm, deeply peaceful, pleasantly content state.
-- This is more valuable than chasing many short-lived, intense pleasures.
+### 2.2 Types of Desires and Basic Needs
 
-### 2.2 Strategy: Satisfy Basic Needs of Body and Mind
+Epicurus classifies desires:
 
-Epicurus’ central practical idea:
+1. **Natural and Necessary Desires**
+   - For:
+     - Basic bodily survival (food, water, shelter).
+     - Freedom from bodily pain.
+     - Mental health and peace (freedom from fear, especially fear of gods and death).
+   - They are:
+     - **Easy to satisfy**, and
+     - **Necessary** for happiness.
+   - Example: simple food and drink to remove hunger and thirst.
 
-> Seek **simple, easily attainable pleasures** that secure freedom from pain and anxiety.
+2. **Natural but Unnecessary Desires**
+   - Have a natural basis, but are not required for happiness.
+   - Example: desire for fancy foods instead of simple, nourishing foods.
+   - Can be enjoyed, but pursuing them intensely creates dependency and risk.
 
-Key points:
+3. **Groundless (Vain) Desires**
+   - Not rooted in natural needs.
+   - Typically for **fame, power, great wealth, status, luxury**.
+   - **Hard to satisfy**, and even if satisfied, they:
+     - Generate anxiety (fear of losing them).
+     - Do not secure ataraxia.
 
-1. **Desires fall into types**:
-   - **Natural and necessary**  
-     - For **life** (food, water, shelter).  
-     - For **bodily health** (basic medical care, rest).  
-     - For **happiness/peace of mind** (friendship, security, freedom from fear).
-   - **Natural but not necessary**  
-     - Extra variety and refinement (tasty food instead of plain, nice clothes, etc.).  
-     - Pleasant, but not required for a good life.
-   - **Groundless/empty**  
-     - Desires for **fame, power, great wealth, luxury, status**, and limitless consumption.
-     - These are culturally inflated and hard to satisfy.
+**Key strategy:**  
+- Focus on **natural and necessary** desires.
+- Limit or ignore **groundless** desires; they produce more disturbance than pleasure.
 
-2. **Practical rule**:
-   - **Focus on natural and necessary desires**: they are **few and easy to satisfy**.
-   - Be cautious about “natural but not necessary” desires.
-   - **Reject or resist groundless desires**: they create constant frustration and anxiety.
+### 2.3 Practical Guidance for Pursuing Pleasure
 
-3. **Self-sufficiency and simplicity**:
-   - Getting used to **simple food, simple shelter, modest lifestyle**:
-     - Makes you less dependent on luck and wealth.
-     - Makes you **healthier** and more resilient.
-     - Means occasional luxury is enjoyed more when it appears.
-   - Example: Bread and water can be extremely pleasurable when you are truly hungry and free of fear.
+- **Self-sufficiency:**  
+  - Learn to be content with little.
+  - Simple lifestyle → easier to secure basic needs → less anxiety about losing things.
 
-4. **Prudence (practical reasoning)**:
-   - We do **not** choose every pleasure, and we do **not** avoid every pain:
-     - Sometimes **reject a pleasure** if it will cause greater pain later.
-     - Sometimes **accept a pain** (e.g., medical treatment, hard work) if it leads to greater long-term tranquility.
-   - This requires **calculating** long-term consequences.
-   - Hence: living pleasantly **requires** living prudently, justly, and honorably; these virtues support stable pleasure.
+- **Simple pleasures:**
+  - Plain food, clean water, basic shelter, modest clothing.
+  - Once pain from want is removed, such simple goods can be as pleasurable as luxuries.
 
-5. **Is it really easy to satisfy basic needs?**
-   - Epicurus claims: what is **natural** is generally easy to obtain.
-   - But:
-     - How easy basic needs are to satisfy depends heavily on your **social and economic conditions** (e.g., poverty, oppression, inequality).
-     - Exam angle: you may be asked to question whether Epicurus underestimates these social factors.
+- **Prudence (practical wisdom):**
+  - Central Epicurean virtue.
+  - Use careful reasoning to:
+    - Choose pleasures that lead to long-term pleasure and minimal pain.
+    - Sometimes **endure short-term pain** for greater long-term pleasure.
+    - Sometimes **reject short-term pleasure** if it leads to greater long-term pain.
+
+- **“Not the life of the profligate”:**
+  - Epicurus explicitly rejects a life of constant partying, luxury, and excess.
+  - Real happiness comes from:
+    - A stable, undisturbed mind.
+    - Freedom from fear.
+    - Modest, secure satisfaction of basic needs.
+
+### 2.4 Is It Really Easy to Satisfy Basic Needs?
+
+- In theory:
+  - Basic needs of body and mind are **few** and **easy to satisfy**.
+- In practice:
+  - How easy this is **depends on society and circumstances**:
+    - Economic conditions.
+    - Political stability.
+    - Social safety nets, etc.
+  - Still, the Epicurean point: compared to chasing luxury and status, focusing on basics is **much more realistic and secure**, even in harder societies.
 
 ---
 
-## 3. Why Not Pursue Fame, Power, Wealth, and Luxuries?
+## 3. Why Not Pursue Fame, Power, and Wealth?
 
-Epicurus’ recommendation: **Do not aim your life at fame, political power, great wealth, or luxury.**
+Epicurus strongly advises **against** making these your life goals.
 
 ### 3.1 Main Reasons
 
-1. **The pursuit itself is stressful and risky**:
-   - Competing for power, status, and wealth brings:
-     - Constant striving, fear of failure, political and social conflict.
-     - Moral compromises that disturb your conscience.
-   - This undermines ataraxia.
+1. **The process is stressful and painful.**
+   - To get fame, power, or great wealth, you often must:
+     - Work excessively.
+     - Compete harshly.
+     - Engage in flattery, politics, or morally dubious behavior.
+   - This creates **ongoing stress** and mental disturbance.
 
-2. **Low chances of success; anxiety even if you succeed**:
-   - Most people will **not** become famous or extremely wealthy.
-   - Even if you do:
-     - You worry about **losing** what you have.
-     - You become dependent on external factors you cannot control (public opinion, markets, political shifts).
+2. **You probably won’t get them – and if you do, you’ll fear losing them.**
+   - They are:
+     - Rare.
+     - Dependent on others’ opinions and external circumstances.
+   - If you fail: frustration, envy, anxiety.
+   - If you succeed: constant **fear of loss**, jealousy from others, threats to your position.
+   - Overall: unstable basis for happiness.
 
-3. **You become “spoiled”**:
-   - Luxuries raise your **baseline expectations**:
-     - Ordinary experiences feel dull.
-     - You **need more and more** to feel satisfied.
-   - This contradicts the goal of being content with **little** and easily maintaining pleasure.
+3. **They spoil you.**
+   - Luxuries and status can:
+     - Raise your “baseline” expectations.
+     - Make simple pleasures seem dull.
+   - You become **less resilient** and more dependent on rare conditions for happiness.
 
-### 3.2 Exam Connection
+### 3.2 Connection to Desires and Pleasure
 
-You should be able to:
+- Fame, power, wealth are examples of **groundless desires**:
+  - Hard to achieve.
+  - Harder to keep.
+  - Bring more anxiety than secure pleasure.
+- Pursuing them works **against** ataraxia:
+  - Increases fear of failure, fear of others, and fear of loss.
+- By contrast, satisfying **basic bodily and mental needs**, plus cultivating friendships, gives **stable, long-term** pleasure.
 
-- Explain **why** Epicurus thinks these goals are irrational from a hedonist standpoint.
-- Contrast:
-  - A life of **simple sufficiency + tranquility** vs.
-  - A life of **ambition and luxury** with constant anxiety.
-- Reflect briefly on whether this advice might depend on:
-  - How your society rewards or punishes non-ambitious lifestyles.
+### 3.3 Dependence on Culture
 
----
-
-## 4. Friendship in Epicureanism
-
-### 4.1 Why “Friendship is Golden”
-
-Epicurus places **huge** value on friendship. Reasons:
-
-1. **Pleasure and emotional support**:
-   - Friends provide affection, companionship, and joy in everyday life.
-   - They share your values and help calm fears about the future.
-
-2. **Security and protection**:
-   - Friends help you in times of need: illness, poverty, threats.
-   - This reduces fear about the future and **increases ataraxia**.
-   - In many cases, close friends provide **more reliable security** than any amount of money.
-
-3. **Moral and psychological stability**:
-   - Living among like-minded friends helps you maintain Epicurean attitudes and avoid social pressures toward wealth, status, and excess.
-   - You cultivate trust and mutual care, which reinforces peace of mind.
-
-### 4.2 Friendship vs. Wealth/Power
-
-- Instead of competing for power and status, **invest in close, supportive friendships**.
-- Epicurean “riches”: having what you truly need, plus reliable friends.
-- Exam angle:
-  - Be ready to explain why friendship is a **better long-term strategy** for happiness than wealth or fame.
-
-### 4.3 Dependence on Culture?
-
-- In some societies:
-  - Strong community networks may make Epicurean friendship-based security more realistic.
-- In others:
-  - High mobility, individualism, and economic insecurity might make close, lasting friendships harder to attain.
-- You may be asked to consider: **Does Epicurus’ optimism about friendship assume a certain kind of social environment?**
+- In a culture obsessed with status and wealth:
+  - Social pressure to chase these is strong.
+  - Resisting this pressure is harder.
+- Still, the Epicurean claim is universal:
+  - **Whatever culture you live in**, real stability comes from:
+    - Modest needs.
+    - Tranquil mind.
+    - Good friendships.
+  - Culture may change **how hard** this is, but not **what** leads to happiness.
 
 ---
 
-## 5. “Death is Nothing to Us”: Epicurus’ Argument
+## 4. Friendship Is Golden
 
-Epicurus’ famous claim: **“Death is nothing to us.”**
+Epicurus places **enormous value** on friendship.
+
+### 4.1 Why Friendship Matters So Much
+
+- Friends provide:
+  - **Emotional support**: comfort in distress, sharing joys.
+  - **Security**: mutual assistance in times of need (illness, poverty, danger).
+  - **Trust and understanding**: feeling known and cared for.
+- These contribute directly to:
+  - **Ataraxia**: calm mind, reduced fear, sense of safety.
+  - **Stability**: more reliable than money or status.
+
+### 4.2 Friendship vs Material Wealth
+
+- Material riches can be:
+  - Lost suddenly (accidents, theft, economic changes).
+  - A source of envy and danger (people may try to take them).
+- Close friendships:
+  - Are **less vulnerable** than wealth to external forces (if well-chosen).
+  - Create a **network of mutual support** that often outlasts and outperforms material safety nets.
+- Hence Epicurean advice:
+  - **Don’t waste your life** chasing fame, power, wealth.
+  - Invest your time and energy in building and maintaining **close, supportive friendships**.
+
+### 4.3 Role of Culture
+
+- In some cultures:
+  - Individualism and competition can weaken social bonds.
+  - People move frequently or work long hours → harder to maintain deep friendships.
+- This makes the Epicurean strategy **harder**, but:
+  - Even then, friendship remains one of the **most reliable sources** of security and pleasure.
+  - You may need to **consciously resist** cultural pressures to prioritize work/status over relationships.
+
+---
+
+## 5. “Death Is Nothing to Us”
+
+Central Epicurean claim: **Death is nothing to us.**
 
 ### 5.1 Core Argument
 
-1. **All good and bad consist in sense-experience**  
-   - Something can be bad for you only if you **experience it** as painful or unpleasant.
-   - Likewise, something can be good only if you experience it as pleasurable.
+Epicurus relies on two key ideas:
 
-2. **Death is the absence of all sense-experience**  
-   - When you are dead, you do not feel anything: no pain, no fear, no regret.
-   - Since the soul is material and dissolves at death (physicalism), there is **no conscious subject** after death.
+1. **All good and bad consist in sense-experience.**
+   - Pleasure and pain are felt states.
+   - To be harmed or benefitted, you must be capable of **experiencing** something.
 
-3. **Therefore, death is not bad for the person who dies**  
-   - When you exist, death is not present.  
-   - When death is present, you do not exist.  
-   - So there is **no time** at which both you and your death are present such that you can be harmed by it.
-   - Thus, death is **“nothing to us”**—not an evil to the one who dies.
+2. **Death is the complete absence of sense-experience.**
+   - Because of physicalism:
+     - When the body dies, the soul’s atoms disperse.
+     - No consciousness, no awareness, no sensation.
 
-### 5.2 Reply to the “Missing Out” Objection
+**Argument structure:**
 
-**Objection**: Even if death is not painful, it is bad because you will **miss out** on future pleasures you could have had.
+- While we exist, we can experience things, but **death is not yet present**.
+- When death is present (we are dead), **we do not exist** to experience anything.
+- So there is **never** a time when both:
+  - We exist as subjects of experience, and
+  - Death is affecting us.
+- Therefore:
+  - Death does not affect us at any time.
+  - So death is **nothing to us** – it cannot be good or bad for us.
 
-Epicurean replies:
+### 5.2 Fear of Death as a Source of Disturbance
 
-1. **No subject, no deprivation**:
-   - To be deprived of something (like missed pleasures), you must **exist** to have that deprivation.
-   - After death, you do not exist; so there is no “you” to be in a deprived state.
+- People often:
+  - Fear death as the greatest evil.
+  - Suffer anxiety just thinking about their future death.
+- Epicurus thinks this is irrational:
+  - To fear something **only in anticipation**, when you know that when it happens you won’t feel anything, is to cause yourself **unnecessary present pain**.
+- Correct understanding of death:
+  - Removes the **fear of non-existence**.
+  - Makes the **finitude** of life acceptable.
+  - Helps secure **ataraxia**.
 
-2. **Anticipatory fear is irrational**:
-   - People often say they fear death not for the pain when it happens, but because thinking about future death now is painful.
-   - Epicurus: it is irrational to let the thought of a state (death) that **will not be bad when it arrives** cause you distress now.
-   - If being dead is not bad **when it happens**, then fearing it in advance is a **useless self-torment**.
+### 5.3 Objection: “But I’ll Miss Out!”
 
-3. **Focus on quality, not length, of life**:
-   - A wise person does not cling to life at any cost nor rush toward death.
-   - The goal is not to live as **long** as possible, but to live as **pleasantly and peacefully** as possible.
-   - Once life is full of ataraxia, adding more years is not inherently better.
+**Objection:**  
+Even if I won’t feel pain when dead, death is bad because it deprives me of future pleasures I could have had.
+
+**Epicurean replies (exam-relevant points):**
+
+1. **No subject after death:**
+   - For something to be bad *for you*, there must be a *you* for whom it is bad.
+   - After death, there is no you at all, so no one who is “missing out.”
+
+2. **Asymmetry with prenatal non-existence:**
+   - We do not regard the long time before we were born as a terrible deprivation.
+   - Our non-existence after death is similar.
+   - If we do not lament the infinite past when we did not exist, we should not obsess over future non-existence.
+
+3. **Focus on present life, not infinite extension:**
+   - A good life is about **quality** (pleasantness) not **quantity** (length).
+   - The wise person focuses on making life **pleasant now**, not on extending it indefinitely.
+   - Removing the craving for immortality reduces anxiety and dissatisfaction.
+
+### 5.4 The Four-Part Cure (Tetrapharmakos)
+
+Epicurus’ “four-part cure” summarizes how to achieve ataraxia:
+
+1. **Don’t fear god.**
+   - Gods (if they exist) are blissful and indifferent, not punishing.
+
+2. **Don’t worry about death.**
+   - Death is nothing to us: when we exist, it is not; when it is, we are not.
+
+3. **What is good is easy to get.**
+   - Basic bodily and mental needs are few and easy to satisfy.
+
+4. **What is terrible is easy to endure.**
+   - Intense pains are usually short.
+   - Long-lasting pains are often moderate and manageable.
+   - With a proper mindset and simple needs, life’s bad things are not overwhelmingly horrible.
+
+These points:
+- Remove fear of gods and death.
+- Show that happiness is **accessible** (basic needs) and suffering is **limited**.
+- Together, they aim to secure **a calm, untroubled life**.
 
 ---
 
-## 6. The Four-Part Cure (Tetrapharmakos)
+## 6. Key Takeaways for the Exam
 
-Later Epicureans summarized Epicurus’ therapeutic strategy as a **“four-part cure”** for the soul’s main anxieties:
+- **Three theses:**
+  - Physicalism: everything, including soul, is material; no afterlife consciousness.
+  - Atheism (practically): no divine punishment or reward; don’t fear gods.
+  - Hedonism: pleasure is the only intrinsic good; the highest form = absence of pain/disturbance.
 
-1. **Don’t fear the gods**  
-   - They do not interfere with human affairs; no need to fear divine punishment or wrath.
+- **Best way to pursue pleasure:**
+  - Satisfy **natural and necessary** desires → bodily health, freedom from pain, mental tranquility.
+  - Avoid groundless desires (fame, power, wealth, luxuries).
+  - Aim for **ataraxia** and **aponia**, not constant stimulation.
+  - Use prudence to weigh short-term vs long-term pleasures and pains.
 
-2. **Don’t worry about death**  
-   - Death is nothing to us: when death comes, we no longer exist to suffer.
+- **Role of friendship:**
+  - More secure and valuable than wealth or fame.
+  - Key source of long-term safety, support, and pleasure.
+  - Central to an Epicurean happy life.
 
-3. **What is good is easy to obtain**  
-   - True goods (basic bodily needs and tranquility of mind) require only simple, modest means.
-
-4. **What is terrible is easy to endure**  
-   - Extreme pains are usually short; long-lasting pains are tolerable or manageable.
-   - With the right attitude and simple living, life’s hardships do not destroy happiness.
-
-**Exam use**:  
-- Explain how this “cure” connects:
-  - To **physicalism and atheism** (no afterlife punishment, no interventions by gods).
-  - To the **focus on basic needs** and simple pleasures.
-  - To the argument that **death is nothing to us**.
-
----
-
-**End of Epicureanism Exam Notes**
+- **Death is nothing:**
+  - All good/bad requires sensation.
+  - Death = end of sensation.
+  - So death cannot harm you; fearing it is irrational.
+  - Objection (“I’ll miss out”) fails because there is no subject after death to be deprived.

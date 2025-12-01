@@ -1,361 +1,318 @@
-## 1. Limitations of the Scientific Literature on Happiness  
-(as emphasized in lecture)
+## 1. Limitations of the Scientific Literature on Happiness
 
-### 1.1 Can happiness be measured scientifically?
+You should be able to clearly state and briefly explain at least three of these.
 
-- **Subjectivity problem**  
-  - Happiness is an inner, subjective state.  
-  - Science often relies on **self-report surveys** (“How happy are you, from 1–10?”).  
-  - Problem: people interpret scales differently, compare themselves to different groups, and may not be fully self-aware or honest.
+### A. Problems Measuring Happiness
 
-- **Context and framing effects**  
-  - Answers can shift based on wording, order of questions, mood, recent events.  
-  - Example: Being asked about your love life right before a happiness question can change your self-rating.
+- **Subjectivity of self‑reports**  
+  - Most studies use “How happy are you, from 1–10?” type questions.  
+  - Different people interpret the scale differently; mood at the moment, culture, and personality all affect answers.  
+  - People may answer in socially desirable ways (“I should say I’m happy”).
 
-- **Reduction problem**  
-  - Turning happiness into a single number oversimplifies:  
-    - Different dimensions (pleasure, meaning, engagement, relationships) get compressed into one score.  
-  - Makes it hard to know **what kind** of happiness is being measured or increased.
+- **Shallow vs. deep happiness**  
+  - Questionnaires often capture short‑term mood (how you feel right now) rather than deep, long‑term well‑being or life satisfaction.  
+  - This makes it hard to know whether an intervention truly improves a person’s overall life, or just gives a temporary mood boost.
 
-- **Takeaway**: Scientific measures of happiness are **rough and imperfect**, which limits how confidently we can draw conclusions from “happiness data.”
+- **Context and comparison effects**  
+  - Answers are influenced by recent events (weather, last conversation, exam grade), and by what people are thinking about when asked (e.g., their job vs. family).  
+  - So the “measurement” can be unstable and easily distorted.
 
+### B. Replication Failures
 
-### 1.2 Replication failure
+- **Many famous findings in psychology don’t replicate well**  
+  - When other researchers rerun the same happiness studies, they often fail to find the same effects.  
+  - This raises doubts about how reliable the original results are.
 
-- **Replication** = repeating a study to see if the same result appears again.
-- Large portion of psychological findings (including happiness research) have **not replicated reliably**.
-- Reasons:
-  - **Small samples**, chance results.  
-  - **Researcher degrees of freedom**: flexible data analysis choices can make random noise look like a real effect.  
-  - **Publication bias**: journals favor positive, surprising findings; failed replications often unpublished.
+- **Causes of poor replication**  
+  - Small sample sizes (too few participants).  
+  - Questionable research practices (p‑hacking, trying many analyses and reporting only what “works”).  
+  - Publication bias (journals prefer positive results).
 
-- For happiness interventions:
-  - A single impressive study (e.g., “writing gratitude letters boosts happiness by X”) may not hold up when repeated.
-  - So we should treat many “proven” happiness techniques as **tentative**, not as well-established facts.
+- **Implication**  
+  - We should be cautious about treating any single happiness study (or intervention) as solid, established fact.
 
-- **Takeaway**: Some famous happiness interventions may be **less reliable** than they appear; evidence is often fragile.
+### C. Small Effect Sizes
 
+- **Statistically significant ≠ practically important**  
+  - Many happiness interventions produce *tiny* average changes in happiness scores, even when they are statistically detectable.  
+  - Example idea: An intervention might move people’s happiness from 6.0 to 6.2 on a 10‑point scale—real but small.
 
-### 1.3 Small effect sizes
+- **Overstated claims**  
+  - Popular presentations sometimes talk as if interventions “transform your life,” but the data often show modest gains.  
+  - Realistic takeaway: interventions may help somewhat, but are unlikely to radically change happiness for most people.
 
-- **Effect size** = how big the difference or change is, in practice.
-- In happiness research, many interventions show **statistically significant** but **small** effects:
-  - Example: Average happiness score might rise only a little (e.g., from 6.2 to 6.5 on a 10-point scale).
-- Problems:
-  - Small average effects may not be **noticeable** in everyday life.  
-  - Real impact may require **consistent practice** over time and may help only some people (not everyone).
+### D. Weak or Unknown Long‑Term Effects
 
-- Why effects are small:
-  - Happiness is influenced by **many factors** (genetics, life circumstances, habits, personality).
-  - A single intervention (gratitude journal, meditation, etc.) hits only one piece of a complex system.
+- **Short study durations**  
+  - Many studies track people for only a few weeks or months.  
+  - We don’t know whether effects persist over years.
 
-- **Takeaway**: Even when techniques “work,” the improvements are often **modest**, not dramatic transformations.
+- **Hedonic adaptation**  
+  - People tend to return to a baseline level of happiness after positive or negative changes.  
+  - Even when interventions work initially, gains may fade as people get used to them or stop doing them.
 
-
-### 1.4 Unclear or non-existent long-term effects
-
-- Many studies test happiness **right after** or **shortly after** an intervention (days or weeks).
-- Fewer studies track participants for **months or years**.
-- As a result:
-  - We often don’t know if gains **persist** once people stop the exercise.  
-  - Some benefits may **fade quickly**, like a “honeymoon effect.”
-- True long-term happiness change likely requires:
-  - Turning exercises into **stable habits** and  
-  - Integrating them into your ongoing **way of life**, not one-off experiments.
-
-- **Takeaway**: Evidence is often strongest for **short-term boosts**; robust, long-lasting changes are **much less clearly established**.
+- **Lack of follow‑up or null long‑term results**  
+  - Long‑term follow‑up is often missing; when it exists, sometimes the long‑term effects are small or disappear.  
+  - So we cannot be confident that many interventions produce lasting, substantial increases in happiness.
 
 ---
 
 ## 2. Lyubomirsky’s Strategies for Becoming Happier
 
-### 2.0 Preliminaries: Corniness and Fit
+You only need to describe at least four on an exam, but it’s helpful to know the full range.
 
-- **Corniness**:  
-  - Many exercises (gratitude lists, kindness, affirmations) can feel cheesy or fake.  
-  - Lecture emphasis: being effective is more important than avoiding corniness.
+### 2.1 Preliminaries: Corniness and Fit
 
-- **Fit** (crucial idea in Lyubomirsky):
+- **Corniness**  
+  - Many exercises (gratitude letters, affirmations, savoring) can feel cheesy or artificial.  
+  - Core idea: they may still help if you do them sincerely and consistently; be willing to try even if they feel slightly awkward.
+
+- **Fit**  
   - Not every strategy works for every person.  
-  - A strategy should fit your **personality, values, lifestyle, and beliefs**.  
-  - To be effective, a strategy must be:
-    - Done **regularly**, not once.  
-    - Done **wholeheartedly**, not half-heartedly.  
-    - **Adapted** to your style (e.g., private gratitude vs. public).
-
-- Exam tip: When describing any strategy, mention that **fit and sustained practice** are key to success.
+  - Choose strategies that match your:
+    - Personality (introvert/extrovert, reflective/action‑oriented)  
+    - Values (what you genuinely care about)  
+    - Lifestyle and constraints (time, resources)  
+  - Good “fit” makes it more likely you will keep doing the practice long enough for it to help.
 
 ---
 
-## 2.1 Expressing Gratitude
-
-- **Core idea**: Actively notice and appreciate the good things in your life and the people who contribute to them.
-
-- **Typical practices**:
-  - Gratitude journal: write down things you’re grateful for, daily or weekly.  
-  - Gratitude letters or visits: write to someone you never properly thanked and tell them specifically what you appreciate.  
-  - Silent gratitude: mentally acknowledge what’s going well, especially in ordinary moments.
-
-- **Why it can increase happiness**:
-  - Shifts attention from **what’s missing** to **what’s present**.  
-  - Counters **adaptation** (taking good things for granted).  
-  - Can strengthen **relationships** when others feel valued.
-
-- **Pitfalls / qualifications**:
-  - Must be **sincere**, not forced or performed out of guilt.  
-  - Overdoing it mechanically may reduce impact; some people benefit more from weekly than daily journaling.  
-  - Works best when tailored to your style (writing, speaking, silent reflection).
-
-
-## 2.2 Cultivating Optimism
-
-- **Core idea**: Deliberately practice more positive, hopeful ways of thinking about your future and your problems.
-
-- **Typical practices**:
-  - “Best possible self” visualization/writing: imagine and write about your life going as well as realistically possible in the future.  
-  - Reframing: when bad events occur, interpret them as **temporary**, **specific**, and **changeable**, instead of permanent and global.
-
-- **Why it can increase happiness**:
-  - Increases **hope** and **motivation**; you’re more likely to take constructive action when you believe improvement is possible.  
-  - Reduces **helplessness** and rumination.  
-  - Encourages **goal-setting** and persistence.
-
-- **Pitfalls / qualifications**:
-  - Not about denying reality or ignoring genuine risks.  
-  - Works best as **realistic optimism**: “Things are hard, but here’s what I can do.”
-
-
-## 2.3 Avoiding Overthinking and Social Comparison
-
-- **Overthinking / rumination**:
-  - Repeatedly going over the same negative thoughts, failures, or worries.  
-  - Typically **increases** distress, anxiety, and depression.
-
-- **Social comparison**:
-  - Constantly comparing your life, looks, status, or success to others (especially those doing better).
-
-- **Strategies to counter these**:
-  - **Distraction with meaningful activity** (exercise, hobbies, work, helping others).  
-  - **Setting time limits** for worry or analysis.  
-  - **Questioning thoughts**: “Is this thought useful? Is it fair? What evidence do I have?”  
-  - **Limiting exposure** to triggers such as social media where upward comparison is constant.
-
-- **Why this can increase happiness**:
-  - Frees mental space and emotional energy.  
-  - Reduces feelings of **inadequacy**, envy, and regret.  
-  - Encourages focus on your **own path**, not others’ highlight reels.
-
-- **Key point**: This strategy is partly **inhibitory** (stopping harmful mental habits), not just adding a new practice.
-
-
-## 2.4 Practicing Acts of Kindness
-
-- **Core idea**: Intentionally do good things for others, beyond what’s strictly required.
-
-- **Examples**:
-  - Helping a friend with a task, giving compliments, volunteering, small favors, anonymous gifts or help.
-
-- **Why it can increase happiness**:
-  - Creates **positive emotions** (warmth, satisfaction, purpose).  
-  - Strengthens **social bonds** and support networks.  
-  - Shifts focus away from one’s own problems.
-
-- **Effective ways to practice**:
-  - **Clustered kindness**: some evidence suggests doing multiple kind acts in a single day can have strong effects.  
-  - Varying the kinds of kindness to prevent adaptation.  
-  - Choosing acts that **genuinely matter** to you and the recipient.
-
-- **Pitfalls / qualifications**:
-  - Must avoid **burnout** or overextending yourself.  
-  - Not about being a doormat; kindness should be consistent with respecting yourself.
-
-
-## 2.5 Nurturing Social Relationships
-
-- **Core idea**: Invest time, attention, and care into friendships, family, and close relationships.
-
-- **Practices**:
-  - Regular check-ins, active listening, and being emotionally available.  
-  - Celebrating others’ successes (being **enthusiastically supportive**).  
-  - Resolving conflicts constructively; apologizing and expressing appreciation.
-
-- **Why it can increase happiness**:
-  - Strong, supportive relationships are among the **most robust predictors** of happiness and life satisfaction.  
-  - Provide emotional support, sense of belonging, and shared joy.
-
-- **Key points**:
-  - Quality often matters more than number of relationships.  
-  - Requires **ongoing effort**: scheduling time, expressing affection, maintaining trust.
-
-
-## 2.6 Developing Strategies for Coping with Stress, Hardship, and Trauma
-
-- **Core idea**: How you respond to difficulties has a major impact on your long-term happiness.
-
-- **Constructive coping strategies**:
-  - **Problem-focused coping**: specify the problem and take concrete steps to address what you can control.  
-  - **Emotion-focused coping**: healthy ways to manage feelings (talking to others, journaling, relaxation techniques).  
-  - **Meaning-focused coping**: finding or constructing meaning, growth, or lessons in hardship.
-
-- **Why it can increase happiness**:
-  - Reduces the long-term psychological impact of negative events.  
-  - Can lead to **post-traumatic growth**: increased appreciation of life, stronger relationships, clearer priorities.
-
-- **Pitfalls**:
-  - Avoid purely **avoidant coping** (substance abuse, denial, numbing behaviors), which tend to worsen outcomes long-term.
-
-
-## 2.7 Learning to Forgive
-
-- **Core idea**: Let go of chronic resentment and the desire for revenge against those who have wronged you.
-
-- **What forgiveness is**:
-  - Replacing enduring anger and hatred with more neutral or even compassionate attitudes.  
-  - It does **not** necessarily mean forgetting, excusing, or reconciling.
-
-- **Why it can increase happiness**:
-  - Persistent anger and bitterness are emotionally draining and can dominate your mental life.  
-  - Forgiveness can reduce stress, anxiety, and improve physical and mental health.
-
-- **Practices**:
-  - Perspective-taking: trying to see the offender as a complex human, not just as “the villain.”  
-  - Writing about the offense and gradually reconstructing a more balanced account.  
-  - Sometimes involving spiritual or moral frameworks that value mercy.
-
-- **Limits**:
-  - Forgiveness can take time and may not be advisable in all circumstances (e.g., ongoing abuse).  
-  - Genuine forgiveness cannot be rushed or faked.
-
-
-## 2.8 Increasing Flow Experiences
-
-- **Flow**: a state of deep absorption in an activity, where time passes quickly and you’re fully engaged.
-
-- **Typical characteristics**:
-  - Clear goals and immediate feedback.  
-  - Challenge level matches (or slightly exceeds) your skills.  
-  - Focused concentration; self-consciousness fades.
-
-- **Examples**:
-  - Sports, playing music, coding, writing, complex games, creative arts, challenging work tasks.
-
-- **Why it can increase happiness**:
-  - Provides intense **intrinsic enjoyment** and sense of competence.  
-  - Reduces self-focused rumination.  
-  - Over time, builds **skills and mastery**, which feed into confidence and self-respect.
-
-- **How to cultivate flow**:
-  - Choose activities you find personally meaningful or interesting.  
-  - Increase difficulty gradually to stay in the “challenge–skill” sweet spot.  
-  - Minimize distractions and multitasking.
-
-
-## 2.9 Savoring Life’s Joys
-
-- **Core idea**: Intensify and prolong positive experiences rather than rushing past them or taking them for granted.
-
-- **Practices**:
-  - Mindfully paying attention to pleasant experiences (a meal, music, nature, warmth of the sun).  
-  - Sharing good moments with others.  
-  - Mental “photographing”: deliberately pausing to take in a moment and imprint it in memory.
-
-- **Why it can increase happiness**:
-  - Enhances **pleasure** without needing more resources or bigger events.  
-  - Counteracts adaptation to everyday good things.
-
-- **Pitfalls**:
-  - Over-analyzing the moment (“Am I happy enough right now?”) can ruin it.  
-  - The key is gentle, non-judgmental attention, not performance.
-
-
-## 2.10 Committing to Pursuit of Your Goals
-
-- **Core idea**: Having and pursuing personally meaningful goals contributes to a sense of purpose and long-term satisfaction.
-
-- **Elements**:
-  - Choosing goals that fit your **values and strengths**, not just external expectations.  
-  - Breaking large goals into smaller, achievable steps.  
-  - Tracking progress and adjusting strategies.
-
-- **Why it can increase happiness**:
-  - Goals organize your life and provide **direction, structure, and motivation**.  
-  - Progress toward goals often brings more satisfaction than their final achievement.
-
-- **Caution**:
-  - Avoid goals that are purely status-driven or externally imposed if they conflict with your deeper values.  
-  - Balance ambition with **self-care** to prevent burnout.
-
-
-## 2.11 Meditation
-
-- **Core idea**: Systematic mental training (often through mindfulness or loving-kindness) to increase awareness and regulate attention and emotion.
-
-- **Common forms**:
-  - **Mindfulness meditation**: focusing on breath, bodily sensations, or present-moment experience non-judgmentally.  
-  - **Loving-kindness (metta)**: cultivating feelings of goodwill toward oneself and others.
-
-- **Why it can increase happiness**:
-  - Reduces automatic **rumination** and worry.  
-  - Increases capacity to notice and let go of unhelpful thoughts.  
-  - Can enhance feelings of **calm, clarity, and compassion**.
-
-- **Practice tips**:
-  - Short, regular sessions are usually more effective than rare, long ones.  
-  - Results often come gradually with consistent practice.
-
-
-## 2.12 Practicing Religion and Spirituality
-
-- **Core idea**: Engaging in religious or spiritual practices (if they fit your beliefs) can support happiness.
-
-- **Potential benefits**:
-  - **Community**: social support, belonging.  
-  - **Meaning**: frameworks for understanding life, suffering, morality.  
-  - **Rituals and practices**: prayer, services, meditation, which structure time and attention.
-
-- **Fit issue**:
-  - Beneficial mainly when the religion/spirituality is **authentically endorsed**.  
-  - Not a good strategy for those who lack belief or find it inauthentic.
+### 2.2 Expressing Gratitude
+
+- **What it is**  
+  - Noticing and appreciating the good things in your life and the people who contribute to them.
+
+- **Typical practices**  
+  - Gratitude journal: regularly listing things you’re grateful for.  
+  - Gratitude letters or visits: expressing thanks directly to someone.  
+  - Brief mental “thank you” moments during the day.
+
+- **Why it helps**  
+  - Shifts attention from what is lacking to what is already good.  
+  - Strengthens relationships by acknowledging others’ contributions.  
+  - Counters adaptation by deliberately re‑noticing positives.
+
+- **Cautions**  
+  - Should not be used to deny real problems or justify staying in bad situations.  
+  - Works best when specific and sincere, not forced or generic.
 
 ---
 
-## 2.13 Exercise (and Sleep / Diet / Nature – briefly)
+### 2.3 Cultivating Optimism
 
-- **Exercise**:
-  - Regular physical activity is strongly linked to better mood and reduced anxiety and depression.  
-  - Mechanisms: biological changes (endorphins, neurotransmitters), sense of mastery, distraction from worries.
+- **What it is**  
+  - Developing a habit of expecting that good outcomes are possible and focusing on hopeful, constructive interpretations of events.
 
-- **Sleep / Diet / Nature** (mentioned in lecture as related):
-  - **Sleep**: Adequate sleep is crucial for emotional regulation and mood.  
-  - **Diet**: Balanced, healthy eating affects energy and brain function.  
-  - **Nature**: Time outdoors, especially in green spaces, often improves mood and reduces stress.
+- **Typical practices**  
+  - “Best possible self” exercise: vividly imagine and write about a realistic, positive future for yourself.  
+  - Reframing setbacks (“This is difficult, but I can learn from it and try again”).
 
-- **Why they matter**:
-  - These are **foundational conditions**: when they’re poor, many other strategies are less effective.
+- **Why it helps**  
+  - Encourages persistence and active problem‑solving.  
+  - Reduces helplessness and anxiety; boosts motivation and goal pursuit.
+
+- **Cautions**  
+  - Should remain realistic: naïve optimism can lead to bad decisions if you ignore genuine risks or necessary preparation.
 
 ---
 
-## Quick Exam Summary
+### 2.4 Avoiding Overthinking and Social Comparison
 
-- **Limitations of scientific happiness research** (know at least three, with brief explanation):
-  1. **Measurement problems**: happiness is subjective; surveys are imperfect.  
-  2. **Replication failures**: many findings don’t reliably repeat.  
-  3. **Small effect sizes**: changes are often statistically significant but modest in real life.  
-  4. **Unclear long-term effects**: many studies show only short-term boosts; lasting change is less established.
+- **Overthinking / rumination**  
+  - Repetitive, unproductive dwelling on problems, mistakes, or negative emotions.
 
-- **Lyubomirsky’s happiness strategies** (be ready to describe at least four):
-  - Expressing gratitude  
-  - Cultivating optimism  
-  - Avoiding overthinking and social comparison  
-  - Practicing acts of kindness  
-  - Nurturing social relationships  
-  - Developing coping strategies for stress and trauma  
-  - Learning to forgive  
-  - Increasing flow experiences  
-  - Savoring life’s joys  
-  - Committing to meaningful goals  
-  - Meditation  
-  - Practicing religion/spirituality (when it fits)  
-  - Exercise (plus attention to sleep, diet, nature)
+- **Social comparison**  
+  - Constantly judging yourself against others (appearance, success, wealth, popularity).
 
-In answers, briefly explain **what the strategy is**, **how it is practiced**, and **why it is thought to boost happiness**, while acknowledging that evidence, though promising, has the limitations outlined above.
+- **Strategies to reduce them**  
+  - Set aside limited “worry time” instead of ruminating constantly.  
+  - Distract yourself with absorbing activities when rumination starts.  
+  - Limit exposure to triggers (e.g., social media that encourages comparison).  
+  - Consciously shift attention from upward comparisons (“they’re better than me”) to gratitude or self‑improvement.
+
+- **Why it helps**  
+  - Rumination and comparison magnify negative feelings without solving problems.  
+  - Reducing them frees mental energy for constructive action and enjoyment.
+
+---
+
+### 2.5 Practicing Acts of Kindness
+
+- **What it is**  
+  - Doing helpful or generous things for others, intentionally and regularly.
+
+- **Typical practices**  
+  - Small, everyday acts (helping a classmate, holding doors, sending encouraging messages).  
+  - Occasional larger acts (volunteering, donating, supporting someone in crisis).
+
+- **Why it helps**  
+  - Increases feelings of connection, purpose, and self‑worth.  
+  - Can trigger positive emotions in both giver and recipient (“helper’s high”).
+
+- **Cautions**  
+  - More effective when freely chosen, not forced or done purely out of guilt.  
+  - Should be balanced with self‑care to avoid burnout or exploitation.
+
+---
+
+### 2.6 Nurturing Social Relationships
+
+- **What it is**  
+  - Actively building, maintaining, and improving close relationships (friends, family, partners, community).
+
+- **Typical practices**  
+  - Investing time and attention in people you care about.  
+  - Being a good listener; showing interest and empathy.  
+  - Celebrating others’ good news and supporting them in hard times.  
+  - Repairing conflicts with apology and constructive conversation.
+
+- **Why it helps**  
+  - Strong, supportive relationships are among the most robust predictors of happiness.  
+  - Provide emotional support, a sense of belonging, and shared joy.
+
+---
+
+### 2.7 Developing Strategies for Coping with Stress, Hardship, and Trauma
+
+- **What it is**  
+  - Learning healthier ways to respond to difficulties rather than being overwhelmed or numb.
+
+- **Typical strategies**  
+  - Problem‑focused coping: taking practical steps to change what can be changed.  
+  - Emotion‑focused coping: managing emotions (talking to friends, journaling, therapy, relaxation).  
+  - Finding meaning: seeing some growth or learning in adversity when appropriate.
+
+- **Why it helps**  
+  - Reduces the long‑term negative impact of stress and trauma on happiness.  
+  - Increases resilience and sense of control.
+
+---
+
+### 2.8 Learning to Forgive
+
+- **What it is**  
+  - Letting go of ongoing resentment and desire for revenge toward someone who has harmed you.  
+  - It does *not* necessarily mean forgetting, excusing, or reconciling.
+
+- **Typical practices**  
+  - Trying to see the offender as a complex person, not just the harm they caused.  
+  - Acknowledging your own pain, then deciding not to keep feeding hatred.  
+  - Sometimes expressing forgiveness; sometimes making an internal decision only.
+
+- **Why it helps**  
+  - Chronic anger and bitterness are emotionally draining and harmful to health.  
+  - Forgiveness can bring relief, peace, and psychological closure.
+
+- **Cautions**  
+  - Must be balanced with self‑protection; not a reason to stay in abusive situations.  
+  - Can be a long process, not a quick decision.
+
+---
+
+### 2.9 Increasing Flow Experiences
+
+- **What “flow” is**  
+  - A state of deep absorption in a challenging, meaningful activity, where you lose track of time and self‑consciousness.
+
+- **Typical ways to increase flow**  
+  - Choose activities that match your skills but stretch you a bit (sports, music, coding, art, puzzles, challenging work).  
+  - Reduce distractions (phones, multitasking).  
+  - Set clear, achievable goals within the activity.
+
+- **Why it helps**  
+  - Flow experiences are intrinsically rewarding and linked to higher life satisfaction.  
+  - They provide engagement and a sense of competence.
+
+---
+
+### 2.10 Savoring Life’s Joys
+
+- **What it is**  
+  - Deliberately noticing and prolonging positive experiences while they are happening or remembering them afterward.
+
+- **Typical practices**  
+  - Paying close attention to sensory details (taste of food, warmth of sunlight).  
+  - Sharing good experiences with others.  
+  - Mental replay or reminiscing about enjoyable moments.
+
+- **Why it helps**  
+  - Counters adaptation by extracting more enjoyment from ordinary events.  
+  - Strengthens memory of positive experiences, which can buffer against later stress.
+
+---
+
+### 2.11 Committing to Pursuit of Your Goals
+
+- **What it is**  
+  - Identifying personally meaningful goals and persistently working toward them.
+
+- **Typical practices**  
+  - Setting specific, realistic, value‑aligned goals.  
+  - Breaking big goals into smaller steps; monitoring progress.  
+  - Adjusting goals when they no longer fit your values or circumstances.
+
+- **Why it helps**  
+  - Provides direction, structure, and a sense of purpose.  
+  - Progress toward meaningful goals is strongly associated with well‑being.
+
+- **Cautions**  
+  - Goals imposed by others or driven only by external approval may not increase happiness.  
+  - Obsessive pursuit can harm health and relationships; balance matters.
+
+---
+
+### 2.12 Meditation
+
+- **What it is**  
+  - Regular mental training that usually involves focusing attention (on the breath, sensations, a mantra) and gently returning when the mind wanders.
+
+- **Typical benefits and mechanisms**  
+  - Increases awareness of thoughts and feelings, reducing automatic negative reactions.  
+  - Can decrease stress, anxiety, and rumination.  
+  - May increase compassion (in loving‑kindness meditation) and sense of calm.
+
+- **Why it helps**  
+  - Greater present‑moment awareness and emotional regulation often improve mood and life satisfaction.
+
+---
+
+### 2.13 Practicing Religion and Spirituality
+
+- **What it is**  
+  - Engaging in religious or spiritual beliefs and practices (prayer, services, rituals, meditation, spiritual communities).
+
+- **Possible happiness‑boosting factors**  
+  - Sense of meaning and purpose.  
+  - Community and social support.  
+  - Moral framework and traditions that encourage gratitude, forgiveness, and charity.
+
+- **Cautions**  
+  - Benefits depend on personal belief and context; not everyone finds religion helpful.  
+  - Coercive or guilt‑based religious environments can undermine well‑being.
+
+---
+
+### 2.14 Exercise (and Related Lifestyle Factors)
+
+- **Exercise**  
+  - Regular physical activity (walking, running, sports, gym, yoga).
+
+- **Why it helps**  
+  - Improves physical health and energy.  
+  - Releases chemicals (like endorphins) associated with positive mood.  
+  - Can reduce symptoms of depression and anxiety.
+
+- **Other related factors (often mentioned together)**  
+  - **Sleep**: Adequate, regular sleep strongly supports mood and cognitive functioning.  
+  - **Diet**: Nutritious food can stabilize energy and mood; extreme or poor diets can have the opposite effect.  
+  - **Nature**: Time outdoors, especially in green spaces, is associated with reduced stress and improved mood.
+
+---
+
+### Key Exam Takeaways
+
+- **Limitations**: Be ready to name and explain at least three:  
+  - Measurement problems; replication failures; small effect sizes; lack of long‑term evidence.
+
+- **Strategies**: Be ready to describe at least four strategies from Lyubomirsky and *how* each is supposed to increase happiness (mechanisms, not just labels).  
+  - Connect them, when relevant, to general ideas like building relationships, managing thoughts, coping with stress, and aligning with personal values and “fit.”

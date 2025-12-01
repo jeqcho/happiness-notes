@@ -55,8 +55,8 @@ format:
     margin-left: 1in
     margin-right: 1in
     fontsize: 11pt
-    mainfont: "Helvetica"
-    monofont: "Courier"
+    mainfont: "Arial Unicode MS"
+    monofont: "Menlo"
     colorlinks: true
     linkcolor: blue
     urlcolor: blue
@@ -171,8 +171,8 @@ format:
     margin-left: 1in
     margin-right: 1in
     fontsize: 11pt
-    mainfont: "Helvetica"
-    monofont: "Courier"
+    mainfont: "Arial Unicode MS"
+    monofont: "Menlo"
     colorlinks: true
     linkcolor: blue
     urlcolor: blue

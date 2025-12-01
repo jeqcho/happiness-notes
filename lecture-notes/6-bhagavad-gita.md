@@ -1,249 +1,218 @@
 ## 1. Identity in the Bhagavad Gita  
-### 1.1 Two levels of self
+### 1.1 Two levels of self: Atman vs. superficial self
+- **Atman (true self)**
+  - Eternal, unchanging, pure consciousness.
+  - Not created or destroyed by physical events (birth, death, success, failure, etc.).
+  - Same in all beings; basis of deep unity between persons.
+  - **Ultimately valuable**: realizing and identifying with Atman is the goal of spiritual life and enlightenment.
 
-**a) The superficial self (not ultimately important)**  
-Features that change, are temporary, and are *not* ultimately valuable:
+- **Superficial self (ego-identity)**
+  - Includes:
+    - Body, appearance, physical abilities.
+    - Psychological traits: moods, emotions, personality.
+    - Social roles: student, worker, parent, citizen.
+    - Status: wealth, prestige, reputation, achievements.
+    - Personal story: “what has happened to me,” my successes and failures.
+  - These are **changeable, temporary, and not ultimately important**.
+  - The Gita recommends **“loss of self”** at this level: weakening identification with the ego and its cravings.
 
-- Physical body (appearance, strength, health, age)  
-- Personality traits (shy/outgoing, funny/serious, etc.)  
-- Social roles (student, worker, parent, friend, citizen)  
-- Psychological states (moods, emotions, current desires)  
-- Abilities and achievements (intelligence, talents, career success, reputation)
+### 1.2 What features of identity are ultimately valuable?
+**Ultimately valuable:**
+- Your **true nature as Atman** (shared with all beings).
+- Qualities that express awareness of Atman:
+  - Wisdom, self-knowledge, insight.
+  - Compassion and concern for others.
+  - Detachment from selfish craving.
+  - Steady, focused mind.
 
-These matter *conventionally* (for everyday life), but they are not your deepest identity.  
-They are not what makes you *ultimately* valuable.
+**Not ultimately valuable (though they may have practical importance):**
+- External markers:
+  - Wealth, career success, social class, fame, beauty, popularity.
+- Fluctuating internal states:
+  - Pride, shame, insecurity about performance.
+  - Emotional highs/lows tied to praise, blame, winning, losing.
+- Narrow self-concern:
+  - Obsessive focus on “my” comfort, status, or advantage over others.
 
-**b) The true self / Atman (what is essential and ultimately valuable)**  
+### 1.3 Tension with common views of identity and self-worth
+- Common modern view:
+  - Self-worth tied to personal achievements, unique traits, career, romantic success, etc.
+- Gita’s view:
+  - These are **not what you truly are** and not what ultimately matters.
+  - Real worth comes from your **unchanging spiritual nature** and your capacity to act without ego and selfishness.
+- This underlies the Gita’s approach to:
+  - **Work as meditation** (acting without ego).
+  - **Detachment from rewards** (not basing worth on outcomes).
 
-- Atman = your deepest self / inner consciousness / spiritual core.  
-- It is:
-  - Unchanging beneath surface changes
-  - Not reducible to body, emotions, or social role
-  - Shared in nature with all beings (often linked to a universal spiritual reality)
-
-**Key idea:**  
-What is ultimately important about you is not your status, achievements, or specific personality traits, but your deeper, spiritual self that is equal in value to the true self in others.
-
----
-
-### 1.2 Conflict with ordinary views of identity and self‑worth
-
-Ordinary view:
-
-- “Who I am” = my job, appearance, talents, relationships, successes.
-- Self-worth based on:
-  - How I compare to others
-  - Achievements, praise, reputation
-  - External markers of success
-
-Gita-inspired view:
-
-- True identity = Atman, not the bundle of changing features.
-- True self-worth = unconditional, because:
-  - Your Atman is intrinsically valuable
-  - It does not depend on success, looks, talent, or social approval
-
-**Implication:**  
-Pursuit of spiritual insight involves **loss of the superficial self** (ego, fixation on image and status), not destruction of the Atman. You “lose” the ego-centered way of thinking about yourself.
-
----
-
-## 2. Work as Meditation
-
-### 2.1 Core idea
-
-- “Work as meditation” = treating your ordinary activities (study, job, chores, etc.) as a meditative practice.
-- This means:
-  - Giving your full, undivided attention to what you are doing
-  - Avoiding multitasking
-  - Working with calm focus and concentration
-  - Being fully present in the activity, moment by moment
-
-You do not need a special setting (cave, monastery); *any* task can become a spiritual practice when done this way.
 
 ---
 
-### 2.2 Working without distraction
+## 2. Work as Meditation (Karma Yoga)
 
-To work as meditation, you must minimize distraction.
+### 2.1 Core idea: work with full attention, as spiritual practice
+- **Work as meditation** means:
+  - Whatever you are doing (studying, working, cleaning, caregiving), you:
+    - Give it your **full attention**.
+    - Avoid **multitasking** and needless switching.
+    - Act with **focus, steadiness, and awareness**.
+- The work itself becomes a form of **meditative practice**:
+  - You train the mind to be **present**, **undistracted**, and **less ego-driven**.
 
-**Two main obstacles (both caused by distraction):**
-
+### 2.2 Two obstacles: ways distraction harms meditation-in-work
 1. **Split attention**
-   - Your attention is divided between the task and something else:
-     - Phone, messages, social media
-     - Background worrying
-     - Thinking about many tasks at once
-   - Result: you are never fully “in” the task; performance and enjoyment both drop.
+   - Trying to do several things at once, or mentally being in two places:
+     - Example: Writing an essay while constantly checking your phone.
+   - Result:
+     - Lower quality work.
+     - Less enjoyment, more stress.
+     - Weakens the ability to lose oneself in the task.
 
-2. **“Monkey mind”**
-   - Mind jumping persistently from thought to thought:
-     - Random memories
-     - Imagined future scenarios
-     - Self-criticism or fantasizing
-   - Even if you stay at your desk, your *mind* is not on the work.
-
-Work as meditation = training attention to stay with the task, gently bringing it back each time it wanders.
-
----
+2. **Monkey mind**
+   - A restless mind that jumps quickly from thought to thought.
+   - Examples:
+     - While working: “What’s next? What if I fail? What will they think? What’s for dinner?”
+   - Result:
+     - Almost no *sustained* attention.
+     - Shallow engagement; the mind does not settle.
+     - Blocks the deep absorption that leads toward loss of ego and peace.
 
 ### 2.3 Two common sources of distraction
-
-The lecture highlights **two especially common causes** of distraction:
+These two are especially emphasized:
 
 1. **Worrying about the outcome**
-   - Thinking constantly:
-     - “What grade will I get?”  
-     - “Will I get the promotion?”  
-     - “What will people think of this?”  
-   - This pulls your attention away from the work itself.
-   - Creates anxiety → “split attention” and “monkey mind”.
+   - Obsessing over:
+     - Grades, promotions, praise, money, success vs. failure.
+   - This keeps your mind in the **future** and on your **ego’s status**, not on the task.
+   - Anxiety about results splits attention and feeds the monkey mind.
 
 2. **Rushing**
-   - Mind is focused on the next thing instead of the current task:
-     - “I have to finish this *fast* so I can move on.”
-     - Constant clock-checking, impatience.
-   - Attention is on *being done*, not on *doing*.
-   - Again, this fractures concentration and undermines both quality and enjoyment.
+   - Doing tasks with the underlying attitude: “I just need to get this over with.”
+   - Your attention is on the **next thing**, not on the **present action**.
+   - Leads to:
+     - Sloppiness.
+     - Stress and impatience.
+     - Shallow engagement with the work.
 
-**To work as meditation, you must:**
+Both of these:
+- Pull you **away from the present moment**.
+- Make work less meditative and less connected to spiritual growth.
 
-- Let go (as far as possible) of worry about outcome.  
-- Stop mentally racing ahead to the end of the task.  
-- Simply give yourself to the present action.
+### 2.4 Three reasons to work this way (work as meditation)
 
----
+The Gita (and the lecture) highlight three main reasons to practice focused, undistracted work:
 
-### 2.4 Three reasons to work in this way
-
-The Gita (as presented in the course) gives **three main reasons** to treat work as meditation:
-
-1. **Step toward enlightenment / loss of ego-self**
-   - Deep absorption in the task reduces self-centered thinking (“How am *I* doing?”, “What do *I* get?”).
-   - When you are fully engaged, you temporarily “forget yourself” in a good way.
-   - This “loss of self” (loss of ego, not Atman) is central to spiritual progress.
+1. **Step toward enlightenment / loss of self**
+   - When fully absorbed in an activity:
+     - Ego-concerns (“How do I look?” “Will I win?”) temporarily fade.
+     - Sense of separate self can loosen.
+   - This “loss of self” (of the superficial, ego-self) is a key step toward:
+     - Realizing Atman.
+     - Experiencing unity and peace.
 
 2. **More enjoyable**
-   - Focused work is often more satisfying:
-     - Less anxiety and mental noise
-     - More “flow” or immersion in the activity
-   - The extent to which you enjoy and find satisfaction in a task depends more on the **quality of your attention** than on the **type of activity**.
-   - Even boring or routine tasks can become more pleasant when done with full presence.
+   - Deep, focused engagement tends to produce:
+     - Fulfillment, satisfaction, and even joy.
+   - The **quality of attention** often matters more than **what** the activity is:
+     - Even simple tasks can feel meaningful if done with full attention.
+     - Pleasurable activities done in a distracted way can feel empty.
 
 3. **More effective**
-   - Concentrated attention:
-     - Improves accuracy, creativity, and speed
-     - Reduces mistakes
-   - Outcome anxiety and rushing usually *harm* performance.
-   - So ironically, when you focus on the task instead of the result, you often get a *better* result.
+   - Focused, undistracted work:
+     - Improves performance.
+     - Reduces errors.
+     - Shortens the time needed overall.
+   - Even from a purely practical standpoint, **single-tasking with full attention** is superior.
+
+### 2.5 Intriguing claim about enjoyment and attention
+- The Gita-inspired view:  
+  How much we enjoy and find meaning in an activity depends **more on how deeply we attend to it** than on what the activity is.
+- Implication:
+  - You don’t always need different or more exciting tasks to be happier.
+  - You may need to change **how you relate** to what you are already doing:
+    - More presence.
+    - Less distraction.
+    - Less outcome-obsession.
+
 
 ---
 
-### 2.5 Quality of attention vs. kind of task
+## 3. Detachment from Outcome and Reward
 
-Key suggestion from lecture:
+### 3.1 Core teaching: act, but let go of results
+- Key idea:
+  - **You have control over your actions, not over the results.**
+  - Therefore:
+    - Focus on doing your **duty** (or role obligations) as well as you can.
+    - **Do not tie your motivation or self-worth** to success, reward, or praise.
+- The Gita praises those who:
+  - “Work without expectation of reward.”
+  - Continue to act energetically, but are **internally free** from anxiety about outcomes.
 
-- What matters more for happiness and satisfaction is **how** you attend, not **what** you are doing.
-- Two tasks:
-  - One “interesting” but done in a distracted, anxious way
-  - One “boring” but done with calm, full attention
-- Gita-inspired view: the second may well be more satisfying and spiritually beneficial.
+### 3.2 Not passivity, but a different motivation
+Detachment does **not** mean:
+- Laziness, giving up, or not caring about quality.
+- Refusing to act or take responsibility.
 
----
+Detachment **does** mean:
+- Still acting vigorously and skillfully.
+- But:
+  - Not acting **for** personal gain alone.
+  - Not being **upset or crushed** by failure.
+  - Not being **inflated** by success.
 
-## 3. Detachment from Outcome / Reward
+Your motivation shifts from:
+- “What will *I* get out of this?”  
+to:
+- “What is the right thing to do in this role?”  
+- “How can I contribute to others’ well-being?”
 
-### 3.1 Core recommendation
+### 3.3 Loss of selfishness as a form of “loss of self”
+- Another sense of “loss of self” in the Gita:
+  - You gradually lose **self-centeredness**—concern only for your own comfort, success, and praise.
+- Instead, you act:
+  - From duty, compassion, justice, or devotion.
+  - With an awareness that all beings share the same Atman.
 
-The Gita repeatedly recommends:
+This links:
+- **Identity**: You are not your ego or your success record.
+- **Work as meditation**: You practice focusing on the task, not your image.
+- **Detachment**: You stop letting outcomes define your worth.
 
-- **Act without attachment to the fruits (results) of action.**
-  - Do your work, fulfill your responsibilities.
-  - But do not:
-    - Make your motivation depend on reward (money, praise, status, pleasure).
-    - Be upset or crushed if you fail.
+### 3.4 “Action in inaction” and “inaction in action” (from the reading)
+- The reading says: the wise see **action in inaction and inaction in action**.
+  - **“Inaction in action”**:
+    - A person can be very active outwardly but inwardly **still and unattached**.
+    - They act without anxiety about results and without selfish craving.
+    - From the standpoint of bondage to karma, they are as if “not acting,” because their actions do not create new selfish attachments.
+  - **“Action in inaction”**:
+    - Even when physically still, a mind full of selfish planning, craving, or resentment is actively creating inner disturbance and bondage.
+- The “wise”:
+  - Act with **complete awareness**.
+  - Have **undertakings free from anxiety about results**.
+  - Are “ever satisfied,” because their peace does not depend on success or failure.
 
-A key verse (paraphrased):
+### 3.5 Practical implications for exam-style understanding
+Be able to explain and apply:
 
-> Not those who refrain from action, but those who work without expectation of reward attain the goal of meditation.
+- **What features of identity matter:**
+  - Atman and qualities that express it (wisdom, compassion, detachment) are ultimately valuable.
+  - Body, status, achievements, and ego-stories are not ultimately valuable.
 
-So the ideal is **not** inactivity, but **detached activity**.
+- **How to approach work as meditation:**
+  - Full attention, no multitasking.
+  - Recognize and combat:
+    - Split attention.
+    - Monkey mind.
+  - Avoid:
+    - Worrying about outcome.
+    - Rushing.
+  - Remember the three reasons:
+    - Step toward enlightenment / loss of ego.
+    - More enjoyable.
+    - More effective.
 
----
-
-### 3.2 What detachment from reward means
-
-**Detachment does NOT mean:**
-
-- Laziness
-- Not caring whether your work is done well
-- Ignoring moral responsibilities
-- Emotional numbness
-
-**Detachment DOES mean:**
-
-- You work because:
-  - It is your duty (your role obligations: as student, friend, family member, citizen, etc.)
-  - It serves others or contributes to something worthwhile
-  - It is an expression of your deeper self, not your ego
-- You are **not** primarily driven by:
-  - Personal gain, prestige, or comparison with others
-  - Fear of failure or desire for praise
-
-You still aim to do a good job, but you do not cling to the outcome as the source of your self-worth.
-
----
-
-### 3.3 Links to work as meditation
-
-Detachment from outcome crucially supports work as meditation:
-
-- If you’re obsessed with rewards:
-  - You keep thinking about success/failure → distraction.
-  - Anxiety about results takes over → “monkey mind.”
-- If you are detached from reward:
-  - You can give full attention to the task itself.
-  - You’re less rushed (you’re not frantically chasing the “next” thing).
-  - You experience more presence, calm, and focus.
-
-So:
-
-- **Detachment from fruits of action** → helps you **work without distraction** → leads to **greater enjoyment, effectiveness, and spiritual progress.**
-
----
-
-### 3.4 Loss of selfishness and universal concern
-
-Detachment from reward is also:
-
-- A form of **loss of self** understood as loss of **selfishness**.
-- You stop seeing your own well-being as the only or primary thing that matters.
-- You act from:
-  - Duty
-  - Compassion
-  - Commitment to a larger whole (family, community, all beings, or the divine)
-
-This fits the Gita’s message:
-
-- True spiritual growth = moving beyond ego-centered identity and ego-centered motivation.
-- You maintain your **role obligations** (e.g., as a student, you still study; as a worker, you still work), but:
-  - You do them not for ego or reward
-  - You do them as part of your path to enlightenment.
-
----
-
-### 3.5 Action vs. inaction
-
-The reading emphasizes:
-
-- The wise person:
-  - Acts in the world
-  - But is free from anxiety about results
-  - “Even while acting, they really do nothing at all”
-- Meaning:
-  - Their ego is not the driving force.
-  - Actions flow from knowledge and duty, not grasping desire.
-  - Internally, they are at rest even while externally active.
-
-This is the **ideal**:  
-Active in the world, fully engaged in work as meditation, yet inwardly detached from success, failure, praise, and blame.
+- **What detachment from reward/outcome means:**
+  - Work without expectation of reward.
+  - Don’t let success or failure determine your self-worth or peace of mind.
+  - Maintain effort and care about doing your duty, but loosen attachment to results.
+  - Understand this as a key aspect of losing the superficial self and selfishness.
